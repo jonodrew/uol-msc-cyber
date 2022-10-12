@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "8bd90a31e1e19ba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc201cfe9c4a6a7",
+        "type": "split",
+        "children": [
+          {
+            "id": "4eac1ba67c386f20",
+            "type": "leaf",
+            "dimension": 38.93630991464215,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/Everyday Cryptography/Chapter one.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52fe6bbf8710610d",
+            "type": "leaf",
+            "dimension": 61.06369008535785,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44210dd50058be1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc18e8ff38d8d58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51afba60902c8c99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7f98274e3b351f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#attackModel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26a4322439246e9d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc2b8fd156c3b5bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a00f065f268736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c353a95bb4c9571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc4c07e4e10343fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c3ac8a22eaf394f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "693eb5ee332c51b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "52fe6bbf8710610d",
+  "lastOpenFiles": [
+    "Reading/Everyday Cryptography/Chapter one.md",
+    "Key lengths and keyspaces.md",
+    "chosen-ciphertext.md",
+    "chosen-plaintext.md",
+    "known-plaintext.md",
+    "ciphertext-only.md",
+    "CYM040 - Applied cryptography/CYM040 week one.md",
+    "asymmetric.md",
+    "symmetric.md",
+    "end-to-end encryption.md"
+  ]
+}

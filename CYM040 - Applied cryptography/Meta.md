@@ -1,0 +1,1 @@
+#assessment: In Week 13 of your study session you will undertake an online timed assessment weighting 100 per cent of your final grade. The assessment questions are about applying knowledge and sometimes expressing your own opinions. An availability window for this assessment is 24 hours.

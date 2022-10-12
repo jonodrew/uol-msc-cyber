@@ -1,0 +1,1 @@
+a [[cryptographic protocol]] is an agreed sequence of messages exchanges and operations between one or more parties, with a view to achieving a security aim. They generally use a number of [[cryptographic primitive]]s at various stages

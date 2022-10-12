@@ -1,0 +1,5 @@
+*Space*, like that described in Pratchett's library or as brane-space. The potentiality of all possibilities. The [[keyspace]] is all of the potential [[decryption key]]s for a given [[cryptosystem]]. The more keys, the greater the size of the keyspace. Since the size of the keyspace could be enormous - in certain cases, arbitrarily large - we tend to discuss instead the length or the strength of a key. For example, the key `10011010` has length eight.
+
+In a [[symmetric|symmetric cryptosystem]], the length of the key determines the size of the keyspace. Given a key of length *k*, the size of the keyspace is $2^k$ , because there are two options for each letter in the key - `1` or `0`. This is not universally true: some cryptosystems disallow certain keys, and therefore reduce the size of the keyspace. It should be noted that the keyspace, like all *n*-spaces, includes many non-valuable cases. 
+
+In a [[asymmetric|public-key cryptosystem]], by contrast, the length of the [[decryption key]] only gives an indicate of the size of the keyspace.

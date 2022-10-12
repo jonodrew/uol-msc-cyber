@@ -1,0 +1,3 @@
+---
+alias: [message authentication code]
+---
