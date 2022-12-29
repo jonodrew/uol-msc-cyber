@@ -1,0 +1,1 @@
+An error that occurs during the computation of a [[ciphertext]], where a bit is incorrectly encoded.

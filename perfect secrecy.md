@@ -1,0 +1,1 @@
+A condition whereby an [[attacker]] gets no extra information from the [[ciphertext]]. That is, no quality of the [[plaintext]] can be inferred from the [[ciphertext]], other than its existence. 

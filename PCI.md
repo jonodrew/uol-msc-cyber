@@ -1,0 +1,3 @@
+---
+alias: [Payment Card Industry]
+---

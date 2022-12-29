@@ -1,0 +1,3 @@
+---
+alias: [Rivest-Shamir-Adleman]
+---

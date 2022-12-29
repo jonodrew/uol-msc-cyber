@@ -1,0 +1,3 @@
+Excess notation is another way of expressing integer values in [[binary]]. Given a length, $l$, there are $2^l$ potential combinations of binary numbers in that space. We set 0 equal to the binary number that is `1` followed by $l-1$ zeroes. All other integers are then either increments of that, or decrements.
+
+So in an 'excess eight' notation system, 4 bits are used. -8 is represented by `0000`, and then we count upwards in binary until we reach the highest possible number: 7.

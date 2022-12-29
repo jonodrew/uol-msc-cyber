@@ -1,0 +1,1 @@
+A transmission error is when one or more bit-flips occur in the communication channel.

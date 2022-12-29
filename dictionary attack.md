@@ -1,0 +1,1 @@
+An attack against an [[encryption algorithm]] whereby an [[attacker]] compiles a dictionary of known [[plaintext]]/[[ciphertext]] pairs with a specific key, or every possible ciphertext for a given [[keyspace]] and a specific, small plaintext such as "Weather report". See also: [[Enigma]]

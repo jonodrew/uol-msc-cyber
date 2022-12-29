@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "8bd90a31e1e19ba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8780746c55f63444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a8db3781f4e69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM010 - Intro to cyber sec/7. CYM010 week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc07466097eaff04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/Elementary information security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e8418778c5d45f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM040 - Applied cryptography/7. CYM040 week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2c28e8716f18c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM040 - Applied cryptography/7. CYM040 week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76fc9971cd29eef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM040 - Applied cryptography/8. CYM040 week 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56e50f6067b1d103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM040 - Applied cryptography/8. CYM040 week 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01795ad5ba7e47d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM500 - MSc project/MSc project ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48d5380849a1b3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "public-key certificate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5f0918394b1667e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wi-Fi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44210dd50058be1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc18e8ff38d8d58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51afba60902c8c99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7f98274e3b351f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "assurance of purpose",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26a4322439246e9d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dc2b8fd156c3b5bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a00f065f268736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c353a95bb4c9571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CYM500 - MSc project/MSc project ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc4c07e4e10343fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CYM500 - MSc project/MSc project ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c3ac8a22eaf394f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "693eb5ee332c51b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CYM500 - MSc project/MSc project ideas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "01795ad5ba7e47d6",
+  "lastOpenFiles": [
+    "Russia.md",
+    "CYM500 - MSc project/MSc project ideas.md",
+    "Reading/Everyday Cryptography/Everyday Cryptography.md",
+    "CYM040 - Applied cryptography/8. CYM040 week 8.md",
+    "public-key certificate.md",
+    "Wi-Fi.md",
+    "symmetric.md",
+    "Secure email.md",
+    "CYM040 - Applied cryptography/7. CYM040 week 7.md",
+    "key management system.md"
+  ]
+}

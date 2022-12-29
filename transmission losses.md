@@ -1,0 +1,1 @@
+A transmission loss is very much what it says on the tin: where a bit, or a series of bits, does not make it through the communication channel

@@ -1,0 +1,19 @@
+There are five security services. The sub categories are provided by [[X.800]]
+- [[authenticity]]
+	- peer entity authentication
+	- [[data origin authentication]]
+- [[Access control]]
+- [[confidentiality]]
+	- connection confidentiality
+	- connectionless confidentiality
+	- selective-field confidentiality
+	- traffic-flow confidentiality
+- [[data integrity]]
+	- connection integrity with recovery
+	- connection integrity without recovery
+	- selective-field connection integrity
+	- connectionless integrity
+	- selective-field connectionless integrity
+- [[non-repudiation]]
+	- origin - proof that the message was sent by the specified party
+	- destination - proof that the message was received by the specified party

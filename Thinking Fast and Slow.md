@@ -1,0 +1,3 @@
+---
+author: [[Daniel Kahneman]]
+---

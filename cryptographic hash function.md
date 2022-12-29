@@ -1,0 +1,1 @@
+A special kind of [[hash function]] designed to be more secure. They try to avoid the weakness of hash collision, where two different inputs generate the same output. 

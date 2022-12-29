@@ -1,1 +1,1 @@
-a [[cryptographic primitive]] is a process that provides a number of [[security services]]
+a [[cryptographic primitive]] is a process that provides a number of [[security service]]

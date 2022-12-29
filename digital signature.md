@@ -1,0 +1,1 @@
+A way of assuring the authenticity of a message by combining [[asymmetric|public-key cryptography]] with a [[cryptographic hash function]]. First, the [[message digest]] is generated. We then apply a series of functions using the [[decryption key|private key]], which can be verified by the [[public key]] of the sender.

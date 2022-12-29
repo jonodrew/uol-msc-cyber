@@ -1,0 +1,1 @@
+In a packet-switching network, messages travel like letters. The message is passed onto the next node, which stores it, and then forwards it to the next node. In this way each node can take advantage of small gaps in traffic. Contrast with [[circuit switching]].

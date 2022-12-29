@@ -1,0 +1,3 @@
+An approach to networking used traditionally by telephone operators, where a full circuit from sender to receiver is established before traffic is allowed to flow through the network. As an anology, it's the difference between being in a car that stops at red lights and being POTUS, where the path to the destination is designed, assured, and then cleared of other traffic.
+
+Contrast with [[packet switching]].

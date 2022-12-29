@@ -1,0 +1,1 @@
+A simple, fast [[stream cipher]] with a relatively low level of security. It is widely supported by [[SSL]], [[WEP]], and Microsoft Office

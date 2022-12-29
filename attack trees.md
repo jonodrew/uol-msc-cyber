@@ -1,0 +1,1 @@
+Attack trees are a way of describing the steps needed to exploit a [[vulnerability]]. The root node is the target. Every node except a leaf node (a node with no further branching) is either an AND node or an OR node. That is, either all of the associated subgoals need to be achieved (AND) or any of the subgoals need to be achieved (OR).

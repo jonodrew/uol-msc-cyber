@@ -1,0 +1,1 @@
+An idealised [[encryption algorithm]], which offers the quality of [[perfect secrecy]]

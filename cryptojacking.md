@@ -1,0 +1,1 @@
+An attack whereby a victim's computer is used for generating [[cryptocurrency]] without their knowledge. Access is generally by means of [[malware]]. Of course, the processing power could be used for anything, but [[cryptocurrency]] is the only thing that'll make the attacker money. This naturally slows performance, and so impacts the [[availability]] of an IT system.

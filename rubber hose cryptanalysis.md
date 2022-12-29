@@ -1,0 +1,1 @@
+A means of breaking a [[cryptosystem]] by finding someone who knows the [[encryption key]] or [[decryption key]], and then beating them with a rubber hose until they tell you.  

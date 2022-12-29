@@ -2,4 +2,4 @@
 
 In a [[symmetric|symmetric cryptosystem]], the length of the key determines the size of the keyspace. Given a key of length *k*, the size of the keyspace is $2^k$ , because there are two options for each letter in the key - `1` or `0`. This is not universally true: some cryptosystems disallow certain keys, and therefore reduce the size of the keyspace. It should be noted that the keyspace, like all *n*-spaces, includes many non-valuable cases. 
 
-In a [[asymmetric|public-key cryptosystem]], by contrast, the length of the [[decryption key]] only gives an indicate of the size of the keyspace.
+In a [[asymmetric|public-key cryptosystem]], by contrast, the length of the [[decryption key]] only gives an indicate of the size of the keyspace. This is discussed further in [[Everyday Cryptography#^075586|section 5.4.3 of Everyday Cryptography]]

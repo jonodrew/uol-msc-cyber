@@ -1,0 +1,3 @@
+The convention has 67 signatories as of 2022-10-22, including the [[US]]. It does not include [[China]] or [[Russia]]. The convention seeks to harmonize national laws, and therefore necessarily defines legality of certain things. This has caused some problems in the US, whose Supreme Court has ruled that US citizens have a right to view and produce material that appears to be a minor engaging in sexual conduct - that is, as long as no minor was harmed (for example, if the material is a cartoon), no crime is committed. This is in opposition to the convention, which uses the language of "is, or appears to be, a minor engaging in sexually explicit conduct"
+
+Further detail on [Wikipedia](https://en.wikipedia.org/wiki/Convention_on_Cybercrime) if needed

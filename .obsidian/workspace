@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "dfc201cfe9c4a6a7",
+        "id": "f2e4b798724372fe",
         "type": "split",
         "children": [
           {
-            "id": "4eac1ba67c386f20",
+            "id": "52fe6bbf8710610d",
             "type": "leaf",
-            "dimension": 38.93630991464215,
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/Everyday Cryptography/Chapter one.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "52fe6bbf8710610d",
+            "id": "ebdcd768b97a9f9e",
             "type": "leaf",
-            "dimension": 61.06369008535785,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CYM010 - Intro to cyber sec/CYM010 week two.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#attackModel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CYM010 - Intro to cyber sec/CYM010 week two.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CYM010 - Intro to cyber sec/CYM010 week two.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CYM010 - Intro to cyber sec/CYM010 week two.md"
+              }
             }
           }
         ]
@@ -141,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "52fe6bbf8710610d",
+  "active": "ebdcd768b97a9f9e",
   "lastOpenFiles": [
-    "Reading/Everyday Cryptography/Chapter one.md",
-    "Key lengths and keyspaces.md",
-    "chosen-ciphertext.md",
-    "chosen-plaintext.md",
-    "known-plaintext.md",
-    "ciphertext-only.md",
-    "CYM040 - Applied cryptography/CYM040 week one.md",
-    "asymmetric.md",
-    "symmetric.md",
-    "end-to-end encryption.md"
+    "Information Commissioner’s Office.md",
+    "CYM010 - Intro to cyber sec/CYM010 week two.md",
+    "PCI.md",
+    "industrial control system.md",
+    "Cyber security information sharing partnership.md",
+    "Centre for the Protection of National Infrastructure.md",
+    "Critical national infrastructure.md",
+    "CYM010 - Intro to cyber sec/CYM010 week one.md",
+    "Reading/Information security management principles.md",
+    "authentication.md"
   ]
 }

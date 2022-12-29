@@ -1,0 +1,7 @@
+A "vertical" is a model of some set of retailers or businesses that have common needs. For example, the "retail market vertical" is the collection of businesses we call retailers who have similar security needs.
+
+The term market vertical is used to denote a set of similar types of business; for example, it might refer to retail, or banking, or government, or critical infrastructure (energy, water, food, health), etc. By grouping businesses into‘verticals', we can analyse the needs of the vertical and produce specific products (e.g. to protect online retail, or for the banking industry, or to protect the different industries that make up the national critical infrastructure).  
+
+Verticals can also be used to denote sets of similar producers, such as anti-virus vendors, network security vendors and so on. We can categorise producers by the products and services they deliver. We will explore this more later.  
+
+The term horizontal market refers to a type of product (such as anti-virus) that can be applied across a range of market verticals. A wide range of verticals need endpoint protection using anti-virus products for desktops, laptops, mobile device and computer servers, whereas, for example, a cyber security solution for electricity substation circuit breaker protection has a narrow market.  
