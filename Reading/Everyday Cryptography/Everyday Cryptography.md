@@ -289,14 +289,31 @@ One crude approach is a trusted directory. However,
 - it would need to be accurately maintained and protected from unauthorised modification
 This is the basis (but not the whole) for a [[public-key certificate]]. You should go and read about that now
 #### Registration of public keys
-If either [[public-key certificate#Trusted third party generation|third party generation]] or [[public-key certificate#Combined generation|combined generation]] are used, the owner of the public-key pair must register with the CA before a certificate can be issued. That is, the CA must be confident in the identity of the requestor. Because this is a complex, almost certainly human-intensive process, it is common for this work to be conducted by a separate registration authority (RA), which itself may be distributed and feed into a single, centralised CA.
-A CA may demand different levels of thoroughness in the registration process, and may offer different levels of certificates that correspond. They go from a very basic "does this person's email address work" all the way up to the kind of certificate used in national identity card schemes, which might use birth certificates, passports, etc
+If either [[public-key certificate#Trusted third party generation|third party generation]] or [[public-key certificate#Combined generation|combined generation]] are used, the owner of the public-key pair must register with the [[certificate authority|CA]] before a certificate can be issued. That is, the [[certificate authority|CA]] must be confident in the identity of the requestor. Because this is a complex, almost certainly human-intensive process, it is common for this work to be conducted by a separate registration authority (RA), which itself may be distributed and feed into a single, centralised CA.
+A [[certificate authority|CA]] may demand different levels of thoroughness in the registration process, and may offer different levels of certificates that correspond. They go from a very basic "does this person's email address work" all the way up to the kind of certificate used in national identity card schemes, which might use birth certificates, passports, etc
 
 #### Proof of possession
-If a CA runs [[public-key certificate#Combined generation|combined generation]], how can it be sure that the entity submitting the public key actually knows the corresponding private key? Simply, by encrypting a message with the public key, and asking the submitter to respond with the decrypted text. If they cannot, they do not own the private key.
+If a [[certificate authority|CA]] runs [[public-key certificate#Combined generation|combined generation]], how can it be sure that the entity submitting the public key actually knows the corresponding private key? Simply, by encrypting a message with the public key, and asking the submitter to respond with the decrypted text. If they cannot, they do not own the private key.
 
 ### 11.3 [[public key]] management models
 #### 11.3.1 Choosing a CA
+- in a closed environment, there's generally no choice. Central administrative functions within an organisation are generally well-suited to ensuring this
+- in an open environment it's harder. There's commercial pressure to be excellent, obviously, but some argue that licensing is necessary
+	- the industry argues that it's not and at time of writing in the UK they have successfully won that argument
+#### 11.3.2 [[public-key certificate]] management models
+The relationship between the owner of a public key, and the [[certificate authority|CA]], is either direct (in a closed environment) or a business relationship (in an open environment). However, what about the people who rely on the CA?
+
+##### What if there were no CA at all?
+The CA-free certification model is one where the owner uses the [[public-key certificate#Self-certification|self-certification]] approach. Relying parties access the certificate directly, and then make their own determination as to whether to trust it. This is linked to the idea of the [[web of trust]]
+
+##### Reputation-based certification model
+The reputation of the CA is the only thing the relying user can use to determine whether to trust the [[public-key certificate]]. However, this reputation can be developed by the CA over time
+
+##### Closed certification model
+When the relying party has a direct relationship with the [[certificate authority]], they can trust it firmly. For example, most departments will have a dedicated authority for issuing certificates.
+
+##### Connected certification model
+
 
 
 ## Chapter twelve

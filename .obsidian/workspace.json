@@ -13,8 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM010 - Intro to cyber sec/7. CYM010 week 7.md",
+                "file": "CYM040 - Applied cryptography/8. CYM040 week 8.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18e89359e4fa3c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/Everyday Cryptography/Everyday Cryptography.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -23,84 +36,32 @@
             "id": "fc07466097eaff04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/Elementary information security.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "1e8418778c5d45f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CYM040 - Applied cryptography/7. CYM040 week 7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "a2c28e8716f18c57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CYM040 - Applied cryptography/7. CYM040 week 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76fc9971cd29eef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CYM040 - Applied cryptography/8. CYM040 week 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56e50f6067b1d103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CYM040 - Applied cryptography/8. CYM040 week 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01795ad5ba7e47d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CYM500 - MSc project/MSc project ideas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "48d5380849a1b3a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "public-key certificate.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -116,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM500 - MSc project/MSc project ideas.md",
+                "file": "Reading/Everyday Cryptography/Everyday Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM500 - MSc project/MSc project ideas.md",
+                "file": "Reading/Everyday Cryptography/Everyday Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM500 - MSc project/MSc project ideas.md"
+                "file": "Reading/Everyday Cryptography/Everyday Cryptography.md"
               }
             }
           }
@@ -243,17 +204,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01795ad5ba7e47d6",
+  "active": "18e89359e4fa3c1e",
   "lastOpenFiles": [
-    "Russia.md",
-    "CYM500 - MSc project/MSc project ideas.md",
+    "certificate authority.md",
     "Reading/Everyday Cryptography/Everyday Cryptography.md",
     "CYM040 - Applied cryptography/8. CYM040 week 8.md",
+    "Sensitive Identities Project.md",
+    "CYM500 - MSc project/MSc project ideas.md",
+    "Russia.md",
     "public-key certificate.md",
     "Wi-Fi.md",
     "symmetric.md",
-    "Secure email.md",
-    "CYM040 - Applied cryptography/7. CYM040 week 7.md",
-    "key management system.md"
+    "Secure email.md"
   ]
 }
