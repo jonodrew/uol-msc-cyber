@@ -269,6 +269,8 @@ Key changes are really fucking difficult. At the highest level, we will need to 
 
 #### 10.6.3 Key activation
 
+## Chapter 11:  [[public key]] management
+
 ### 11.1 Certification of [[public key]] 
 - the main challenge for managing public keys is providing "assurance of purpose"
 - the most popular mechanism for doing this is the [[public-key certificate]]
@@ -313,6 +315,10 @@ The reputation of the CA is the only thing the relying user can use to determine
 When the relying party has a direct relationship with the [[certificate authority]], they can trust it firmly. For example, most departments will have a dedicated authority for issuing certificates.
 
 ##### Connected certification model
+The 'friend of a friend' model. The relying party has a relationship with some trusted third party, which in turn has a relationship with the [[certificate authority|CA]]. This third party's role is to validate the data in the owner's [[public-key certificate]]. In this model, the relying party essentially delegates the task of validating a public-key certificate to another party - this 'validation authority'
+
+#### 11.3.3: Joining [[certificate authority|CA]] domains
+
 
 
 
