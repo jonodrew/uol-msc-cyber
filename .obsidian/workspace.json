@@ -4,73 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8780746c55f63444",
+        "id": "b09929002eea8c02",
         "type": "tabs",
         "children": [
           {
-            "id": "86a8db3781f4e69d",
+            "id": "52fe6bbf8710610d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0e5f831a57e94bf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM040 - Applied cryptography/8. CYM040 week 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18e89359e4fa3c1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/Everyday Cryptography/Everyday Cryptography.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc07466097eaff04",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1e8418778c5d45f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2c28e8716f18c57",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "48d5380849a1b3a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5f0918394b1667e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wi-Fi.md",
+                "file": "CYM040 - Applied cryptography/9. CYM040 week 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,13 +59,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "assurance of purpose",
+                "query": "project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "b84df03f9ca4c7e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -143,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Everyday Cryptography/Everyday Cryptography.md",
+                "file": "CYM040 - Applied cryptography/9. CYM040 week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Everyday Cryptography/Everyday Cryptography.md",
+                "file": "CYM040 - Applied cryptography/9. CYM040 week 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Everyday Cryptography/Everyday Cryptography.md"
+                "file": "CYM040 - Applied cryptography/9. CYM040 week 9.md"
               }
             }
           }
@@ -204,17 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18e89359e4fa3c1e",
+  "active": "0e5f831a57e94bf1",
   "lastOpenFiles": [
     "CYM040 - Applied cryptography/8. CYM040 week 8.md",
-    "Reading/Everyday Cryptography/Everyday Cryptography.md",
-    "certificate authority.md",
-    "Sensitive Identities Project.md",
-    "CYM500 - MSc project/MSc project ideas.md",
-    "Russia.md",
     "public-key certificate.md",
-    "Wi-Fi.md",
-    "symmetric.md",
-    "Secure email.md"
+    "Reading/Everyday Cryptography/Everyday Cryptography.md",
+    "Belgian eID.md",
+    "CYM010 - Intro to cyber sec/8. CYM010 week 8.md",
+    "CYM010 - Intro to cyber sec/9. CYM010 week 9.md",
+    "README.md",
+    "README.md.md",
+    "Feistel cipher.md",
+    "Reading/Elementary information security.md"
   ]
 }

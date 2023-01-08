@@ -297,6 +297,20 @@ A [[certificate authority|CA]] may demand different levels of thoroughness in th
 #### Proof of possession
 If a [[certificate authority|CA]] runs [[public-key certificate#Combined generation|combined generation]], how can it be sure that the entity submitting the public key actually knows the corresponding private key? Simply, by encrypting a message with the public key, and asking the submitter to respond with the decrypted text. If they cannot, they do not own the private key.
 
+### 11.2.3 key-pair change
+#### Revocation of [[public-key certificate]]
+Once a thing is published, it's impossible to un-publish it. So what can we do instead? We have to publish the fact that we have revoked it. Like a burn notice.
+
+##### Certificate revocation list (CRL)
+A database is maintained of all the serial numbers of all the certificates which have been revoked, called a certificate revocation list (CRL). A CRL needs to be carefully maintained, and is generally the responsibility of the CA that issued the original certificate.
+
+##### Online Certificate Status Protocol (OCSP)
+The opposite to the above: a database of valid certificates. This is standardised in RFC 2560.
+
+##### Rapid expiration
+If the certificate expires every five minutes, it would be real hard to use an invalid one. This is, however, very bloody expensive.
+
+
 ### 11.3 [[public key]] management models
 #### 11.3.1 Choosing a CA
 - in a closed environment, there's generally no choice. Central administrative functions within an organisation are generally well-suited to ensuring this
@@ -318,7 +332,16 @@ When the relying party has a direct relationship with the [[certificate authorit
 The 'friend of a friend' model. The relying party has a relationship with some trusted third party, which in turn has a relationship with the [[certificate authority|CA]]. This third party's role is to validate the data in the owner's [[public-key certificate]]. In this model, the relying party essentially delegates the task of validating a public-key certificate to another party - this 'validation authority'
 
 #### 11.3.3: Joining [[certificate authority|CA]] domains
+It's worth noting that this is a messy and quite complex process. Verifying a [[public-key certificate]] requires a user to:
+1. Verify the signature on the public-key certificate
+2. check all the fields in certificate
+3. _and_ check whether the certificate has been revoked (although actually maybe do that first)
 
+##### Cross-certification
+The transitive property of trust means that (in theory) if Bob trusts his [[certificate authority|CA]], and his CA trusts Alice's CA, then Bob should be able to trust Alice's CA.
+
+##### Certification hierarchy
+If Bob trusts his CA, and his CA trusts the root CA (whoever that is), and the root CA has vouched for Alice's CA, then Bob should be able to trust Alice's CA.
 
 
 
@@ -326,3 +349,6 @@ The 'friend of a friend' model. The relying party has a relationship with some t
 We secure the [[Internet]] with [[Transport Layer Security|TLS]]
 
 Whomst the fuck is [[Diffie-Hellman]]?
+
+### 12.6 [[cryptography]] for [[identity cards]]
+Specifically, for the [[Belgian eID]] scheme
