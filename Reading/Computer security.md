@@ -91,5 +91,11 @@ Created from londonww on 2023-01-09 11:13:39.
 	- core dump: programmers want to be helpful and so when a computer crashes it vomits out its internals to help with debugging. Unfortunately, some mischevious person might try to intentionally crash a system, so that they can look through the internals. Naughty!
 ### 3.6 THE LAYER ABOVE
 - Seriously loving the ominous titles here lads
+- A really...interesting point here. Gonna quote it for later
+>[!quote] it is neither necessary nor sufﬁcient to have a secure infrastructure, be it an operating system or a communications network, to secure an application.  
+Gollmann, Dieter. _Computer Security_, Wiley Textbooks, 2011. _ProQuest Ebook Central_, http://ebookcentral.proquest.com/lib/londonww/detail.action?docID=819182.  
+Created from londonww on 2023-01-09 12:33:00.
+
+Erm. Really?
 
 ## Chapter 14: [[cryptography]]
