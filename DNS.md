@@ -1,0 +1,3 @@
+---
+alias: [Domain Name System]
+---

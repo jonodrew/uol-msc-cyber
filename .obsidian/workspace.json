@@ -18,19 +18,43 @@
             }
           },
           {
-            "id": "0e5f831a57e94bf1",
+            "id": "f4b2d82fba00a2ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM040 - Applied cryptography/9. CYM040 week 9.md",
+                "file": "CYM050 - Network and Infrastructure Security/Week 08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2970180d8117ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM050 - Network and Infrastructure Security/Week 09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d67bbff711d46eca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM050 - Network and Infrastructure Security/Week 10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -59,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "project",
+                "query": "dns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM040 - Applied cryptography/9. CYM040 week 9.md",
+                "file": "CYM050 - Network and Infrastructure Security/Week 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM040 - Applied cryptography/9. CYM040 week 9.md",
+                "file": "CYM050 - Network and Infrastructure Security/Week 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM040 - Applied cryptography/9. CYM040 week 9.md"
+                "file": "CYM050 - Network and Infrastructure Security/Week 10.md"
               }
             }
           }
@@ -165,17 +189,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e5f831a57e94bf1",
+  "active": "d67bbff711d46eca",
   "lastOpenFiles": [
-    "CYM040 - Applied cryptography/8. CYM040 week 8.md",
-    "public-key certificate.md",
-    "Reading/Everyday Cryptography/Everyday Cryptography.md",
-    "Belgian eID.md",
-    "CYM010 - Intro to cyber sec/8. CYM010 week 8.md",
-    "CYM010 - Intro to cyber sec/9. CYM010 week 9.md",
-    "README.md",
-    "README.md.md",
-    "Feistel cipher.md",
-    "Reading/Elementary information security.md"
+    "CYM050 - Network and Infrastructure Security/Week 09.md",
+    "CYM050 - Network and Infrastructure Security/Week 08.md",
+    "CYM050 - Network and Infrastructure Security/Week 05.md",
+    "CYM050 - Network and Infrastructure Security/Week 06.md",
+    "CYM050 - Network and Infrastructure Security/Week 07.md",
+    "CYM010 - Intro to cyber sec/6. CYM010 week 6.md",
+    "DNS.md",
+    "CYM050 - Network and Infrastructure Security/Week 01.md",
+    "CYM050 - Network and Infrastructure Security/Week 02.md",
+    "CYM050 - Network and Infrastructure Security/Week 03.md"
   ]
 }

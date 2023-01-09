@@ -1,0 +1,3 @@
+- Analyse network traffic
+- Describe how applications can communicate with each other over a network
+- Describe how networks managed by different entities can be combined to a large global-scale [[Internet]]
