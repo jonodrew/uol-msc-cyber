@@ -61,7 +61,7 @@ First rule of crypto club is that you don't talk about codes, because nobody kno
 ### [[steganography]], my favourite dinosaur
 Steganography is the study of information hiding. That is, the aim is to transfer a plaintext from a sender to a receiver in such a way that only the receiver can retrieve the plaintext, because only the receiver knows the plaintext exists in the first place. For example, [Herodotus' tale of a message being tattooed on a slave's scalp](https://en.wikipedia.org/wiki/Histiaeus#Ionian_revolt_(499-494_BC). This differs from [[cryptography]], where the encrypted data can be shown to an interceptor. When using steganography, an interceptor should be unaware that any message is being passed at all.
 
-### [[Access control]]
+### [[access control]]
 This is a major topic in its own right, and likely one that we'll return to in other parts of this course. For now, it's enough to say that access control is another mechanism, usually applied at the [[Application Layer|application layer]]. It should be used alongside [[encryption]] - the so-called [[Swiss Cheese model]] model of security - to protect data.
 
 ### Two types of [[cryptosystem]]

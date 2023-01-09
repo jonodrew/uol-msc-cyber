@@ -2,7 +2,7 @@ There are five security services. The sub categories are provided by [[X.800]]
 - [[authenticity]]
 	- peer entity authentication
 	- [[data origin authentication]]
-- [[Access control]]
+- [[access control]]
 - [[confidentiality]]
 	- connection confidentiality
 	- connectionless confidentiality
