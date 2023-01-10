@@ -18,19 +18,7 @@
             }
           },
           {
-            "id": "c862be63b8fddaff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading/Computer security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f946682f4b2b00e",
+            "id": "d67bbff711d46eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,19 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d67bbff711d46eca",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CYM060 - Computer Systems Security/key-concepts.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dns",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,17 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f946682f4b2b00e",
+  "active": "d67bbff711d46eca",
   "lastOpenFiles": [
-    "CYM060 - Computer Systems Security/key-concepts.pdf",
+    "CYM060 - Computer Systems Security%2Fcym060_week01_A_brief_history_of_computer_systems.pdf.md",
     "CYM060 - Computer Systems Security/Week 01.md",
+    "CYM060 - Computer Systems Security/Week 02.md",
+    "CYM050 - Network and Infrastructure Security/Week 01.md",
     "Reading/Computer security.md",
-    "integrity.md",
-    "authentication.md",
-    "CYM060 - Computer Systems Security/Week 06.md",
-    "CYM060 - Computer Systems Security/Week 05.md",
-    "access control.md",
-    "CYM060 - Computer Systems Security/Week 04.md",
-    "CYM060 - Computer Systems Security/Week 03.md"
+    "open?vault=uol-msc-cyber&file=CYM060 - Computer Systems Security%2Fcym060_week01_A_brief_history_of_computer_systems.pdf.md",
+    "CYM010 - Intro to cyber sec/5. CYM010 week 5.md",
+    "CYM010 - Intro to cyber sec/4. CYM010 week 4.md",
+    "application filtering.md",
+    "CYM010 - Intro to cyber sec/8. CYM010 week 8.md"
   ]
 }

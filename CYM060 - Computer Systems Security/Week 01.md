@@ -82,3 +82,7 @@ What are the differences between:
     
 
 **Outcome**: you should now have a significantly more nuanced understanding of key terms related to computer system security.
+
+## Lesson 3
+A lot of uninteresting history. It's worth reviewing the 
+[[cym060_week01_A_brief_history_of_computer_systems.pdf|brief history]]
