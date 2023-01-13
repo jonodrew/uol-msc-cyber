@@ -23,14 +23,91 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM060 - Computer Systems Security/Week 01.md",
+                "file": "CYM050 - Network and Infrastructure Security/Week 01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c827a6dbd14bd5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM010 - Intro to cyber sec/3. CYM010 week 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a30e18f5e930035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM040 - Applied cryptography/7. CYM040 week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0b9abe02cdda2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM050 - Network and Infrastructure Security/Week 01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "28fc14971cceac1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bd0c1ffc25732ac",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CYM050 - Network and Infrastructure Security/Week 01.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9999999999999989,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"key management\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dc2b8fd156c3b5bb",
@@ -104,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM060 - Computer Systems Security/Week 01.md",
+                "file": "CYM050 - Network and Infrastructure Security/Week 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM060 - Computer Systems Security/Week 01.md",
+                "file": "CYM050 - Network and Infrastructure Security/Week 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM060 - Computer Systems Security/Week 01.md"
+                "file": "CYM050 - Network and Infrastructure Security/Week 01.md"
               }
             }
           }
@@ -165,17 +243,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d67bbff711d46eca",
+  "active": "5bd0c1ffc25732ac",
   "lastOpenFiles": [
-    "CYM060 - Computer Systems Security%2Fcym060_week01_A_brief_history_of_computer_systems.pdf.md",
-    "CYM060 - Computer Systems Security/Week 01.md",
-    "CYM060 - Computer Systems Security/Week 02.md",
+    "Reading/Computer networks.md",
     "CYM050 - Network and Infrastructure Security/Week 01.md",
-    "Reading/Computer security.md",
-    "open?vault=uol-msc-cyber&file=CYM060 - Computer Systems Security%2Fcym060_week01_A_brief_history_of_computer_systems.pdf.md",
-    "CYM010 - Intro to cyber sec/5. CYM010 week 5.md",
-    "CYM010 - Intro to cyber sec/4. CYM010 week 4.md",
-    "application filtering.md",
-    "CYM010 - Intro to cyber sec/8. CYM010 week 8.md"
+    "CYM040 - Applied cryptography/7. CYM040 week 7.md",
+    "CYM010 - Intro to cyber sec/8. CYM010 week 8.md",
+    "cryptography.md",
+    "threat model.md",
+    "CYM040 - Applied cryptography/8. CYM040 week 8.md",
+    "CYM010 - Intro to cyber sec/3. CYM010 week 3.md",
+    "Reading/Everyday Cryptography/Everyday Cryptography.md",
+    "key management system.md"
   ]
 }

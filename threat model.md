@@ -1,0 +1,1 @@
+A threat model incorporates an [[attacker]], as well as their tactics, techniques, and procedures (TTP_)
