@@ -4,76 +4,100 @@
     "type": "split",
     "children": [
       {
-        "id": "b09929002eea8c02",
+        "id": "8780746c55f63444",
         "type": "tabs",
         "children": [
           {
-            "id": "52fe6bbf8710610d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "d67bbff711d46eca",
+            "id": "86a8db3781f4e69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM050 - Network and Infrastructure Security/Week 01.md",
+                "file": "CYM040 - Applied cryptography/8. CYM040 week 8.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c827a6dbd14bd5b",
+            "id": "18e89359e4fa3c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM010 - Intro to cyber sec/3. CYM010 week 3.md",
+                "file": "CYM060 - Computer systems security/Week 02.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
+            },
+            "group": "6a4be0acf2288b82"
+          },
+          {
+            "id": "fc07466097eaff04",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "5a30e18f5e930035",
+            "id": "1e8418778c5d45f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2c28e8716f18c57",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "48d5380849a1b3a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5f0918394b1667e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM060 - Computer Systems Security/Week 02.md",
+                "file": "Wi-Fi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "28fc14971cceac1f",
+        "id": "bceb69660fd81eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "5bd0c1ffc25732ac",
+            "id": "57e6f30f5263b932",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CYM060 - Computer Systems Security/Week 02.md",
+                "file": "CYM060 - Computer systems security/Week 02.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -89,11 +113,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6989606412938234,
-                  "close": true
+                  "scale": 1,
+                  "close": false
                 }
               }
-            }
+            },
+            "group": "6a4be0acf2288b82"
           }
         ]
       }
@@ -124,21 +149,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"key management\"",
+                "query": "assurance of purpose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "b84df03f9ca4c7e4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -169,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM060 - Computer Systems Security/Week 02.md",
+                "file": "CYM060 - Computer systems security/Week 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM060 - Computer Systems Security/Week 02.md",
+                "file": "CYM060 - Computer systems security/Week 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM060 - Computer Systems Security/Week 02.md"
+                "file": "CYM060 - Computer systems security/Week 02.md"
               }
             }
           }
@@ -230,17 +247,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a30e18f5e930035",
+  "active": "18e89359e4fa3c1e",
   "lastOpenFiles": [
-    "Reading/Computer security.md",
-    "vulnerability.md",
-    "Common Vulnerability Scoring System.md",
-    "attack.md",
-    "DREAD.md",
-    "threat.md",
-    "STRIDE.md",
-    "attack trees.md",
-    "asset.md",
-    "PCI DSS.md"
+    "CYM050 - Network and infrastructure security/Week 02.md",
+    "CYM040 - Applied cryptography/2. CYM040 week 2.md",
+    "CYM040 - Applied cryptography/1. CYM040 week 1.md",
+    "Reading/Everyday Cryptography/Everyday Cryptography.md",
+    "CYM040 - Applied cryptography/8. CYM040 week 8.md",
+    "certificate authority.md",
+    "Sensitive Identities Project.md",
+    "CYM500 - MSc project/MSc project ideas.md",
+    "Russia.md",
+    "public-key certificate.md"
   ]
 }
