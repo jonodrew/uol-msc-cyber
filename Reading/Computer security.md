@@ -30,6 +30,37 @@ Author: [[Dieter Gollman]]
 	- well, not the entire world. See [[China]]
 - this has increased the number of vulnerable applications, and the ways in which the public's data can be stolen, by a factor of several million. Hooray!
 
+## Chapter 2: Managing security
+- Security is hard
+- people are important
+### 2.2: Measuring security
+- We can establish a "security measurement", which is either quantitative or qualitative.
+	- Quantitative measures might be things like "number of ports open" or "is the machine patched to the most recent version?"
+	- Qualitative measures are fuzzier and might include ideas like "company reputation" or "employee opinion of the security team"
+- we can then try to compare these measures with the values we recorded the previous time, and see if we've "improved"
+	- "improved" is sort of a tricky thing again - if the business has grown and we're employing more developers, who are generating more bugs, are we less secure? Or more secure because we have better financials?
+- Some branches of some industries have banded together and come up with standards, such as the [[PCI DSS]]. There are also standards like [[ISO 27001]]. 
+### 2.3: [[risk]] and [[threat analysis]]
+- "hazard risks" are damaging events, while "opportunity risks" are events that may be positive
+- there's a disaster of a diagram here that identifies a product lifecycle as "design --> implement --> operate" which I thought we did away with in like...1991
+- it is important to know what [[asset|assets]] you are defending before you try defending them
+>[!quote] Identification of assets should be a relatively straightforward systematic exercise
+	- gods bless academics
+- we now turn to [[threat|threats]]
+- then to [[vulnerability|vulnerabilities]]
+- and then to [[attack|attacks]]
+
+#### Measuring risk
+Now that we've accurately measured our assets, threats, and vulnerabilities all we need to do is multiply them together (with likelihood) to get our risk. 
+
+Hah, nope. All of our inputs are garbage. And as they say: GIGO.
+
+We can try applying quantitative risk, using probability theory or even [fuzzy theory](https://en.wikipedia.org/wiki/Fuzzy_logic). However, because we lack precision in our inputs, the answers may be off. Way off.
+
+There is a qualitiative approach too, where we rate things on a ten/five/three/seven/whatever point scale, and then map those across to numbers. [[Common Vulnerability Scoring System|CVSS]] and [[DREAD]] both use this approach.
+
+Once we've measured risk, in theory we should have a prioritised list of things to manage. Conducting a full risk analysis seems like a great idea, but must be done quickly: the world, and the system, will keep changing. Even the analysis itself is subject to change, particularly if human beings are doing the analysis. Criteria start to drift, and people leave midway through.
+
 ## Chapter 3: Foundations of computer security
 ### 3.1 definitions
 Nothing new here, so there are no notes
