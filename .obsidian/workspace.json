@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM040 - Applied cryptography/8. CYM040 week 8.md",
+                "file": "Ethernet.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,72 +25,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 02.md",
+                "file": "CYM050 - Network and infrastructure security/Week 02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "6a4be0acf2288b82"
-          },
-          {
-            "id": "fc07466097eaff04",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
-            "id": "1e8418778c5d45f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a2c28e8716f18c57",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "48d5380849a1b3a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5f0918394b1667e",
+            "id": "c031507c52ab39d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wi-Fi.md",
+                "file": "Reading/Computer networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c032f6f82730f7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internet Protocol.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "bceb69660fd81eb6",
+        "id": "88fb482ebc6c9e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "57e6f30f5263b932",
+            "id": "21ce22d1302806c9",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 02.md",
+                "file": "Reading/Computer networks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,8 +96,7 @@
                   "close": false
                 }
               }
-            },
-            "group": "6a4be0acf2288b82"
+            }
           }
         ]
       }
@@ -149,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "assurance of purpose",
+                "query": "ethernet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +144,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 02.md",
+                "file": "Reading/Computer networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 02.md",
+                "file": "Reading/Computer networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 02.md"
+                "file": "Reading/Computer networks.md"
               }
             }
           }
@@ -247,17 +226,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18e89359e4fa3c1e",
+  "active": "c031507c52ab39d3",
   "lastOpenFiles": [
+    "Internet Protocol.md",
+    "Reading/Computer networks.md",
     "CYM050 - Network and infrastructure security/Week 02.md",
-    "CYM040 - Applied cryptography/2. CYM040 week 2.md",
-    "CYM040 - Applied cryptography/1. CYM040 week 1.md",
-    "Reading/Everyday Cryptography/Everyday Cryptography.md",
+    "Common Vulnerability Scoring System.md",
+    "Ethernet.md",
+    "MAC address.md",
     "CYM040 - Applied cryptography/8. CYM040 week 8.md",
-    "certificate authority.md",
-    "Sensitive Identities Project.md",
-    "CYM500 - MSc project/MSc project ideas.md",
-    "Russia.md",
-    "public-key certificate.md"
+    "CYM060 - Computer systems security/Week 02.md",
+    "Reading/Computer security.md",
+    "CYM040 - Applied cryptography/2. CYM040 week 2.md"
   ]
 }

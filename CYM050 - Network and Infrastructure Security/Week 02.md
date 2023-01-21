@@ -2,6 +2,11 @@
 - Demonstrate in practice that networks are insecure by default
 - Describe the concept of basic attacks like spoofing
 - Explain how data packets are transferred and how receiver and sender can be identified
+## Reading
+- 4.3 to 4.3.2 in [[Computer networks]]
+- Also 5.6 to 5.6.2, up to CIDR
+- 5.6.3 up to 'Extension Headers'
+- 5.6.4, ARP
 ## Lesson 1: the [[data link layer]]
 - this layer takes care of transferring bits from one device to another. The actual physical mechanics of it are abstracted: it could just as easily be beads on an abacus as pulses of light in a fire-optic cable.
 - Let's take as an example [[Ethernet]]
@@ -19,3 +24,4 @@
 	- the [[attacker]] might send frames with a MAC address that doesn't actually exist on the network. This will result in the entire network being flooded. If they keep doing this, the entire network will become congested
 	- alternatively, the attacker could conduct a [[Denial of Service|DOS]] attack by sending overwhelming numbers of frames to one specific link
 	- finally, there is a risk that two switch ports are connected to each other. This will create a feedback loop where the switch sends frames to itself endlessly
+## Lesson 2: the [[Internet Protocol]]

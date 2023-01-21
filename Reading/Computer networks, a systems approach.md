@@ -7,7 +7,7 @@ This book can be found on the web at https://book.systemsapproach.org/foundation
 - A set of nodes, connected, are a network
 - Networks can be networked, but
 - How do you reliably send data across such a network without packets being blocked by each other? There are two answers: [[circuit switching]] and [[packet switching]].
-- A network of networks is an internetwork, or internet for short. This is not the same as the internetwork that uses [[Transmission Control Protocol|TCP]]/[[IP]], which in common parlance is called the Internet.
+- A network of networks is an internetwork, or internet for short. This is not the same as the internetwork that uses [[Transmission Control Protocol|TCP]]/[[Internet Protocol]], which in common parlance is called the Internet.
 >[!quote]
 >I'd just like to interject for a moment. What you're referring to as 'the Internet', is in fact, the TCP/IP internetwork, or as I've recently taken to calling it, internetworking over TCP/IP.
 - with a network of networks now connected, we must face the same problem we face in all such communication environments: how do we identify which node of the network we want to communicate with?
