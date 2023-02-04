@@ -1,0 +1,1 @@
+The hardware, [[software]], and firmware elements of a [[trusted computing base]]. It should implement the [[reference monitor]] concept. In doing so it should mediate all accesses and be resistant to modification, and be verifiable as correct.

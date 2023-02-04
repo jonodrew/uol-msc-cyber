@@ -79,7 +79,6 @@ What are the differences between:
 -   a virus and a worm?
 	- RNA/DNA
 -   optional: challenge yourself to come up with three of your own related terms here.
-    
 
 **Outcome**: you should now have a significantly more nuanced understanding of key terms related to computer system security.
 

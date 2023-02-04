@@ -1,0 +1,1 @@
+An [[operating system]] produced by [[Microsoft]]. The most common in the world, at least for consumers.

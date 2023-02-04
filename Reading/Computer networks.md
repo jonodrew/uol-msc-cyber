@@ -25,3 +25,12 @@ These networks communciate via the [[Internet Protocol]]. Broadly, it works as f
 - IP routers forward the packet through the internet, from one router to the next, until the destination is reached
 - at the destination the network layer reconstructs the original data stream, and then passes the data up to the transport layer
 - the transport layer passes the data to the appropriate process
+- there are also Internet Control Protocols:
+	- [[Internet Message Control Protocol]]
+	- [[Dynamic Host Configuration Protocol]]
+	- [[Adress Resolution Protocol]] for IPv4, [[NDP]] for IPv6
+
+### Routing protocols for the [[Internet]]
+The Internet, as we know, is a network of networks. Each network is autonomous and can use its own algorithm for internal routing - like a country's postal service. Equally therefore there needs to be a standardised way of routing packets between networks. The inter-domain protocol used on the Internet is [[Border Gateway Protocol]]. The most common intradomain routing protocol is called [[Open Shortest Path First]].  
+
+### 6.1 the [[Transport Layer]]

@@ -129,4 +129,10 @@ Created from londonww on 2023-01-09 12:33:00.
 
 Erm. Really?
 
+## Chapter 6: [[reference monitor]]
+
+## Chapter 7: [[Unix]] security
+
+## Chapter 8: [[Windows]] security
+
 ## Chapter 14: [[cryptography]]

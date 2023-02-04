@@ -1,0 +1,5 @@
+An IPv4 address is a 32-bit address. It addresses a network interface on a host, and not the host itself - so a host that's on more than one network should have multiple IP addresses.
+
+An IP address consists of a variable-length network portion and a host portion. The network portion has the same value for all hosts on that [[network]] or, to put it another way, a network is a contiguous area of the IP address space.
+
+An IP address consists of a prefix and a host address. If the prefix has a length of $L$ bits, then the host addresses can occupy $32-L$ bits. A prefix is written as the lowest address in the block and the size of the block. The size of the block can be written with a slash, so for example 128.208.0.132/24 means that the network portion of the IP address is 24 bits (3 bytes) long. Once the packet has been routed to the network 128.208.0, it should then be directed to the host with the unique ID 132

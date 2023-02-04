@@ -1,0 +1,1 @@
+an address for routing a [[packet]] via the [[Internet Protocol]]. Addresses come in two flavours: [[IPv4 address|v4]] and [[IPv6 address|v6]]

@@ -25,3 +25,5 @@
 	- alternatively, the attacker could conduct a [[Denial of Service|DOS]] attack by sending overwhelming numbers of frames to one specific link
 	- finally, there is a risk that two switch ports are connected to each other. This will create a feedback loop where the switch sends frames to itself endlessly
 ## Lesson 2: the [[Internet Protocol]]
+- how do we connect different [[Internet Protocol]] networks?
+- 
