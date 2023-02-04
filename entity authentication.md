@@ -1,0 +1,1 @@
+The process of verifying the [[identity]] claimed by some system entity

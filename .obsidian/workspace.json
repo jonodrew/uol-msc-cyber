@@ -4,107 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "8780746c55f63444",
+        "id": "b09929002eea8c02",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf0f07b59612b44",
+            "id": "52fe6bbf8710610d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "d67bbff711d46eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM050 - Network and infrastructure security/Week 03.md",
+                "file": "CYM050 - Network and Infrastructure Security/Week 01.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "550b3881f62f23fc",
+            "id": "2c827a6dbd14bd5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Computer networks.md",
+                "file": "CYM010 - Intro to cyber sec/3. CYM010 week 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "26a49233adcd336c",
+            "id": "5a30e18f5e930035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPv4 address.md",
+                "file": "CYM060 - Computer Systems Security/Week 04.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43e7f1e7fe1b23c5",
+            "id": "74aa41e5494721dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transport Layer.md",
+                "file": "Reading/Computer security.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "94584c9504072cc4",
+            "id": "f3fd57aa6d404072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transmission Control Protocol.md",
+                "file": "password.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "040fe6995d4091e5",
+            "id": "75d5970b0f74b200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5af2de56c3f33046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internet Message Control Protocol.md",
+                "file": "Reading/Computer security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
-        "id": "88fb482ebc6c9e5e",
+        "id": "28fc14971cceac1f",
         "type": "tabs",
         "children": [
           {
-            "id": "21ce22d1302806c9",
+            "id": "5bd0c1ffc25732ac",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IPv4 address.md",
+                "file": "Reading/Computer security.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,8 +125,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.809306320187682,
-                  "close": false
+                  "scale": 0.6989606412938234,
+                  "close": true
                 }
               }
             }
@@ -162,13 +160,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ip address",
+                "query": "goll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "b84df03f9ca4c7e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -179,7 +185,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPv4 address.md",
+                "file": "Reading/Computer security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPv4 address.md",
+                "file": "Reading/Computer security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IPv4 address.md"
+                "file": "Reading/Computer security.md"
               }
             }
           }
@@ -260,17 +267,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26a49233adcd336c",
+  "active": "74aa41e5494721dc",
   "lastOpenFiles": [
-    "Internet Protocol.md",
-    "Dynamic Host Configuration Protocol.md",
-    "Reading/Computer networks.md",
-    "Transport Layer.md",
-    "Transmission Control Protocol.md",
-    "UDP.md",
-    "Internet Message Control Protocol.md",
-    "CYM050 - Network and infrastructure security/Week 03.md",
-    "reference monitor.md",
-    "security kernel.md"
+    "password.md",
+    "attacker.md",
+    "Reading/Computer security.md",
+    "entity authentication.md",
+    "authentication.md",
+    "CYM060 - Computer Systems Security/Week 04.md",
+    "biometrics.md",
+    "CYM060 - Computer Systems Security/Week 03.md",
+    "memory protection.md",
+    "roles-based access control.md"
   ]
 }

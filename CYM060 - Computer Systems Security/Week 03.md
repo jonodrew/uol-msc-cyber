@@ -5,4 +5,8 @@
 
 ## Reading
 - chapters 6, 7, 8 in [[Computer security]]
-- 
+## Lesson 2
+- a video about [[Shodan]]
+## Lesson 3:
+- [[memory protection]]
+- [[protection rings]]

@@ -1,0 +1,1 @@
+Memory protection is a critical security feature in an [[operating system]]. 

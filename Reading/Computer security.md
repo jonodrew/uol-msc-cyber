@@ -129,6 +129,13 @@ Created from londonww on 2023-01-09 12:33:00.
 
 Erm. Really?
 
+## Chapter 4: [[identification]] and [[authentication]]
+### 4.1: username and password
+- Identification is here described as the action the user takes: the identify themselves as Alice
+- authentication here is explicitly described as the same thing as [[entity authentication]]
+- so let's start with the basics: a thing the user knows. A [[password]]
+- 
+
 ## Chapter 6: [[reference monitor]]
 
 ## Chapter 7: [[Unix]] security
