@@ -9,4 +9,4 @@ A UDP header consists of:
 
 UDP is generally used for one-off messages: the port is opened, the message is sent, and the port is closed again. However, in order to receive such a message, the receiver must already have a port open and waiting. If the port described in the header is not open on the received, the message is dropped, and an [[Internet Message Control Protocol|IMCP]] ERROR message is sent back to the sender.
 
-UDP also has no concept of related messages, and such a mechanism has to be implemented by the sender.
+UDP also has no concept of related messages, and such a mechanism has to be implemented by the sender. It is a very simple mechanism. As such, it's a good fit for [[DNS]] requests.
