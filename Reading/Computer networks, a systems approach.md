@@ -34,3 +34,18 @@ Computers barely know how to talk to each other, and don't agree on some of the 
 #### 7.1.1 Taxonomy
 So suppose a computer wants to send some stuff over a network. The stuff may comprise of data types, flat types, and complex types. All of this has to be serialized into a form that can be transmitted over the network, in the same way that thoughts, experiences, etc need to be flattened and hammered into 52 letters (in English) with a smattering of grammar and punctuation, only to be deserialized back into a tsunami of Feeling at the other end.
 Remember that all of these have their intricacies. Big/little endian is a problem for `int` data types, but flat types like arrays need to be packed and unpacked. Complex data types, like trees, which contain pointers, are even trickier. A pointer on my machine will almost certainly not point to the same data on your machine.
+
+## 9: Applications
+We need them
+
+### 9.1: Traditional applications
+Let's get cracking with the [[World Wide Web]] and [[email]]. The classics. The OGs.
+
+First, we need to be differentiate protocols from programs. For example, the [[HyperText Transport Protocol]]  is an application protocol used to retrieve documents from remote servers. Any application can implement that protocol for itself, and applications like Firefox, Internet Explorer, Chrome, and Safari all do so. The same is true of the [[Simple Mail Transfer Protocol]], which is used by mail clients. (Although other mail protocols are now available: [[Internet Message Access Protocol]] and [[Post Office Protocol]])
+
+>[!question]
+>What's happening when a web application like Firefox opens your GMail?
+
+SMTP is the protocol, but they generally come packaged with a standard: for example, [[RFC]] 822 and the [[Multipurpose Internet Mail Extensions]] standards define the format of email messages.
+
+#### 9.1.2: the [[World Wide Web]]

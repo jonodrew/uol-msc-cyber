@@ -1,0 +1,5 @@
+---
+alias: [IMAP]
+tags:
+- protocol
+---

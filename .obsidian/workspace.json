@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "385f937230317763",
+            "id": "165bec4f1b7b228a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,67 +30,55 @@
             }
           },
           {
-            "id": "a4aa2ceee0d61d26",
+            "id": "53dbd3e56026bf0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Computer networks.md",
+                "file": "Reading/Computer networks, a systems approach.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "165bec4f1b7b228a",
+            "id": "7352159b946bc2f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transmission Control Protocol.md",
+                "file": "World Wide Web.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d25ae4b4818591d5",
+            "id": "27bd787e70e7b1dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transport Layer.md",
+                "file": "HyperText Transport Protocol.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ccbfaf58d0923830",
+            "id": "efa0d68e7807067a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transmission Control Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b671a250297a5b57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UDP.md",
+                "file": "Application Layer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "28fc14971cceac1f",
@@ -102,11 +90,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Transmission Control Protocol.md",
+                "file": "HyperText Transport Protocol.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -117,7 +105,7 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -125,8 +113,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6989606412938231,
-                  "close": true
+                  "scale": 0.48854597807787287,
+                  "close": false
                 }
               }
             }
@@ -206,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transmission Control Protocol.md",
+                "file": "HyperText Transport Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transmission Control Protocol.md",
+                "file": "HyperText Transport Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transmission Control Protocol.md"
+                "file": "HyperText Transport Protocol.md"
               }
             }
           }
@@ -267,17 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "165bec4f1b7b228a",
+  "active": "5bd0c1ffc25732ac",
   "lastOpenFiles": [
-    "Transport Layer.md",
+    "World Wide Web.md",
+    "Reading/Computer networks, a systems approach.md",
     "Transmission Control Protocol.md",
-    "Reading/Computer networks.md",
-    "CYM050 - Network and Infrastructure Security/Week 03.md",
-    "UDP.md",
-    "password.md",
-    "Reading/Computer security.md",
-    "CYM050 - Network and Infrastructure Security/Week 01.md",
-    "CYM010 - Intro to cyber sec/3. CYM010 week 3.md",
-    "CYM060 - Computer Systems Security/Week 04.md"
+    "Internet Protocol.md",
+    "Post Office Protocol.md",
+    "Internet Message Access Protocol.md",
+    "HyperText Transport Protocol.md",
+    "Application Layer.md",
+    "Simple Mail Transfer Protocol.md",
+    "CYM050 - Network and Infrastructure Security/Week 03.md"
   ]
 }

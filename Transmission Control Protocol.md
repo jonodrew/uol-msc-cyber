@@ -1,5 +1,7 @@
 ---
 alias: [TCP]
+tags:
+- protocol
 ---
 TCP is used for continuous, free-flowing streams of data. It is duplex (simultaneously bi-directional) and point-to-point (each connection has exactly two end-points)
 
