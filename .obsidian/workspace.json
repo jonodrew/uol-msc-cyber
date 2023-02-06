@@ -4,69 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b09929002eea8c02",
+        "id": "8780746c55f63444",
         "type": "tabs",
         "children": [
           {
-            "id": "52fe6bbf8710610d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "165bec4f1b7b228a",
+            "id": "ddf0f07b59612b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM050 - Network and Infrastructure Security/Week 03.md",
+                "file": "CYM050 - Network and infrastructure security/Week 03.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53dbd3e56026bf0d",
+            "id": "550b3881f62f23fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Computer networks, a systems approach.md",
+                "file": "CYM050 - Network and infrastructure security/Week 03.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7352159b946bc2f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Wide Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27bd787e70e7b1dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HyperText Transport Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efa0d68e7807067a",
+            "id": "3dde2c65c7befb0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,25 +42,85 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "180d169e80c6c256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Mail Transfer Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43e7f1e7fe1b23c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transport Layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94584c9504072cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transmission Control Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "040fe6995d4091e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5af2de56c3f33046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internet Message Control Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
-        "id": "28fc14971cceac1f",
+        "id": "88fb482ebc6c9e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "5bd0c1ffc25732ac",
+            "id": "21ce22d1302806c9",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HyperText Transport Protocol.md",
+                "file": "Simple Mail Transfer Protocol.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -105,7 +131,7 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": -1,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -113,7 +139,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.48854597807787287,
+                  "scale": 0.809306320187682,
                   "close": false
                 }
               }
@@ -148,21 +174,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goll",
+                "query": "ip address",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "b84df03f9ca4c7e4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -177,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dc2b8fd156c3b5bb",
@@ -194,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HyperText Transport Protocol.md",
+                "file": "Simple Mail Transfer Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HyperText Transport Protocol.md",
+                "file": "Simple Mail Transfer Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HyperText Transport Protocol.md"
+                "file": "Simple Mail Transfer Protocol.md"
               }
             }
           }
@@ -255,17 +272,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bd0c1ffc25732ac",
+  "active": "180d169e80c6c256",
   "lastOpenFiles": [
-    "World Wide Web.md",
-    "Reading/Computer networks, a systems approach.md",
-    "Transmission Control Protocol.md",
-    "Internet Protocol.md",
-    "Post Office Protocol.md",
-    "Internet Message Access Protocol.md",
-    "HyperText Transport Protocol.md",
     "Application Layer.md",
-    "Simple Mail Transfer Protocol.md",
-    "CYM050 - Network and Infrastructure Security/Week 03.md"
+    "CYM050 - Network and infrastructure security/Week 03.md",
+    "CYM050 - Network and infrastructure security/Week 04.md",
+    "CYM060 - Computer systems security/Week 04.md",
+    "CYM060 - Computer systems security/Week 03.md",
+    "Reading/Computer networks.md",
+    "IPv4 address.md",
+    "Internet Protocol.md",
+    "Dynamic Host Configuration Protocol.md",
+    "Transport Layer.md"
   ]
 }
