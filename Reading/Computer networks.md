@@ -26,7 +26,7 @@ These networks communciate via the [[Internet Protocol]]. Broadly, it works as f
 - at the destination the network layer reconstructs the original data stream, and then passes the data up to the transport layer
 - the transport layer passes the data to the appropriate process
 - there are also Internet Control Protocols:
-	- [[Internet Message Control Protocol]]
+	- [[Internet Control Message Protocol]]
 	- [[Dynamic Host Configuration Protocol]]
 	- [[Adress Resolution Protocol]] for IPv4, [[NDP]] for IPv6
 

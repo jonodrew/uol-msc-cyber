@@ -49,3 +49,5 @@ First, we need to be differentiate protocols from programs. For example, the [[H
 SMTP is the protocol, but they generally come packaged with a standard: for example, [[RFC]] 822 and the [[Multipurpose Internet Mail Extensions]] standards define the format of email messages.
 
 #### 9.1.2: the [[World Wide Web]]
+#### 9.3.2: Network management
+How do you manage a network? Easy! You use the network itself. As we've established, you need a #protocol to communicate over the network. There are two general approaches: [[Simple Network Management Protocol|SNMP]] and [[OpenConfig]].

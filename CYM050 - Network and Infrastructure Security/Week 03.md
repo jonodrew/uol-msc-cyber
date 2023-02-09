@@ -3,7 +3,7 @@
 - Describe how networks managed by different entities can be combined to a large global-scale [[Internet]]
 ## Reading
 - [[Computer networks]] 5.6.6-5.6.7, 6.1-6.1.2, 6.2-6.2.1, 6.4.1
-- [[Computer networks, a systems approach]] 9-9.1
+- [[Computer networks, a systems approach]] 9-9.1 and 9.3.2
 
 ## Lesson 1: Dynamic routing - how to run [[Internet Protocol|IP]] on a large scale
 

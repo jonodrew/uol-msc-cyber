@@ -1,5 +1,5 @@
 ---
-alias: [IMCP]
+alias: [ICMP]
 ---
 Messages about the [[Internet]] (as opposed to [[Internet Protocol|IP]], which is messages sent via the Internet)
 

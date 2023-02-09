@@ -8,79 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddf0f07b59612b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CYM050 - Network and infrastructure security/Week 03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "550b3881f62f23fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM050 - Network and infrastructure security/Week 03.md",
+                "file": "CYM050 - Network and infrastructure security/Week 04.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3dde2c65c7befb0d",
+            "id": "a70114d2c6538e9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Layer.md",
+                "file": "asymmetric.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "180d169e80c6c256",
+            "id": "89473a1236dafd59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Mail Transfer Protocol.md",
+                "file": "Denial of Service.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43e7f1e7fe1b23c5",
+            "id": "19855f4b024e2a7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transport Layer.md",
+                "file": "Simple Network Management Protocol.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "94584c9504072cc4",
+            "id": "c2b88f457a4192c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transmission Control Protocol.md",
+                "file": "Management Information Base.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "040fe6995d4091e5",
+            "id": "5596b09aee086bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,21 +78,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5af2de56c3f33046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internet Message Control Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "88fb482ebc6c9e5e",
@@ -116,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Simple Mail Transfer Protocol.md",
+                "file": "CYM050 - Network and infrastructure security/Week 04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ip address",
+                "query": "imcp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Mail Transfer Protocol.md",
+                "file": "CYM050 - Network and infrastructure security/Week 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Mail Transfer Protocol.md",
+                "file": "CYM050 - Network and infrastructure security/Week 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Mail Transfer Protocol.md"
+                "file": "CYM050 - Network and infrastructure security/Week 04.md"
               }
             }
           }
@@ -272,17 +247,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "180d169e80c6c256",
+  "active": "550b3881f62f23fc",
   "lastOpenFiles": [
-    "Application Layer.md",
-    "CYM050 - Network and infrastructure security/Week 03.md",
+    "data origin authentication.md",
     "CYM050 - Network and infrastructure security/Week 04.md",
-    "CYM060 - Computer systems security/Week 04.md",
-    "CYM060 - Computer systems security/Week 03.md",
-    "Reading/Computer networks.md",
-    "IPv4 address.md",
-    "Internet Protocol.md",
-    "Dynamic Host Configuration Protocol.md",
-    "Transport Layer.md"
+    "encryption.md",
+    "asymmetric.md",
+    "Denial of Service.md",
+    "CYM050 - Network and infrastructure security/Week 03.md",
+    "Reading/Computer networks, a systems approach.md",
+    "OpenConfig.md",
+    "Simple Network Management Protocol.md",
+    "Management Information Base.md"
   ]
 }
