@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 04.md",
+                "file": "CYM060 - Computer systems security/Week 05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ba49c818065e26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/Computer security.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "88fb482ebc6c9e5e",
@@ -117,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 04.md",
+                "file": "Reading/Computer security.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 04.md",
+                "file": "Reading/Computer security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 04.md",
+                "file": "Reading/Computer security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 04.md"
+                "file": "Reading/Computer security.md"
               }
             }
           }
@@ -273,8 +286,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "160d2072c183425a",
+  "active": "9ba49c818065e26d",
   "lastOpenFiles": [
+    "CYM060 - Computer systems security/Week 05.md",
+    "CYM060 - Computer systems security/Week 04.md",
     "Secure Shell.md",
     "Reading/Network Security Essentials.md",
     "CYM050 - Network and infrastructure security/Week 04.md",
@@ -282,8 +297,6 @@
     "Diffie-Hellman.md",
     "Transport Layer Security.md",
     "TLS.md",
-    "public key infrastructure.md",
-    "Reading/Network security - private communication in a public world.md",
-    "certificate authority.md"
+    "public key infrastructure.md"
   ]
 }
