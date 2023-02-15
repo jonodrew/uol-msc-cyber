@@ -9,3 +9,7 @@ Nothing interesting here, and potentially an error: encipherment should not be c
 ### 1.8 A model for network security
 Already covered, ad nauseam, elsewhere in this module
 
+## Chapter 6
+### 6.2: [[Transport Layer Security|TLS]]
+
+### 6.4: [[Secure Shell|SSH]]

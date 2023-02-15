@@ -1,0 +1,1 @@
+The principal that an [[encryption|encrypted]] message should not be decryptable, even if long-term secrets used in the session key exchange are compromised. This is one application of thje [[Diffie-Hellman]] key exchange

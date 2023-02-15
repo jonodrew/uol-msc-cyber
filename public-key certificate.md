@@ -8,7 +8,7 @@ A public-key certificate binds a [[public key]] to data that relates to the assu
 	- of course this raises the immediate question: who is the creator? Why do we trust them? Is it because of their certificate. Who is the creator of that? ...
 
 ## The Creators
-A creator a [[public-key certificate]] is called a [[certificate authority]]. They generally play three important roles:
+A creator of a [[public-key certificate]] is called a [[certificate authority]]. They generally play three important roles:
 1. Certificate creation (and issuance)
 2. Certificate revocation
 3. Certificate trust anchor: it is at the end of the chain of trust, and so needs to maintain its profile as above all suspicion
