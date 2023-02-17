@@ -9,115 +9,43 @@
         "dimension": 51.40845070422535,
         "children": [
           {
-            "id": "160d2072c183425a",
+            "id": "d5ed2f4e2baa94c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM060 - Computer systems security/Week 05.md",
+                "file": "CYM050 - Network and infrastructure security/CYM050 week 05.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9ba49c818065e26d",
+            "id": "bf6c2da291a14a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Computer security.md",
+                "file": "DNS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d496470d5f2f2d7",
+            "id": "6eed63f44a6d0f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public-key certificate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab58a3326c4be8d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diffie-Hellman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a70114d2c6538e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asymmetric.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89473a1236dafd59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Denial of Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19855f4b024e2a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Network Management Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2b88f457a4192c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Management Information Base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5596b09aee086bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UDP.md",
+                "file": "DNSSEC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "88fb482ebc6c9e5e",
@@ -130,9 +58,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reading/Computer security.md",
+                "file": "DNSSEC.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -153,8 +81,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7771481295430117,
-                  "close": false
+                  "scale": 0.9620424998217459,
+                  "close": true
                 }
               }
             }
@@ -225,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Computer security.md",
+                "file": "DNSSEC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Computer security.md",
+                "file": "DNSSEC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Computer security.md"
+                "file": "DNSSEC.md"
               }
             }
           }
@@ -286,17 +214,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ba49c818065e26d",
+  "active": "6eed63f44a6d0f1e",
   "lastOpenFiles": [
-    "CYM060 - Computer systems security/Week 05.md",
-    "CYM060 - Computer systems security/Week 04.md",
-    "Secure Shell.md",
-    "Reading/Network Security Essentials.md",
-    "CYM050 - Network and infrastructure security/Week 04.md",
-    "public-key certificate.md",
+    "DNS.md",
     "Diffie-Hellman.md",
-    "Transport Layer Security.md",
-    "TLS.md",
-    "public key infrastructure.md"
+    "asymmetric.md",
+    "Denial of Service.md",
+    "Simple Network Management Protocol.md",
+    "Management Information Base.md",
+    "UDP.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 05.md",
+    "public-key certificate.md",
+    "DNSSEC.md"
   ]
 }
