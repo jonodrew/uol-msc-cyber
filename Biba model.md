@@ -1,0 +1,3 @@
+In this model, subjects can read up and write down. This is the inverse of the [[Bell-LaPadula model]], which can be characterised as "read down, write up".
+
+In this model, subjects may only read content at or above their own integrity level, and may only write content at or below their own integrity level. That is: someone on the High side may write downwards to the Low side, but the Low side cannot write upwards. Similarly, the Low side can read upwards, but the High side cannot read anything from the Low side.

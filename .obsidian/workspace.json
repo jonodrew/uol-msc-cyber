@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNSSEC.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 05.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DNSSEC.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 05.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -81,7 +81,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9620424998217459,
+                  "scale": 3.2689094424383556,
                   "close": true
                 }
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNSSEC.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNSSEC.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNSSEC.md"
+                "file": "CYM060 - Computer systems security/CYM060 week 05.md"
               }
             }
           }
@@ -214,17 +214,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eed63f44a6d0f1e",
+  "active": "21ce22d1302806c9",
   "lastOpenFiles": [
+    "Biba model.md",
+    "Bell-LaPadula model.md",
+    "CYM060 - Computer systems security/CYM060 week 05.md",
+    "DNSSEC.md",
     "DNS.md",
     "Diffie-Hellman.md",
     "asymmetric.md",
     "Denial of Service.md",
     "Simple Network Management Protocol.md",
-    "Management Information Base.md",
-    "UDP.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 05.md",
-    "public-key certificate.md",
-    "DNSSEC.md"
+    "Management Information Base.md"
   ]
 }
