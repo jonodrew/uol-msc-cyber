@@ -1,1 +1,3 @@
 - speak to folks at work
+- high side/low side + DevOps? Integrity/confidentiality guarantees?
+- 

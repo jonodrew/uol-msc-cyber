@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 05.md",
+                "file": "CYM500 - MSc project/MSc project ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 05.md",
+                "file": "CYM500 - MSc project/MSc project ideas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 05.md",
+                "file": "CYM500 - MSc project/MSc project ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 05.md",
+                "file": "CYM500 - MSc project/MSc project ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 05.md"
+                "file": "CYM500 - MSc project/MSc project ideas.md"
               }
             }
           }
@@ -214,11 +214,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21ce22d1302806c9",
+  "active": "6eed63f44a6d0f1e",
   "lastOpenFiles": [
+    "CYM060 - Computer systems security/CYM060 week 05.md",
     "Biba model.md",
     "Bell-LaPadula model.md",
-    "CYM060 - Computer systems security/CYM060 week 05.md",
     "DNSSEC.md",
     "DNS.md",
     "Diffie-Hellman.md",
