@@ -117,7 +117,7 @@ Created from londonww on 2023-01-09 11:13:39.
 - here are some fun examples of how an attacker might access low-level parts of a computer system
 	- recovery tools: they're used as part of recovery to examine the physical structure of data on a disk when the logical representation is destroyed. However, this is also an excellent way to get to files when the OS is rudely telling you you're not allowed to access them
 	- object reuse: if the previous process left some data in the memory allocated to the new process, then the new process might read something it's not supposed to. This breaks logical separation
-	- buffer overflow (the book calls it overrun, because...why). A value is assigned to a variable whose memory buffer is too small to contain it. Consequently the data overflows the buffer into ajoining cells. This is...bad, and again breaks logical separation
+	- [[buffer overflow]] (the book calls it overrun, because...why). A value is assigned to a variable whose memory buffer is too small to contain it. Consequently the data overflows the buffer into ajoining cells. This is...bad, and again breaks logical separation
 	- backups: a great way to get hold of data that you know the organisation cares about!
 	- core dump: programmers want to be helpful and so when a computer crashes it vomits out its internals to help with debugging. Unfortunately, some mischevious person might try to intentionally crash a system, so that they can look through the internals. Naughty!
 ### 3.6 THE LAYER ABOVE
@@ -141,8 +141,8 @@ Erm. Really?
 	- a subject acts on behalf of a principal, which should represent a human user
 - in the [[Bell-LaPadula model]] there are four access rights: read, write, execute, and append. 'append' is the right to write (ugh) to the end of a file without reading what's previously been written, while a regular 'write' is the right to write wherever the subject wants (which requires the ability to read)
 - SO MUCH UNNECESSARY MATH
+- ![[Pasted image 20230221192920.png]]
 - I really hope this doesn't come up in the exam. What a strange way to express human-computer interactions
-- 
 
 ## Chapter 6: [[reference monitor]]
 
@@ -154,6 +154,5 @@ Erm. Really?
 
 ## Chapter 12: Security models
 - aie we're still banging on about latices and set theory
-- 
 
 ## Chapter 14: [[cryptography]]

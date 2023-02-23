@@ -14,5 +14,5 @@ This is obviously fine.
 - no ring may access a ring that is inside itself
 By induction we can see that ring 0 can access everything.
 
-## immediate exceptions to these principals
+## immediate exceptions to these principles
 Outer rings can indeed access inner rings, but in extremely controlled ways. They do it by means of controlled invocations, which are also known sometimes as system calls.

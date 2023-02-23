@@ -9,43 +9,102 @@
         "dimension": 51.40845070422535,
         "children": [
           {
-            "id": "d5ed2f4e2baa94c9",
+            "id": "160d2072c183425a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM050 - Network and infrastructure security/CYM050 week 05.md",
+                "file": "Reading/Computer security.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf6c2da291a14a2a",
+            "id": "8d496470d5f2f2d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS.md",
+                "file": "public-key certificate.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6eed63f44a6d0f1e",
+            "id": "ab58a3326c4be8d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM500 - MSc project/MSc project ideas.md",
+                "file": "Diffie-Hellman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a70114d2c6538e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asymmetric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89473a1236dafd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Denial of Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19855f4b024e2a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Network Management Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2b88f457a4192c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management Information Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5596b09aee086bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UDP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "88fb482ebc6c9e5e",
@@ -58,9 +117,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CYM500 - MSc project/MSc project ideas.md",
+                "file": "Reading/Computer security.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -81,7 +140,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 3.2689094424383556,
+                  "scale": 0.7771481295430106,
                   "close": true
                 }
               }
@@ -116,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imcp",
+                "query": "buffer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +192,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM500 - MSc project/MSc project ideas.md",
+                "file": "Reading/Computer security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM500 - MSc project/MSc project ideas.md",
+                "file": "Reading/Computer security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM500 - MSc project/MSc project ideas.md"
+                "file": "Reading/Computer security.md"
               }
             }
           }
@@ -214,17 +274,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eed63f44a6d0f1e",
+  "active": "160d2072c183425a",
   "lastOpenFiles": [
-    "CYM060 - Computer systems security/CYM060 week 05.md",
-    "Biba model.md",
-    "Bell-LaPadula model.md",
-    "DNSSEC.md",
-    "DNS.md",
-    "Diffie-Hellman.md",
-    "asymmetric.md",
-    "Denial of Service.md",
-    "Simple Network Management Protocol.md",
-    "Management Information Base.md"
+    "CYM060 - Computer Systems Security/Week 03.md",
+    "CYM060 - Computer Systems Security/Week 07.md",
+    "CYM060 - Computer Systems Security/Week 06.md",
+    "CYM060 - Computer Systems Security/CYM060 week 05.md",
+    "CYM060 - Computer Systems Security/Week 04.md",
+    "CYM050 - Network and Infrastructure Security/Week 04.md",
+    "CYM050 - Network and Infrastructure Security/Week 06.md",
+    "CYM050 - Network and Infrastructure Security/Week 03.md",
+    "CYM060 - Computer Systems Security/Week 10.md",
+    "CYM060 - Computer Systems Security/Week 09.md"
   ]
 }
