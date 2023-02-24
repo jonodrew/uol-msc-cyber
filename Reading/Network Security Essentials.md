@@ -1,3 +1,8 @@
+---
+author: William Stallings
+---
+
+
 ### 1.2 The [[OSI]] security architecture
 We review words again. We define a security attack, a security mechanism, and a [[security service]] - which unfortunately is not the same definition as used by the cryptographers. Or is it?
 ### 1.3 Security attacks
@@ -13,3 +18,5 @@ Already covered, ad nauseam, elsewhere in this module
 ### 6.2: [[Transport Layer Security|TLS]]
 
 ### 6.4: [[Secure Shell|SSH]]
+
+## Chapter 12: [[firewall]]

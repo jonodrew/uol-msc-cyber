@@ -16,7 +16,7 @@ One of the reading in [[5. CYM010 week 5]]
 
 
 ### 12.3 Names on the [[Internet]]
-IT'S DNS, MOTHERFUCKERS
+IT'S [[DNS]], MOTHERFUCKERS
 
 Names in the DNS form a hierarchy, and different servers are assigned to different sections. These sections are called zones. A server assigned to a zone is considered the authority for answering questions about domain names in that zone.
 
@@ -25,7 +25,7 @@ Names in the DNS form a hierarchy, and different servers are assigned to differe
 - DOS attack on major server
 - DOS attack on shared resolver
 Not mentioned:
-- all of the fun things we find in the day job
+- all of the fun things we find in the day job (IT'S ALWAYS DNS 😭)
 ### 12.4 [[Internet]] firewall
 - a firewall reduces a network's [[attack surface]] by limiting the kind of network messages passing in or out
 - your average home [[Wi-Fi]] box probably also has a fairly basic firewall, with a Default Allow policy for outbound traffic and a Default Deny policy for inbound traffic

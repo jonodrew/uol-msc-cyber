@@ -9,102 +9,43 @@
         "dimension": 51.40845070422535,
         "children": [
           {
-            "id": "160d2072c183425a",
+            "id": "d5ed2f4e2baa94c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Computer security.md",
+                "file": "CYM050 - Network and infrastructure security/CYM050 week 05.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d496470d5f2f2d7",
+            "id": "93a75e61cfa5483e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public-key certificate.md",
+                "file": "firewall.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab58a3326c4be8d9",
+            "id": "b2ab4e76cc0e8d80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diffie-Hellman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a70114d2c6538e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asymmetric.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89473a1236dafd59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Denial of Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19855f4b024e2a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Network Management Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2b88f457a4192c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Management Information Base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5596b09aee086bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UDP.md",
+                "file": "application filtering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "88fb482ebc6c9e5e",
@@ -117,9 +58,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reading/Computer security.md",
+                "file": "firewall.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -140,7 +81,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7771481295430106,
+                  "scale": 0.5684954945809281,
                   "close": true
                 }
               }
@@ -175,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buffer",
+                "query": "application protocol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Computer security.md",
+                "file": "firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Computer security.md",
+                "file": "firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Computer security.md"
+                "file": "firewall.md"
               }
             }
           }
@@ -274,17 +215,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "160d2072c183425a",
+  "active": "93a75e61cfa5483e",
   "lastOpenFiles": [
-    "CYM060 - Computer Systems Security/Week 03.md",
-    "CYM060 - Computer Systems Security/Week 07.md",
-    "CYM060 - Computer Systems Security/Week 06.md",
-    "CYM060 - Computer Systems Security/CYM060 week 05.md",
-    "CYM060 - Computer Systems Security/Week 04.md",
-    "CYM050 - Network and Infrastructure Security/Week 04.md",
-    "CYM050 - Network and Infrastructure Security/Week 06.md",
-    "CYM050 - Network and Infrastructure Security/Week 03.md",
-    "CYM060 - Computer Systems Security/Week 10.md",
-    "CYM060 - Computer Systems Security/Week 09.md"
+    "CYM050 - Network and infrastructure security/CYM050 week 05.md",
+    "application filtering.md",
+    "Reading/Elementary information security.md",
+    "firewall.md",
+    "Reading/Network Security Essentials.md",
+    "CYM010 - Intro to cyber sec/7. CYM010 week 7.md",
+    "CYM500 - MSc project/MSc project ideas.md",
+    "DNS.md",
+    "CYM060 - Computer systems security/CYM060 week 10.md",
+    "CYM060 - Computer systems security/CYM060 week 09.md",
+    "CYM060 - Computer systems security/CYM060 week 08.md",
+    "CYM060 - Computer systems security/CYM060 week 07.md",
+    "CYM060 - Computer systems security/CYM060 week 06.md",
+    "CYM060 - Computer systems security/CYM060 week 04.md",
+    "CYM060 - Computer systems security/CYM060 week 03.md",
+    "CYM060 - Computer systems security/CYM060 week 02.md",
+    "CYM060 - Computer systems security/CYM060 week 05.md",
+    "CYM060 - Computer systems security/CYM060 week 01.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 10.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 09.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 08.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 07.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 04.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 02.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 03.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 01.md",
+    "Pasted image 20230221192920.png"
   ]
 }
