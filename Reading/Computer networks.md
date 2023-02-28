@@ -1,4 +1,4 @@
-author: Andrew S Tanenbaum
+author: [[Andrew S. Tanenbaum]]
 
 Found at: https://r2.vlereader.com/Reader?ean=9781292037189
 
@@ -29,6 +29,8 @@ These networks communciate via the [[Internet Protocol]]. Broadly, it works as f
 	- [[Internet Control Message Protocol]]
 	- [[Dynamic Host Configuration Protocol]]
 	- [[Adress Resolution Protocol]] for IPv4, [[NDP]] for IPv6
+
+#### 5.6.2: [[network address translator|network address translation]] and why it's a horrible idea
 
 ### Routing protocols for the [[Internet]]
 The Internet, as we know, is a network of networks. Each network is autonomous and can use its own algorithm for internal routing - like a country's postal service. Equally therefore there needs to be a standardised way of routing packets between networks. The inter-domain protocol used on the Internet is [[Border Gateway Protocol]]. The most common intradomain routing protocol is called [[Open Shortest Path First]].  

@@ -1,0 +1,1 @@
+Broken access control often features on the [[OWASP Top Ten]]

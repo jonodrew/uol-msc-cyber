@@ -21,6 +21,30 @@
             }
           },
           {
+            "id": "4738de8dc3835aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27c5789f6b725a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network address translator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "93a75e61cfa5483e",
             "type": "leaf",
             "state": {
@@ -58,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "firewall.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "application protocol",
+                "query": "computer networks tannenbaum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +157,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "firewall.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "firewall.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "firewall.md"
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md"
               }
             }
           }
@@ -215,12 +238,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93a75e61cfa5483e",
+  "active": "4738de8dc3835aab",
   "lastOpenFiles": [
+    "OWASP Top Ten.md",
+    "cross-site scripting.md",
+    "access control.md",
+    "XML external entities.md",
+    "CYM060 - Computer systems security/CYM060 week 07.md",
+    "network address translator.md",
+    "Reading/Computer networks.md",
+    "Application Layer.md",
+    "Reading/Computer networks, a systems approach.md",
     "CYM050 - Network and infrastructure security/CYM050 week 05.md",
+    "CYM010 - Intro to cyber sec/6. CYM010 week 6.md",
+    "firewall.md",
+    "insider.md",
     "application filtering.md",
     "Reading/Elementary information security.md",
-    "firewall.md",
     "Reading/Network Security Essentials.md",
     "CYM010 - Intro to cyber sec/7. CYM010 week 7.md",
     "CYM500 - MSc project/MSc project ideas.md",
@@ -228,21 +262,10 @@
     "CYM060 - Computer systems security/CYM060 week 10.md",
     "CYM060 - Computer systems security/CYM060 week 09.md",
     "CYM060 - Computer systems security/CYM060 week 08.md",
-    "CYM060 - Computer systems security/CYM060 week 07.md",
     "CYM060 - Computer systems security/CYM060 week 06.md",
     "CYM060 - Computer systems security/CYM060 week 04.md",
     "CYM060 - Computer systems security/CYM060 week 03.md",
     "CYM060 - Computer systems security/CYM060 week 02.md",
-    "CYM060 - Computer systems security/CYM060 week 05.md",
-    "CYM060 - Computer systems security/CYM060 week 01.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 10.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 09.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 08.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 07.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 04.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 02.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 03.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 01.md",
     "Pasted image 20230221192920.png"
   ]
 }
