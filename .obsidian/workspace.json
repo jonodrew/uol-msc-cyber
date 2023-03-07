@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM050 - Network and infrastructure security/CYM050 week 10.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CYM050 - Network and infrastructure security/CYM050 week 10.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM050 - Network and infrastructure security/CYM050 week 10.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM050 - Network and infrastructure security/CYM050 week 10.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM050 - Network and infrastructure security/CYM050 week 10.md"
+                "file": "CYM060 - Computer systems security/CYM060 week 07.md"
               }
             }
           }
@@ -240,11 +240,17 @@
   },
   "active": "4738de8dc3835aab",
   "lastOpenFiles": [
-    "open-source intelligence.md",
+    "dynamic analysis.md",
+    "CYM060 - Computer systems security/CYM060 week 07.md",
+    "static analysis.md",
+    "system hardening.md",
+    "security vs usability.md",
+    "CYM060 - Computer systems security/CYM060 week 06.md",
+    "CYM060 - Computer systems security/CYM060 week 05.md",
     "CYM050 - Network and infrastructure security/CYM050 week 10.md",
+    "open-source intelligence.md",
     "network address translator.md",
     "critical national infrastructure.md",
-    "CYM060 - Computer systems security/CYM060 week 07.md",
     "OWASP Top Ten.md",
     "cross-site scripting.md",
     "access control.md",
@@ -260,12 +266,6 @@
     "Reading/Elementary information security.md",
     "Reading/Network Security Essentials.md",
     "CYM010 - Intro to cyber sec/7. CYM010 week 7.md",
-    "CYM500 - MSc project/MSc project ideas.md",
-    "DNS.md",
-    "CYM060 - Computer systems security/CYM060 week 10.md",
-    "CYM060 - Computer systems security/CYM060 week 09.md",
-    "CYM060 - Computer systems security/CYM060 week 08.md",
-    "CYM060 - Computer systems security/CYM060 week 06.md",
     "Pasted image 20230221192920.png"
   ]
 }

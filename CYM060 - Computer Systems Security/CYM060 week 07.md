@@ -51,4 +51,7 @@ int main(void){
 ```
 
 Let's all promise to never write code like this please
-## Lesson 3: mitigiation and system hardening
+
+## Lesson 3: mitigation and [[system hardening]]
+- compare [[static analysis]] and [[dynamic analysis]]
+- plus all the usual good stuff about reducing [[attack surface]]
