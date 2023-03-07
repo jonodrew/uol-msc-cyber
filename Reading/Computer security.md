@@ -141,7 +141,7 @@ Erm. Really?
 	- a subject acts on behalf of a principal, which should represent a human user
 - in the [[Bell-LaPadula model]] there are four access rights: read, write, execute, and append. 'append' is the right to write (ugh) to the end of a file without reading what's previously been written, while a regular 'write' is the right to write wherever the subject wants (which requires the ability to read)
 - SO MUCH UNNECESSARY MATH
-- ![[Pasted image 20230221192920.png]]
+ ![[Pasted image 20230221192920.png]]
 - I really hope this doesn't come up in the exam. What a strange way to express human-computer interactions
 
 ## Chapter 6: [[reference monitor]]
@@ -154,5 +154,9 @@ Erm. Really?
 
 ## Chapter 12: Security models
 - aie we're still banging on about latices and set theory
+
+## Chapter 13: Security evaluation
+- we follow the terminology of the [[Orange Book]], apparently
+- we distinguish between evaluation, accreditation, and certification
 
 ## Chapter 14: [[cryptography]]

@@ -14,19 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM050 - Network and infrastructure security/CYM050 week 05.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 06.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4738de8dc3835aab",
+            "id": "0a72084fca2e6bed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
+                "file": "Reading/Computer security.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "88fb482ebc6c9e5e",
@@ -82,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 06.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computer networks tannenbaum",
+                "query": "gollman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 07.md",
+                "file": "CYM060 - Computer systems security/CYM060 week 06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 07.md"
+                "file": "CYM060 - Computer systems security/CYM060 week 06.md"
               }
             }
           }
@@ -238,34 +237,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4738de8dc3835aab",
+  "active": "d5ed2f4e2baa94c9",
   "lastOpenFiles": [
-    "dynamic analysis.md",
+    "CYM060 - Computer systems security/CYM060 week 05.md",
+    "CYM060 - Computer systems security/CYM060 week 06.md",
+    "CYM060 - Computer systems security/CYM060 week 10.md",
+    "CYM060 - Computer systems security/CYM060 week 09.md",
+    "CYM060 - Computer systems security/CYM060 week 08.md",
     "CYM060 - Computer systems security/CYM060 week 07.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 05.md",
+    "CYM060 - Computer systems security/CYM060 week 04.md",
+    "Reading/Computer security.md",
+    "Bell-LaPadula model.md",
+    "Biba model.md",
+    "Orange Book.md",
+    "Risk management (book).md",
+    "network address translator.md",
+    "asset.md",
+    "dynamic analysis.md",
     "static analysis.md",
     "system hardening.md",
     "security vs usability.md",
-    "CYM060 - Computer systems security/CYM060 week 06.md",
-    "CYM060 - Computer systems security/CYM060 week 05.md",
     "CYM050 - Network and infrastructure security/CYM050 week 10.md",
     "open-source intelligence.md",
-    "network address translator.md",
     "critical national infrastructure.md",
     "OWASP Top Ten.md",
     "cross-site scripting.md",
     "access control.md",
     "XML external entities.md",
-    "Reading/Computer networks.md",
-    "Application Layer.md",
-    "Reading/Computer networks, a systems approach.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 05.md",
-    "CYM010 - Intro to cyber sec/6. CYM010 week 6.md",
-    "firewall.md",
-    "insider.md",
-    "application filtering.md",
-    "Reading/Elementary information security.md",
-    "Reading/Network Security Essentials.md",
-    "CYM010 - Intro to cyber sec/7. CYM010 week 7.md",
     "Pasted image 20230221192920.png"
   ]
 }

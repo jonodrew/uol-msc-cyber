@@ -1,6 +1,6 @@
 ## Learning objectives
-- List common problems in secure communication over insecure networks
-- Explain basic concepts of network virtualization
-- Define cross-device [[authentication]]
+- ensure that the OS is running successfully after starting up the computer
+- know when to look at hardware as a protection mechanism
+- identify the main threats to boot security and possible mitigations
 
 ## Questions
