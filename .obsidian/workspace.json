@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Network Security Essentials.md",
+                "file": "Why the big six.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reading/Network Security Essentials.md",
+                "file": "Why the big six.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Network Security Essentials.md",
+                "file": "Why the big six.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Network Security Essentials.md",
+                "file": "Why the big six.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Network Security Essentials.md"
+                "file": "Why the big six.md"
               }
             }
           }
@@ -240,8 +240,8 @@
   },
   "active": "8b922ff78cd0e7c0",
   "lastOpenFiles": [
-    "CYM050 - Network and infrastructure security/CYM050 week 06.md",
     "Reading/Network Security Essentials.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 06.md",
     "Kerberos.md",
     "CYM010 - Intro to cyber sec/12. Mock exam.md",
     "CYM060 - Computer systems security/CYM060 week 08.md",
