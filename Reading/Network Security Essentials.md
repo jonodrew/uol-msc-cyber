@@ -1,5 +1,5 @@
 ---
-author: William Stallings
+author: [[William Stallings]]
 ---
 
 
@@ -13,6 +13,14 @@ There's a lot there, and some of it's disputed by other parts of this course ðŸ˜
 Nothing interesting here, and potentially an error: encipherment should not be considered to provide data integrity (at least as I understand it)
 ### 1.8 A model for network security
 Already covered, ad nauseam, elsewhere in this module
+
+## Chapter 4
+### 4.1 Remote user [[authentication]] principles
+
+
+### 4.2 [[symmetric]] key distribution using [[symmetric|symmetric encryption]]
+
+### 4.3 [[Kerberos]]
 
 ## Chapter 6
 ### 6.2: [[Transport Layer Security|TLS]]

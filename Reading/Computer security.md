@@ -157,6 +157,21 @@ Erm. Really?
 
 ## Chapter 13: Security evaluation
 - we follow the terminology of the [[Orange Book]], apparently
-- we distinguish between evaluation, accreditation, and certification
+- we distinguish between evaluation, accreditation, and certification:
+	- evaluation: assess whether a product has the security properties it claims it has
+	- certification: assessing whether a product is suitable for a given application. This naturally relies on an evaluation having been done
+	- accreditation: an executive decision to use a product in a given application. The product will necessarily have been certified before such a decision can be made
+- this chapter focuses on evaluation
+- We should pay attention to the target of the evaluation, and the thin line between systems and products
+- products are things we buy off the shelf, as-is (see [[Wardley map]]), while systems are custom-built
+- products are theoretically easier to evaluate, but may not meet requirements
+- systems built to specific requirements are more expensive to evaluate but are probably more likely to meet the requirements
+### The method of evaluation
+Whatever method is used, it should have two qualities:
+- repeatability: conducting the test at a different time with the same product should yield the same answer, and
+- reproducability: a different team conducting the same test on the same product should find the same result
+- evaluation can be process- or product-oriented:
+	- product-oriented: examine and test the product itself. Different evaluations may give different results, however, as different testing teams may pick up or miss different things
+	- process-oriented: examine the process by which the product is made, but ignore the product itself. This is on the basis that if the process of making the product follows best practice, the outcome should also align to best practice. There is an open question as to how true this is.
 
 ## Chapter 14: [[cryptography]]

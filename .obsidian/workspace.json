@@ -9,24 +9,24 @@
         "dimension": 51.40845070422535,
         "children": [
           {
-            "id": "d5ed2f4e2baa94c9",
+            "id": "c27432960be3b1ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 06.md",
+                "file": "CYM050 - Network and infrastructure security/CYM050 week 06.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a72084fca2e6bed",
+            "id": "8b922ff78cd0e7c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Computer security.md",
+                "file": "Reading/Network Security Essentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "88fb482ebc6c9e5e",
@@ -81,11 +82,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 06.md",
+                "file": "Reading/Network Security Essentials.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -99,12 +100,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
+                  "collapse-forces": false,
+                  "centerStrength": 0.152506510416667,
                   "repelStrength": 10,
-                  "linkStrength": 1,
+                  "linkStrength": 0.760904947916667,
                   "linkDistance": 250,
-                  "scale": 0.5684954945809281,
+                  "scale": 0.15405547316540683,
                   "close": true
                 }
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gollman",
+                "query": "network security ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 06.md",
+                "file": "Reading/Network Security Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 06.md",
+                "file": "Reading/Network Security Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYM060 - Computer systems security/CYM060 week 06.md"
+                "file": "Reading/Network Security Essentials.md"
               }
             }
           }
@@ -237,17 +238,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5ed2f4e2baa94c9",
+  "active": "8b922ff78cd0e7c0",
   "lastOpenFiles": [
-    "CYM060 - Computer systems security/CYM060 week 05.md",
-    "CYM060 - Computer systems security/CYM060 week 06.md",
-    "CYM060 - Computer systems security/CYM060 week 10.md",
-    "CYM060 - Computer systems security/CYM060 week 09.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 06.md",
+    "Reading/Network Security Essentials.md",
+    "Kerberos.md",
+    "CYM010 - Intro to cyber sec/12. Mock exam.md",
     "CYM060 - Computer systems security/CYM060 week 08.md",
+    "Reading/Computer security.md",
+    "Writing answers.md",
+    "CYM060 - Computer systems security/CYM060 week 09.md",
+    "CYM060 - Computer systems security/CYM060 week 10.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 10.md",
     "CYM060 - Computer systems security/CYM060 week 07.md",
+    "CYM060 - Computer systems security/CYM060 week 06.md",
+    "CYM060 - Computer systems security/CYM060 week 05.md",
     "CYM050 - Network and infrastructure security/CYM050 week 05.md",
     "CYM060 - Computer systems security/CYM060 week 04.md",
-    "Reading/Computer security.md",
     "Bell-LaPadula model.md",
     "Biba model.md",
     "Orange Book.md",
@@ -258,13 +265,7 @@
     "static analysis.md",
     "system hardening.md",
     "security vs usability.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 10.md",
     "open-source intelligence.md",
-    "critical national infrastructure.md",
-    "OWASP Top Ten.md",
-    "cross-site scripting.md",
-    "access control.md",
-    "XML external entities.md",
     "Pasted image 20230221192920.png"
   ]
 }
