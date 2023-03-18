@@ -145,6 +145,43 @@ Erm. Really?
 - I really hope this doesn't come up in the exam. What a strange way to express human-computer interactions
 
 ## Chapter 6: [[reference monitor]]
+### 6.1: Introduction
+- a review of the [[reference monitor]]
+### 6.2: [[operating system]] [[integrity]]
+The Platonic ideal has been achieved and the operating system can enforce all [[access control]] policies. Well done. What next?
+
+The next step for an [[attacker]] is going to be to target the operating system itself. The [[threat model]] assumes an attacker who has access to the command line but not the underlying physical hardware.
+
+So now we have a new requirement: the user must not be able to modify the operating system, even as they are able to _use_ the operating system. We achieve these aims through modes of operations and controlled invocation
+
+#### Modes of operation
+The operating system must distinguish between actions on behalf of the operating system itself, and operations on behalf of a user. A system may work in dual-mode operation, where the dual modes are a "user mode", where instructions that are non-critical security instructions are performed, and "supervisor/root/kernel/monitor/system mode", where privileged instructions are carried out.
+
+The processor's [[control register]] has a hardware-level status flag that distinguishes in which mode the system is currently operating. Generally this only requires one bit, as there are usually only two modes. Is this the best model? Probably not, especially when we've previously wanged on about [[protection rings]].
+
+#### Controlled invocation
+However, simply flicking that bit whenever the user wanted to do something ~~dangerous~~ would just let them do dangerous things. Instead, we hand control over to a function that does one thing (the dangerous thing) and then hands the result and control back to the calling function. c.f writing Roles for AWS Lambda.
+
+### 6.3 Hardware security features
+- the deeper you push the security controls, the simpler they can be
+- the simpler they are, the easier they are to test and assure
+- the simpler they are, the greater the reduction in performance overheads
+- the decisions a reference monitor has to make are arcane and far removed from the needs of the user, so it's best to abstract them away and never let the user worry about them
+
+#### Processes and threads
+A process is a program in execution, and so comprises executable code, data, and the execution context. Contrast this with threads, which are strands of execution within a process, sharing the same process address. 
+
+#### Interrupts/exceptions/traps
+Any error in a program, whether it's a user request, a hardware failure, or a developer mistake, is handled by an exception. This is a special input to the [[CPU]] which includes an address, called an interrupt vector, which is stored in an interrupt vector table. The interrupt vector table gives the location of the program which deals with the condition specified in the exception. The program that handles the exception is called the interrupt (exception) handler, because naming things is hard.
+
+When an exception is raised, the system saves the current state on the stack and then executes the handler, which takes control away from the user-initiated process. The handler ensures that the system is reset to a known safe state before returning control to the user process.
+
+This raises an interesting vector for an [[attack]]: if you can change an entry in the interrupt table so that it points to attack code, you just have to force that exception to be raised
+
+As a side note, when we think about processes asking other processes to do things, we have to consider [[the confused deputy problem]]
+
+### 6.4 [[memory protection]]
+#### [[memory protection#Secure addressing]]
 
 ## Chapter 7: [[Unix]] security
 

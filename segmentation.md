@@ -1,0 +1,3 @@
+A way of structuring memory. Data is divided into logical blocks, each with  a unique name. Items within the segment are addressed by {segment name}{offset}. The [[operating system]] maintains a table of segment names with their true memory addresses in memory.
+
+Because memory is divided into logical units, it is simple to apply security policies across them. However, segments have variable length, making memory management more difficult - we like fixed-length blocks for efficient tessalation.

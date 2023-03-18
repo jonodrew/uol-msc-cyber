@@ -1,0 +1,3 @@
+Consider a [[protection rings|two protection rings]]: one with high privilege and one with low. The outer ring requests that the inner ring copies an object from the inner ring to the outer ring. As the inner ring would be carrying out the action, it would seem to be acceptable.
+
+This problem is mitigated by examination of the execution history: the inner-ring copying process should review whether this request originated from the inner ring, or in actuality came from a less-privileged ring.
