@@ -16,3 +16,10 @@ By induction we can see that ring 0 can access everything.
 
 ## immediate exceptions to these principles
 Outer rings can indeed access inner rings, but in extremely controlled ways. They do it by means of controlled invocations, which are also known sometimes as system calls.
+
+## protection rings in hardware
+Below the [[operating system]] (ring 0) exist a whole pile of other things. Researchers have taken to numbering them with negative numbers as follows:
+- virtualisation/hypervisor layer: ring -1
+- firmware layer: ring -2
+- hardware/chipset: ring -3
+As above, the lower we can compromise the system, the more control we have.

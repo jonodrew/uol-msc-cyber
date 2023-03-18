@@ -170,7 +170,6 @@ However, simply flicking that bit whenever the user wanted to do something ~~dan
 
 #### Processes and threads
 A process is a program in execution, and so comprises executable code, data, and the execution context. Contrast this with threads, which are strands of execution within a process, sharing the same process address. 
-
 #### Interrupts/exceptions/traps
 Any error in a program, whether it's a user request, a hardware failure, or a developer mistake, is handled by an exception. This is a special input to the [[CPU]] which includes an address, called an interrupt vector, which is stored in an interrupt vector table. The interrupt vector table gives the location of the program which deals with the condition specified in the exception. The program that handles the exception is called the interrupt (exception) handler, because naming things is hard.
 

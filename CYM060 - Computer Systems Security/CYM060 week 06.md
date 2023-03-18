@@ -3,6 +3,9 @@
 - know when to look at hardware as a protection mechanism
 - identify the main threats to boot security and possible mitigations
 
+## Reading
+- [[Computer security#Chapter 6: reference monitor]]
+
 ## Questions
 1. Propose countermeasures for the following [[password]]-related security violations: 
 	1. Offline dictionary attack: attacker obtains access to ID/password (hash) database; uses dictionary to find passwords. 
@@ -34,3 +37,14 @@ Do you agree with the title of the article? Would a proper access control mechan
 
 1. What is the difference between paging and segmentation? Briefly indicate their respective advantages and disadvantages. 
 2. Explain the difference between a virtual address and a physical address. Discuss the advantages of the use of virtual memory management.
+
+## Lesson 2: the system hardware attack surface
+- three additional rings are added to our [[protection rings]] model
+## Lesson 3: Hardware security
+- [[virtualisation]]
+- [[emulation]]
+- [[containerisation]]
+- [[trusted platform module]]
+- [[trusted execution environment]]
+- [[secure element]]
+
