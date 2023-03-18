@@ -16,5 +16,4 @@ It's worth noting that some of these capabilities are disputed. Notes are provid
 - attacks on the firewall software - remember to patch with frequency
 - [[Internet Protocol|IP]] fragmentation attacks
 	- put malicious code in packets that aren't the first - firewalls sometimes only examine the first packet
-	- fragments that area impossible to reassemble - like the apocraphyl tale of releasing sheep marked 1, 2, 3, and 5 around the university
-	- 
+	- fragments that are impossible to reassemble - like the apocraphyl tale of releasing sheep marked 1, 2, 3, and 5 around the university

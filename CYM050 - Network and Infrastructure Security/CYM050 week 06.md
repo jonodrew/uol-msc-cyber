@@ -11,9 +11,11 @@
 ## Readings
 - [[Network Security Essentials#Chapter 4#4.1 Remote user authentication principles]]
 - [[Network Security Essentials#Chapter 4#4.2 symmetric key distribution using symmetric symmetric encryption]]
--  [[Network Security Essentials#Chapter 4#4.3 Kerberos]]
+- [[Network Security Essentials#Chapter 4#4.3 Kerberos]]
 
 ## Lesson 1
 - [[Kerberos]]!
 	- OOOF. A lot of detail on Kerberos. Some (me) would say too much
-- 
+
+## Lesson 2: [[virtual private network]]
+- there are VPNs where you have a second factor

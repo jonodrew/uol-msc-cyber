@@ -14,6 +14,42 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "CYM060 - Computer systems security/CYM060 week 03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "040e162c2b9e809b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/Computer security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "180e59e5c6f2c0b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYM050 - Network and infrastructure security/CYM050 week 09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb2e677ee12d4c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "CYM050 - Network and infrastructure security/CYM050 week 06.md",
                 "mode": "source",
                 "source": false
@@ -21,55 +57,31 @@
             }
           },
           {
-            "id": "8b922ff78cd0e7c0",
+            "id": "2528cfcb4247080d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why the big six.md",
+                "file": "Reading/Elementary information security.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27c5789f6b725a38",
+            "id": "fcbbfe22011be6ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network address translator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93a75e61cfa5483e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "firewall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2ab4e76cc0e8d80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "application filtering.md",
+                "file": "Reading/Network Security Essentials.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "88fb482ebc6c9e5e",
@@ -82,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Why the big six.md",
+                "file": "CYM050 - Network and infrastructure security/CYM050 week 06.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -105,7 +117,7 @@
                   "repelStrength": 10,
                   "linkStrength": 0.760904947916667,
                   "linkDistance": 250,
-                  "scale": 0.15405547316540683,
+                  "scale": 0.22257143045672234,
                   "close": true
                 }
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "network security ",
+                "query": "chap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why the big six.md",
+                "file": "CYM050 - Network and infrastructure security/CYM050 week 06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why the big six.md",
+                "file": "CYM050 - Network and infrastructure security/CYM050 week 06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why the big six.md"
+                "file": "CYM050 - Network and infrastructure security/CYM050 week 06.md"
               }
             }
           }
@@ -238,34 +250,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b922ff78cd0e7c0",
+  "active": "cb2e677ee12d4c21",
   "lastOpenFiles": [
-    "Reading/Network Security Essentials.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 06.md",
     "Kerberos.md",
-    "CYM010 - Intro to cyber sec/12. Mock exam.md",
-    "CYM060 - Computer systems security/CYM060 week 08.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 06.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 05.md",
+    "Reading/Elementary information security.md",
+    "firewall.md",
+    "session filtering.md",
+    "email.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 09.md",
+    "Simple Mail Transfer Protocol.md",
+    "Multipurpose Internet Mail Extensions.md",
+    "Pasted image 20230316184912.png",
+    "Internet Message Access Protocol.md",
+    "Post Office Protocol.md",
+    "Reading/Network Security Essentials.md",
+    "DNS.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 10.md",
+    "Unix.md",
     "Reading/Computer security.md",
-    "Writing answers.md",
+    "CYM060 - Computer systems security/CYM060 week 03.md",
+    "CYM050 - Network and infrastructure security/CYM050 week 03.md",
+    "CYM060 - Computer systems security/CYM060 week 05.md",
+    "CYM060 - Computer systems security/CYM060 week 06.md",
+    "CYM060 - Computer systems security/CYM060 week 07.md",
+    "CYM060 - Computer systems security/CYM060 week 08.md",
     "CYM060 - Computer systems security/CYM060 week 09.md",
     "CYM060 - Computer systems security/CYM060 week 10.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 10.md",
-    "CYM060 - Computer systems security/CYM060 week 07.md",
-    "CYM060 - Computer systems security/CYM060 week 06.md",
-    "CYM060 - Computer systems security/CYM060 week 05.md",
-    "CYM050 - Network and infrastructure security/CYM050 week 05.md",
-    "CYM060 - Computer systems security/CYM060 week 04.md",
-    "Bell-LaPadula model.md",
-    "Biba model.md",
-    "Orange Book.md",
-    "Risk management (book).md",
-    "network address translator.md",
-    "asset.md",
-    "dynamic analysis.md",
-    "static analysis.md",
-    "system hardening.md",
-    "security vs usability.md",
-    "open-source intelligence.md",
+    "engineering frameworks.md",
+    "Screenshot 2023-03-13 at 19.12.52.png",
     "Pasted image 20230221192920.png"
   ]
 }

@@ -1,0 +1,1 @@
+The presentation of an [[identity]]. Not the same as [[authentication]]

@@ -16,9 +16,17 @@ Already covered, ad nauseam, elsewhere in this module
 
 ## Chapter 4
 ### 4.1 Remote user [[authentication]] principles
+- [[identification]] is different to [[authentication]]
 
 
 ### 4.2 [[symmetric]] key distribution using [[symmetric|symmetric encryption]]
+- it's very tricky
+- Suppose we have two parties, A and B, who want to communicate with [[confidentiality]]. They will need to set up a shared key.
+	- A could select a key and manually send it to B
+	- A third party could select a key and deliver to both A and B, assuming it is trusted by both A and B
+	- If A and B had previously solved this problem (don't think too hard about this), they could use their existing key to encrypt their new key
+	- If A and B had an encrypted connection to a third party (a variation on the first option), then that third party could deliver a key to both A and B.
+	- this brings us neatly to:
 
 ### 4.3 [[Kerberos]]
 
@@ -26,5 +34,9 @@ Already covered, ad nauseam, elsewhere in this module
 ### 6.2: [[Transport Layer Security|TLS]]
 
 ### 6.4: [[Secure Shell|SSH]]
+
+### 8.1
+
+### 8.2
 
 ## Chapter 12: [[firewall]]
