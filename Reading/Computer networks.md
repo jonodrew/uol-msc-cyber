@@ -20,7 +20,7 @@ The what now
 At the network layer, the Internet can be described as a series of interconnected autonomous systems. There are several major 'backbone' networks, known also as Tier 1 networks. Internet Service Providers hang off these backbones, and they provide internet connectivity to consumers, as well as regional networks. There are more ISPs connected to the regional networks, [[LAN]]s at universities and companies, and some other edge networks.
 
 These networks communciate via the [[Internet Protocol]]. Broadly, it works as follows:
-- the [[Transport Layer]] takes a data stream and breaks it up into data packets
+- the [[transport layer]] takes a data stream and breaks it up into data packets
 	- packets can theoretically be as large as 64KB, but in practice they are generally only about 1500 bytes, which is the size of an [[Ethernet#Frames|ethernet frame]]
 - IP routers forward the packet through the internet, from one router to the next, until the destination is reached
 - at the destination the network layer reconstructs the original data stream, and then passes the data up to the transport layer
@@ -35,7 +35,7 @@ These networks communciate via the [[Internet Protocol]]. Broadly, it works as f
 ### Routing protocols for the [[Internet]]
 The Internet, as we know, is a network of networks. Each network is autonomous and can use its own algorithm for internal routing - like a country's postal service. Equally therefore there needs to be a standardised way of routing packets between networks. The inter-domain protocol used on the Internet is [[Border Gateway Protocol]]. The most common intradomain routing protocol is called [[Open Shortest Path First]].  
 
-### 6.1 the [[Transport Layer]]
+### 6.1 the [[transport layer]]
 
 #### 6.2.2: Connection establishment
 - always design for the worst case

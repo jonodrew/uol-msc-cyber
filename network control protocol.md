@@ -1,0 +1,5 @@
+---
+tags:
+- protocol
+alias: [NCP]
+---

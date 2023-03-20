@@ -1,7 +1,7 @@
 ## Learning objectives
-- Explain the concept of virtualization
-- Describe the architecture and related security measures of modern web application
-- Illustrate Cross-Site Request Forgery (CSRF) attacks and implement countermeasures
+- reason about what makes software secure
+- identify why security is challenging to benchmark, and make use of different strategies
+- make use of resilience to enhance protection of systems
 
 ## Reading
 - [[Computer security#Chapter 13: Security evaluation]]

@@ -1,3 +1,6 @@
+---
+alias: [layer 7]
+---
 THIS IS MY DOMAIN, BITCHES
 
 [[DNS]] or bust baby

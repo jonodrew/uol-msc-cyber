@@ -16,6 +16,13 @@
 ## Lesson 1
 - [[Kerberos]]!
 	- OOOF. A lot of detail on Kerberos. Some (me) would say too much
+- other [[authentication]] #protocol 
+	- [[password authentication protocol]]
+	- [[challenge handshake authentication protocol]]
+	- these protocols were devised to provide [[authentication]] for the [[point to point protocol]]
+- [[tunelling]]
+- [[remote authentication dial-in user service|RADIUS]]
+- [[IEEE 802.1X]]
 
 ## Lesson 2: [[virtual private network]]
 - there are VPNs where you have a second factor

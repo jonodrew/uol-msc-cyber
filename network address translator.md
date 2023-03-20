@@ -20,5 +20,5 @@ So many. As much as we dislike [[Andrew S. Tanenbaum]], he writes about them ver
 1. In theory, every [[IP address]] in the world uniquely identifies a device. NAT allows almost all of the devices (aside from the NATs themselves) to use `10.1.1.10` if they want.
 2. NAT breaks the model of the [[Internet]] - a host on an internal network, for example, can't receive a packet from an external host.
 3. It also breaks the idea of a connectionless network (where packets can take many routes and there are no single points of failure) to a connection-oriented network where we're reliant on NATs. Stupid.
-4. NAT relies entirely on [[UDP]] and [[Transmission Control Protocol|TCP]], which - again - why? People should be free to use whatever protocols they want.
+4. NAT relies entirely on [[User Datagram Protocol]] and [[Transmission Control Protocol|TCP]], which - again - why? People should be free to use whatever protocols they want.
 5. It breaks the layer model, because it relies on what the layer below is doing. We can't realistically change or update TCP now, because NAT will break. It introduces dependencies

@@ -7,9 +7,9 @@
 
 ## Lesson 1: Dynamic routing - how to run [[Internet Protocol|IP]] on a large scale
 
-## Lesson 2: the [[Transport Layer]]
+## Lesson 2: the [[transport layer]]
 
-## Lesson 3: the [[Application Layer]]
+## Lesson 3: the [[application layer]]
 
 
 

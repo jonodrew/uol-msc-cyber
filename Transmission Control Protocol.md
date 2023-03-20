@@ -3,7 +3,7 @@ alias: [TCP]
 tags:
 - protocol
 ---
-TCP is used for continuous, free-flowing streams of data. It is duplex (simultaneously bi-directional) and point-to-point (each connection has exactly two end-points)
+TCP is used for continuous, free-flowing streams of data at the [[transport layer]]. It is duplex (simultaneously bi-directional) and point-to-point (each connection has exactly two end-points)
 
 Except of course it can't work like that: instead, it cuts up a datastream and sends them as a byte stream. Note: it is a [[byte]] stream and not a message stream. TCP must therefore ensure:
 - that all messages reach the receiver
@@ -26,7 +26,7 @@ A TCP [[packet]] always has a sequence number. To ensure that the sender knows w
 	2. the sequence number is increased on this side (that is, it becomes equal to the acknowledgement number from the responder), and the acknowledgement number sent is the responder's sequence number + 1
 
 ## Header
-Similar to [[UDP]], the header has a
+Similar to [[User Datagram Protocol]], the header has a
 - source port
 - destination port
 - sequence number

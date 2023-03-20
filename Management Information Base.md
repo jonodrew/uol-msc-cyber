@@ -7,5 +7,5 @@ The specification describing data that can be retrieved with the [[Simple Networ
 -   Address translation—Information about the [[Address Resolution Protocol]], and in particular, the contents of its address translation table
 -   [[Internet Protocol|IP]]—Variables related to IP, including its routing table, how many datagrams it has successfully forwarded, and statistics about datagram reassembly; includes counts of how many times IP drops a datagram for one reason or another
 -   [[Transmission Control Protocol|TCP]]—Information about TCP connections, such as the number of passive and active opens, the number of resets, the number of timeouts, default timeout settings, and so on; per-connection information persists only as long as the connection exists
--   [[UDP]]—Information about UDP traffic, including the total number of UDP datagrams that have been sent and received.
+-   [[User Datagram Protocol]]—Information about UDP traffic, including the total number of UDP datagrams that have been sent and received.
 There are also groups for the [[Internet Control Message Protocol|ICMP]] and of course the [[Simple Network Management Protocol|SNMP]] itself.

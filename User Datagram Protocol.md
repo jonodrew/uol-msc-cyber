@@ -1,3 +1,10 @@
+---
+alias: [UDP]
+tags:
+- protocol
+---
+A protocol used for communicating across the [[transport layer]] in an [[Internet Protocol]] network.
+
 A UDP header consists of:
 - a 2-byte source port
 - a 2-byte destination port

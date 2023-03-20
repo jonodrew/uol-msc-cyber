@@ -44,7 +44,7 @@ Where in the current packet this fragment belongs. This field is 13 bits long, p
 The time a packet has left to live. It's decremented with every hop. If it reaches zero, the the packet is discarded and a warning packet is sent to the host: "Sorry pal, your wee packet wandered around lost until it expired. Try again eh?"
 
 ### protocol
-This is used to tell the [[network layer]] what to do with a re-assembled packet; ie, which transport process it needs to give it to. It might be [[Transmission Control Protocol|TCP]], but it could as easily be something else, like [[UDP]]. Rather than letters, they're numbered, and those numbers are globally the same - and stored in a database at www.iana.org
+This is used to tell the [[network layer]] what to do with a re-assembled packet; ie, which transport process it needs to give it to. It might be [[Transmission Control Protocol|TCP]], but it could as easily be something else, like [[User Datagram Protocol]]. Rather than letters, they're numbered, and those numbers are globally the same - and stored in a database at www.iana.org
 
 ### header checksum
 Because the header contains very important information, it gets its own checksum

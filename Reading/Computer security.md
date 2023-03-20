@@ -192,6 +192,8 @@ As a side note, when we think about processes asking other processes to do thing
 - aie we're still banging on about latices and set theory
 
 ## Chapter 13: Security evaluation
+This chapter is very dull. If it comes up in the exam, duck
+
 - we follow the terminology of the [[Orange Book]], apparently
 - we distinguish between evaluation, accreditation, and certification:
 	- evaluation: assess whether a product has the security properties it claims it has
@@ -206,8 +208,16 @@ As a side note, when we think about processes asking other processes to do thing
 Whatever method is used, it should have two qualities:
 - repeatability: conducting the test at a different time with the same product should yield the same answer, and
 - reproducability: a different team conducting the same test on the same product should find the same result
-- evaluation can be process- or product-oriented:
+
+Evaluation can be process- or product-oriented:
 	- product-oriented: examine and test the product itself. Different evaluations may give different results, however, as different testing teams may pick up or miss different things
 	- process-oriented: examine the process by which the product is made, but ignore the product itself. This is on the basis that if the process of making the product follows best practice, the outcome should also align to best practice. There is an open question as to how true this is.
+
+### Legal/organisation framework
+Additionally we also consider the organisational and legal framework of the evaluation process. For example, there might be a government agency or an accredited private enterprise empowered to conduct evaluations.
+
+A government body may or may not charge for evaluations. As long as the evaluation is carried out in-house, there are fewer organisational overheads. However, with the public sector come limited funds, and a danger of long backlogs
+
+Private evaluations are an answer to this problem, but bring their own issues: commercial pressures can lead to corners being cut.
 
 ## Chapter 14: [[cryptography]]

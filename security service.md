@@ -1,6 +1,6 @@
 There are five security services. The sub categories are provided by [[X.800]]
 - [[authenticity]]
-	- peer entity authentication
+	- peer [[entity authentication]]
 	- [[data origin authentication]]
 - [[access control]]
 - [[confidentiality]]
