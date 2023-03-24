@@ -1,0 +1,1 @@
+Whether a user is permitted to perform an action. Contrast with [[authentication]]
