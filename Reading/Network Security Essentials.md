@@ -39,4 +39,7 @@ Already covered, ad nauseam, elsewhere in this module
 
 ### 8.2
 
+## Chapter 9: [[Internet Protocol Security|IPsec]]
+
+
 ## Chapter 12: [[firewall]]

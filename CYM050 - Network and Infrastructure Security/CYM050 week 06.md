@@ -5,13 +5,14 @@
 
 ## Introduction
 - protocols for [[authentication]] and [[authorisation]]
-- technologies to secure network connections, such as [[virtual private network]] or [[virtal local area network]]
+- technologies to secure network connections, such as [[virtual private network]] or [[virtual local area network]]
 - and the security of [[Wi-Fi]]
 
 ## Readings
 - [[Network Security Essentials#Chapter 4#4.1 Remote user authentication principles]]
 - [[Network Security Essentials#Chapter 4#4.2 symmetric key distribution using symmetric symmetric encryption]]
 - [[Network Security Essentials#Chapter 4#4.3 Kerberos]]
+- A paper on [[WireGuard]]: https://www.wireguard.com/papers/wireguard.pdf
 
 ## Lesson 1
 - [[Kerberos]]!
@@ -25,4 +26,6 @@
 - [[IEEE 802.1X]]
 
 ## Lesson 2: [[virtual private network]]
-- there are VPNs where you have a second factor
+- there are VPNs where you have a second factor!
+
+## Lesson 3: [[virtual local area network|Virtual LAN]]

@@ -9,3 +9,5 @@ A VPN will generally provide three [[security service|security services]]: [[con
 - remote access VPN: a host-to-network connection
 - intranet site-to-site VPN
 - extranet site-to-site VPN
+
+A VPN often builds on a lower secure layer - for example, over an [[Internet Protocol Security|IPsec]] channel.

@@ -1,0 +1,1 @@
+the public part of a [[asymmetric|public-key encryption]] key
