@@ -1,4 +1,4 @@
-A block on ingress and egress to a [[network]]. It should filter traffic, allowing only authorised traffic in either direction
+A block or filter on ingress and egress to a [[network]]. It should filter traffic, allowing only authorised traffic in either direction
 
 The firewall itself should be hardened against attack, probably with a specifically-designed secure [[operating system]].
 
@@ -17,3 +17,6 @@ It's worth noting that some of these capabilities are disputed. Notes are provid
 - [[Internet Protocol|IP]] fragmentation attacks
 	- put malicious code in packets that aren't the first - firewalls sometimes only examine the first packet
 	- fragments that are impossible to reassemble - like the apocraphyl tale of releasing sheep marked 1, 2, 3, and 5 around the university
+
+## Application level proxies
+Positioned as a kind of [[reference monitor]] at [[application layer|layer 7]], the application level proxy acts as server and client. That is, the proxy acts as the server to the internal request, validating that it's acceptable according to the firewall rules. It then forwards that request on, if appropriate, acting as the client to the actual requested server. The same happens in reverse. Thus, like a reference monitor, it acts as a [[Computer security#Controlled invocation|controlled invocation]]. Naturally they are quite expensive, and so only tend to be run on [[system hardening|hardened systems]].

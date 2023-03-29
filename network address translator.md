@@ -5,6 +5,8 @@ The [[IPv4 address]] space is not big enough for all of the devices we've connec
 
 We use a NAT, which is a little like a postal redirection service. It ensures that the IP addresses in a private network aren't given out to everyone on the web. It also solves out IPv4 problem - because it means addresses inside the private network that's 'guarded' by the NAT can use almost any address they like.
 
+It also means that we're not "giving out" our IP addresses, which is a positive security measure - it decreases the [[attack surface]] by reducing the amount of public information.
+
 ## One-to-one NAT
 A way to connect together two [[network|networks]] that have incompatible, ie clashing, [[IP address|IP addresses]]. When packets pass through the NAT, their IP head checksum is updated with the mapped IP address.
 

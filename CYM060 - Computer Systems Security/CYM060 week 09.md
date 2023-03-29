@@ -1,4 +1,8 @@
 ## Learning objectives
-- reason about what makes software secure
-- identify why security is challenging to benchmark, and make use of different strategies
-- make use of resilience to enhance protection of systems
+- understand and reason about misuse and anomaly detection in use and how these helps detect attacks
+- discuss challenges in threat detection benchmarking
+- conduct basic analysis of key activities in a Linux environment
+
+## Reading
+- [[Computer security#17.3: firewall Firewalls]] 
+- [[Computer security#17.4: intrusion detection system Instrusion detection]]

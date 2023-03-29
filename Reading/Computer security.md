@@ -221,3 +221,9 @@ A government body may or may not charge for evaluations. As long as the evaluati
 Private evaluations are an answer to this problem, but bring their own issues: commercial pressures can lead to corners being cut.
 
 ## Chapter 14: [[cryptography]]
+
+## Chapter 17
+
+### 17.3: [[firewall|Firewalls]]
+
+### 17.4: [[intrusion detection system|Instrusion detection]]
