@@ -16,6 +16,7 @@ Just a reallly boring, stupid thing to say. Even a decade ago.
 The what now
 
 ### 4.3: [[Ethernet]]
+#### 4.8.5: [[virtual local area network|Virtual LAN]]
 ### 5.6: the [[network layer]] in the [[Internet]]
 At the network layer, the Internet can be described as a series of interconnected autonomous systems. There are several major 'backbone' networks, known also as Tier 1 networks. Internet Service Providers hang off these backbones, and they provide internet connectivity to consumers, as well as regional networks. There are more ISPs connected to the regional networks, [[LAN]]s at universities and companies, and some other edge networks.
 

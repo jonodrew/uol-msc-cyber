@@ -13,6 +13,7 @@
 - [[Network Security Essentials#Chapter 4#4.2 symmetric key distribution using symmetric symmetric encryption]]
 - [[Network Security Essentials#Chapter 4#4.3 Kerberos]]
 - A paper on [[WireGuard]]: https://www.wireguard.com/papers/wireguard.pdf
+- [[Computer networks]]
 
 ## Lesson 1
 - [[Kerberos]]!
@@ -29,3 +30,5 @@
 - there are VPNs where you have a second factor!
 
 ## Lesson 3: [[virtual local area network|Virtual LAN]]
+
+## Lesson 4: [[Wi-Fi]] security

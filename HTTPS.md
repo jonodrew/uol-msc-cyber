@@ -1,1 +1,1 @@
-Secure [[HyperText Transport Protocol|HTTP]]
+Secure [[HyperText Transfer Protocol|HTTP]]

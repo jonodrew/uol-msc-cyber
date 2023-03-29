@@ -41,7 +41,7 @@ We need them
 ### 9.1: Traditional applications
 Let's get cracking with the [[World Wide Web]] and [[email]]. The classics. The OGs.
 
-First, we need to be differentiate protocols from programs. For example, the [[HyperText Transport Protocol]]  is an application protocol used to retrieve documents from remote servers. Any application can implement that protocol for itself, and applications like Firefox, Internet Explorer, Chrome, and Safari all do so. The same is true of the [[Simple Mail Transfer Protocol]], which is used by mail clients. (Although other mail protocols are now available: [[Internet Message Access Protocol]] and [[Post Office Protocol]])
+First, we need to be differentiate protocols from programs. For example, the [[HyperText Transfer Protocol]]  is an application protocol used to retrieve documents from remote servers. Any application can implement that protocol for itself, and applications like Firefox, Internet Explorer, Chrome, and Safari all do so. The same is true of the [[Simple Mail Transfer Protocol]], which is used by mail clients. (Although other mail protocols are now available: [[Internet Message Access Protocol]] and [[Post Office Protocol]])
 
 >[!question]
 >What's happening when a web application like Firefox opens your GMail?

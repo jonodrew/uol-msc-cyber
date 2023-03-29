@@ -40,4 +40,4 @@ There is a clear economy of mechanism in this software. The design is broken dow
 
 Users of the system are required to use a second factor when they access the system through the web interface, but the web API only requires a single factor
 
-## Lesson 3: Resilience
+## Lesson 3: [[Resilience]]

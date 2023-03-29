@@ -1,5 +1,7 @@
 ---
 alias: [layer 4]
+tags:
+- OSI
 ---
 Two key protocols here: [[User Datagram Protocol]] and [[Transmission Control Protocol|TCP]]
 

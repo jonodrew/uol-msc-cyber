@@ -1,5 +1,5 @@
 ---
-alias: [layer 3]
+alias: [level 1]
 tags:
 - OSI
 ---
