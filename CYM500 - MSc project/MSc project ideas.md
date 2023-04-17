@@ -1,3 +1,5 @@
 - speak to folks at work
 - high side/low side + DevOps? Integrity/confidentiality guarantees?
+- Jack Teixeira case: how could this have been prevented? What were the failures?
+	- likelihood of getting information/interviews on this: very low 😆
 - 
