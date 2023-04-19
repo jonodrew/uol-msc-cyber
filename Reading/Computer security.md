@@ -194,7 +194,7 @@ As a side note, when we think about processes asking other processes to do thing
 ## Chapter 13: Security evaluation
 This chapter is very dull. If it comes up in the exam, duck
 
-- we follow the terminology of the [[Orange Book]], apparently
+- we follow the terminology of the [[Trusted Computer System Evaluation Criteria]], apparently
 - we distinguish between evaluation, accreditation, and certification:
 	- evaluation: assess whether a product has the security properties it claims it has
 	- certification: assessing whether a product is suitable for a given application. This naturally relies on an evaluation having been done

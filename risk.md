@@ -9,3 +9,4 @@ Risk is a function of the [[vulnerability]] and the [[threat]]. If we can reduce
 >[!warning]
 >There is no such thing as risk-free in a production system, and trying to make it so will drive you mad. Be warned.
 
+In [[CYM020 week 01]], [[Chris Mitchell]] argues that risk is actually a function of the [[impact]] and the likelihood. 

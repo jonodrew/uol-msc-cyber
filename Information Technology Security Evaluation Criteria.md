@@ -1,0 +1,5 @@
+---
+alias: [ITSEC]
+tags:
+- standard
+---

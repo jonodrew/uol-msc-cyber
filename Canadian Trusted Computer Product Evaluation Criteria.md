@@ -1,0 +1,5 @@
+---
+alias: [CTCPEC]
+tags:
+- standard
+---

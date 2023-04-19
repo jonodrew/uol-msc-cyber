@@ -4,5 +4,7 @@
   "included": [
     "/"
   ],
-  "excluded": []
+  "excluded": [
+    "CYM500 - MSc project"
+  ]
 }

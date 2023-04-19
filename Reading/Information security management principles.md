@@ -1,7 +1,7 @@
 ## Authors
 [[Andy Taylor]], [[David Alexander]], [[Amanda Finch]], [[David Sutton]]
 
-## Chapter one: [[Information security]] principles
+## Chapter 1: [[Information security]] principles
 ### Concepts and definitions
 The definitions below are drawn from [[ISO 27000]]
 This adds a new definition of [[confidentiality]], which I've added to that page and inserted below:
@@ -20,7 +20,23 @@ We also cover [[asset|assets]], [[threat|threats]], [[vulnerability|vulnerabilit
 
 Then we look at [[identity]], [[authentication]], and [[authorisation]]
 
+### The [[information security management system]] concepts
+If people are going to use the ISMS, they need to be able to understand it - read it, and understand it.
+
 ### The need for, and benefits of, [[Information security]]
+Securing information:
+- is expensive
+- makes working with the information more difficult
+So why should we bother?
+
+#### As part of a business model
+Digital and technology means we can now approve multi-million pound spends with an email. Information assurance gives us the tools to prove that the email is from a legitimate source! In addition, it gives us the tools to protect data - whether it's sensitive customer data, which might have a regulatory cost attached if we lose it, or sensitive internal data, like our commercial plans, which would damage our bottom line if they were leaked.
+
+Remember that some information assets are inside your employees' heads. Consider how best to manage that.
+
+>[!warning] Remember that unlicensed surgery is illegal in most jurisdictions
+
+
 
 ## Chapter 2
 
@@ -28,15 +44,15 @@ Then we look at [[identity]], [[authentication]], and [[authorisation]]
 >Based on what you have learned so far and using the education SME (college) scenario example from our previous reading, consider what we could do as an organisation to minimise our information assets and thus reduce our cyber exposure.
 
 ### Model answer
-Minimise the data we keep, protect that data, ensure confidentiality (encrypt data at rest and data in motion), ensure integrity (data is not altered) and ensure availability is for authorised individuals and data is destroyed as specified.  Undertake Privacy Impact Assessments (PIA) or Data protection Impact Assessments (DPIA) activities etc. including considerations with respect to cloud computing (if appropriate). 
+Minimise the data we keep, protect that data, ensure [[confidentiality]] (encrypt data at rest and data in motion), ensure [[integrity]] (data is not altered) and ensure [[availability]] is for authorised individuals and data is destroyed as specified.  Undertake Privacy Impact Assessments (PIA) or Data protection Impact Assessments (DPIA) activities etc. including considerations with respect to cloud computing (if appropriate). 
 
-Maintain good relationship with the ICO and ensure our data protection officers are trained and processes are robust. 
+Maintain good relationship with the [[Information Commissioner’s Office|ICO]] and ensure our data protection officers are trained and processes are robust. 
 
 Ensure good control of access to data and do the best to detect unauthorised access to minimise data exfiltration and response. 
 
-Consider if some data can be securely archived (air-gap) so an online attack accesses the minimum information. (Note insider threat considerations and also whether you actually need to keep the data or it needs to be securely destroyed.)
+Consider if some data can be securely archived (air-gap) so an online [[attack]] accesses the minimum information. (Note insider threat considerations and also whether you actually need to keep the data or it needs to be securely destroyed.)
 
-Later in the degree course, there is another module on privacy which will provide more depth. There are some key requirements and guidance for the UK from the Information Commissioners Office (ICO) which provides a depth of information.
+Later in the degree course, there is another module on privacy which will provide more depth. There are some key requirements and guidance for the UK from the Information Commissioners Office ([[Information Commissioner’s Office|ICO]]) which provides a depth of information.
 
 -   [ICO advice](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/security/)
     
@@ -64,3 +80,9 @@ Our IT/security team, our employees and students need awareness, training, and o
 How much will it cost to make our organisation 'significantly above average' in terms of cyber protect, detect and respond/recover?  (And how can we measure this?) In scenario 14, we have identified average threat and information assets, but selected our protect, detect, respond/recover capabilities as significantly above average. That could potentially save circa £400,000 per annum based on one successful cyber-attack according to the HISCOX cyber exposure calculator. 
 
 Note it is a model based on previous data for similar businesses, we might be unlucky and the attackers could have more successful attacks and we have significantly higher losses. We might not save £400,000 per annum, so we are speculating here on what might be.
+
+## Chapter 3
+### Security standards and procedures
+The key standards in the area of information security are in the [[International Standards Organisation|ISO]] 27xxx series. Specifically, there is [[ISO 27001]] and [[ISO 27002]].
+
+There are also standards for securing information technology systems. In the EU, the standard is [[Information Technology Security Evaluation Criteria]]. This scheme has itself been standardised with Canada's [[Canadian Trusted Computer Product Evaluation Criteria]] and the US' [[Trusted Computer System Evaluation Criteria]], producing the [[Common Criteria for Information Technology Security Evaluation Criteria]]
