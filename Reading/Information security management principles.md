@@ -54,24 +54,16 @@ Consider if some data can be securely archived (air-gap) so an online [[attack]]
 
 Later in the degree course, there is another module on privacy which will provide more depth. There are some key requirements and guidance for the UK from the Information Commissioners Office ([[Information Commissioner’s Office|ICO]]) which provides a depth of information.
 
--   [ICO advice](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/security/)
-    
--   [ICO data protection by design](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-by-design-and-default/) (note security by design and privacy by design are key considerations)
-    
--   [ICO security outcomes](https://ico.org.uk/for-organisations/security-outcomes/)
-    
--   [ICO accountability and governance](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/)
-    
--   [ICO small business security practical guide](https://ico.org.uk/media/for-organisations/documents/1575/it_security_practical_guide.pdf)
-    
--   [ICO accountability framework](https://ico.org.uk/for-organisations/accountability-framework/)
-    
--   [ICO use of encryption](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/encryption/)
-    
--    [ICO guide to cloud computing](https://ico.org.uk/media/for-organisations/documents/1540/cloud_computing_guidance_for_organisations.pdf)
-    
--   [ICO guide for online services](https://ico.org.uk/media/for-organisations/documents/1042221/protecting-personal-data-in-online-services-learning-from-the-mistakes-of-others.pdf)
-    
+- [ICO advice](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/security/)
+- [ICO data protection by design](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-by-design-and-default/) (note security by design and privacy by design are key considerations)
+- [ICO security outcomes](https://ico.org.uk/for-organisations/security-outcomes/)
+- [ICO accountability and governance](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/)
+- [ICO small business security practical guide](https://ico.org.uk/media/for-organisations/documents/1575/it_security_practical_guide.pdf)
+- [ICO accountability framework](https://ico.org.uk/for-organisations/accountability-framework/)
+- [ICO use of encryption](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/encryption/)
+- [ICO guide to cloud computing](https://ico.org.uk/media/for-organisations/documents/1540/cloud_computing_guidance_for_organisations.pdf)
+- [ICO guide for online services](https://ico.org.uk/media/for-organisations/documents/1042221/protecting-personal-data-in-online-services-learning-from-the-mistakes-of-others.pdf)
+
 
 In terms of threat – is there much we can do to make us less of a target? We can [reduce exposure as identified by NCSC](https://www.ncsc.gov.uk/information/reducing-your-exposure-to-cyber-attack)  where we are effectively investing in our protect, detect and response capabilities.   
 
@@ -86,3 +78,6 @@ Note it is a model based on previous data for similar businesses, we might be un
 The key standards in the area of information security are in the [[International Standards Organisation|ISO]] 27xxx series. Specifically, there is [[ISO 27001]] and [[ISO 27002]].
 
 There are also standards for securing information technology systems. In the EU, the standard is [[Information Technology Security Evaluation Criteria]]. This scheme has itself been standardised with Canada's [[Canadian Trusted Computer Product Evaluation Criteria]] and the US' [[Trusted Computer System Evaluation Criteria]], producing the [[Common Criteria for Information Technology Security Evaluation Criteria]]
+
+
+

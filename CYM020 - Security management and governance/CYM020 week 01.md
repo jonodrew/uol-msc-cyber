@@ -52,3 +52,23 @@ So what's the answer? Simple. Cyber-security is everyone's responsibility, and f
 
 ### reading
 - [[Information security management principles#Chapter 3]]
+
+## *de facto* and *de jure* standards
+>[!fail] If you're wondering, indiscriminate use of Latin is a sure sign of an insecure industry that needs to prove how clever it is
+
+*de facto* standards are standards that are bottom-up; that is, they are used because they are useful, or because the biggest player in the market uses them and everyone follows suit. *de jure* standards, by contrast, come from 'official' (for some value of official) bodies. *de facto* standards can become *de jure* if someone official decides to give the standard an 'official' mark of approval
+
+>[!question] Should standards be public and freely available?
+>Yes!
+>
+>Unfortunately, because [[International Standards Organisation|ISO]] makes most of its money from selling access to the standards, this is unlikely to happen any time soon
+
+A quick segue into [[RFC]], which is a process for making bottom-up, *de facto* standards. These standards dictate how large parts of the [[Internet]] are run.
+
+>[!question] Compliance with a security framework standard like ISO/IEC 27001 undoubtedly involves the generation of a lot of documentation. Some people regard this as a waste of time, and argue that the time spent on documenting procedures, risk assessments, etc., would be better spent on actually doing things. Please take a few minutes to think about this and write down your response.
+>
+>The question proposes a false binary, as both are unhelpful. An organisation that spends all of its time generating documentation, conducting risk assessements, etc, is not more secure than one that has not. Indeed, it may be less secure: people have a tendency to view the act of writing something down as equivalent to enacting it. 
+>
+>However, an organisation that charges around, securing things but never documenting what it's done or why is equally probably less secure than it was. If colleagues don't understand the reasoning, or can't find it in an emergency, they will not understand what actions to take. 
+>
+>In short, documentation should be proportionate to action, and actions should be documented.
