@@ -1,6 +1,11 @@
 ### Definition
+
 >The effect of uncertainty on objectives 
 >\- ([[ISO 27000]])
+
+>[!quote] A measure of the extent to which an entity is threatened by a potential circumstance or event, and typically a function of: (i) the adverse impacts that would arise if the circumstance or event occurs; and (ii) the likelihood of occurrence.
+>
+>\- [[NIST]]
 
 Completely pointless definition there.
 

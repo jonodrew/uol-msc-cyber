@@ -1,6 +1,6 @@
 ### Definition
 >[!quote] A potential cause of an unwanted incident, which may result in harm to a system or organisation 
->\-([[ISO 27000]])
+>\- ([[ISO 27000]])
 
 >[!quote] A source of potential disruption that has the potential to cause a [[risk]]
 >\- Taylor et al
