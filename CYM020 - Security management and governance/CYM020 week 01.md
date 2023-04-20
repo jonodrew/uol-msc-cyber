@@ -53,7 +53,7 @@ So what's the answer? Simple. Cyber-security is everyone's responsibility, and f
 ### reading
 - [[Information security management principles#Chapter 3]]
 
-## *de facto* and *de jure* standards
+### *de facto* and *de jure* standards
 >[!fail] If you're wondering, indiscriminate use of Latin is a sure sign of an insecure industry that needs to prove how clever it is
 
 *de facto* standards are standards that are bottom-up; that is, they are used because they are useful, or because the biggest player in the market uses them and everyone follows suit. *de jure* standards, by contrast, come from 'official' (for some value of official) bodies. *de facto* standards can become *de jure* if someone official decides to give the standard an 'official' mark of approval
@@ -72,3 +72,21 @@ A quick segue into [[RFC]], which is a process for making bottom-up, *de facto* 
 >However, an organisation that charges around, securing things but never documenting what it's done or why is equally probably less secure than it was. If colleagues don't understand the reasoning, or can't find it in an emergency, they will not understand what actions to take. 
 >
 >In short, documentation should be proportionate to action, and actions should be documented.
+
+## Lesson 3: Security [[threat|threats]], [[risk|risks]], and [[control|controls]]
+#### 3.1: [[threat]] and [[risk]]
+A threat stands in opposition to our attempts to maintain the [[CIA triad]]. That is, a threat might:
+- read without [[authorisation]], threatening [[confidentiality]]
+- write without [[authorisation]], threating [[integrity]]
+- reduce [[availability]] of data. They might do this through deleting the data, encrypting the data (cf. [[ransomware]]), or by overwhelming a system (cf. [[Denial of Service|DoS]] )
+
+>[!question] Is there anything missing here?
+>
+>Some might argue that [[accountability]] is not included in this definition
+
+However, [[Chris Mitchell]] argues (and I agree) that accountability is a system function and not a security function. As security professionals, we are concerned with ensuring that function is available and its integrity is not compromised - but it's not our concern who did what.
+
+On the other hand, a security function that doesn't care about [[accountability]] or [[non-repudiation]] is going to struggle to be useful. These functions are only valuable if we don't maintain [[CIA triad|CIA]] - but by contrast, one of the necessary elements of building [[resilience]] in a system is accepting that we'll never maintain a perfect CIA. So maybe we should be accepting that cybersecurity has a wider scope than just CIA.
+
+#### reading
+- [[Information security management principles#Chapter 2]] pp19-24

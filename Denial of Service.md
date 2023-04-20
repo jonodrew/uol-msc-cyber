@@ -2,7 +2,7 @@
 alias: [DoS]
 ---
 
-An attack that makes some or all of the network unusable, thereby affecting [[availability]]. Typically such attacks flood parts of the network with traffic, or render components unusable
+An [[attack]] that makes some or all of the network unusable, thereby affecting [[availability]]. Typically such attacks flood parts of the network with traffic, or render components unusable
 
 That means a billion requests to a component, or smashing it with a hammer, and technically are both denial of service attacks
 
