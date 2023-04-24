@@ -1,1 +1,1 @@
-The presentation of an [[identity]]. Not the same as [[authentication]]
+The presentation of an [[identity]]. Not the same as [[authentication]]. Identification is an N:1 operation - the assertion of one identity out of many

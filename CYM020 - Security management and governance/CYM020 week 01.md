@@ -88,5 +88,22 @@ However, [[Chris Mitchell]] argues (and I agree) that accountability is a system
 
 On the other hand, a security function that doesn't care about [[accountability]] or [[non-repudiation]] is going to struggle to be useful. These functions are only valuable if we don't maintain [[CIA triad|CIA]] - but by contrast, one of the necessary elements of building [[resilience]] in a system is accepting that we'll never maintain a perfect CIA. So maybe we should be accepting that cybersecurity has a wider scope than just CIA.
 
+### [[control|security control]]
+
+
 #### reading
-- [[Information security management principles#Chapter 2]] pp19-24
+- [[Information security management principles#Chapter 2]] pp19-38
+- [[Information security management principles#Chapter 5]] pp. 102-117
+
+## Lesson 4: Isn't it all about people?
+- We talk about [[authentication]] and [[authorisation]] mechanisms
+	- with authorisation we segue into multifactor authentication and [[biometrics]]
+- then technological controls like 'groups' - cf. [[roles-based access control]] and [[access control]] 
+- then access points, and the relative merits of hardlines, wireless network within the [[network]] perimiter, and remote access (likely via a [[virtual private network|VPN]])
+- then data protection, noting the procedural control of 'classification'
+	- Oooh, this is my chance to show you [Jon Snow taking us through the new levels of security classification](https://www.youtube.com/watch?v=gHGP4ikjIp8)
+	- We also note that the US includes confidential, restricred, protected, and unclassified
+	- commercial organisations may use terms like public, internal, confidential, and highly confidential
+- We touch on need-to-know, but this time there's nuance in acknowledging that sometimes you don't know ahead of time who needs to know
+	- it all comes back to [[risk appetite]]!
+- 

@@ -65,6 +65,7 @@ Later in the degree course, there is another module on privacy which will provid
 - [ICO guide to cloud computing](https://ico.org.uk/media/for-organisations/documents/1540/cloud_computing_guidance_for_organisations.pdf)
 - [ICO guide for online services](https://ico.org.uk/media/for-organisations/documents/1042221/protecting-personal-data-in-online-services-learning-from-the-mistakes-of-others.pdf)
 
+The next section is [[risk management]], which has its own page.
 
 In terms of threat – is there much we can do to make us less of a target? We can [reduce exposure as identified by NCSC](https://www.ncsc.gov.uk/information/reducing-your-exposure-to-cyber-attack)  where we are effectively investing in our protect, detect and response capabilities.   
 
@@ -80,5 +81,10 @@ The key standards in the area of information security are in the [[International
 
 There are also standards for securing information technology systems. In the EU, the standard is [[Information Technology Security Evaluation Criteria]]. This scheme has itself been standardised with Canada's [[Canadian Trusted Computer Product Evaluation Criteria]] and the US' [[Trusted Computer System Evaluation Criteria]], producing the [[Common Criteria for Information Technology Security Evaluation Criteria]]
 
+
+## Chapter 5: Procedural and people [[control|security controls]]
+>[!quote] \[...\] the subject of controls is an almost bottomless pit
+>
+>\- Taylor et al.
 
 
