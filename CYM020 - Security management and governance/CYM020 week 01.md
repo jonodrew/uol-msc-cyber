@@ -93,7 +93,7 @@ On the other hand, a security function that doesn't care about [[accountability]
 
 #### reading
 - [[Information security management principles#Chapter 2]] pp19-38
-- [[Information security management principles#Chapter 5]] pp. 102-117
+- [[Information security management principles#Chapter 5]] pp. 102-124
 
 ## Lesson 4: Isn't it all about people?
 - We talk about [[authentication]] and [[authorisation]] mechanisms
@@ -106,4 +106,13 @@ On the other hand, a security function that doesn't care about [[accountability]
 	- commercial organisations may use terms like public, internal, confidential, and highly confidential
 - We touch on need-to-know, but this time there's nuance in acknowledging that sometimes you don't know ahead of time who needs to know
 	- it all comes back to [[risk appetite]]!
-- 
+- every [[asset]] needs an [[asset owner]]
+- remember [[ISO 27001#Leadership]]!
+### Security culture
+- Culture is a social construct!
+- That means it's flexible, but also that people in one culture don't realise it's flexible or that they can change it
+- Culture can be attitudes, values, beliefs, arts, sciences, modes of perception and habits of thought and activity
+- [[Chris Mitchell]] says that means security culture refers to the attitudes, values, and beliefs - but I'd go further and argue that security people and security culture also has arts (that is, things it considers valuable and precious), sciences, modes of perception (we have a specific way of looking at the world that other people don't have) and habits of thought and activity. 
+- Security culture is a subset of human culture, and there's something fascinating to explore about whether certain subsets of human culture are better suited to security culture
+- We can also apply history and existing research to identifying how to move a culture towards the things we value, and away from the things we don't
+- Consider propaganda, positive reinforcement, negative reinforcement, structural changes, social pressure...

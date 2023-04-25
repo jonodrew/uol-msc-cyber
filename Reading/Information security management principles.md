@@ -87,4 +87,11 @@ There are also standards for securing information technology systems. In the EU,
 >
 >\- Taylor et al.
 
-
+### training and awareness
+- try not be sidetracked by what seems cool at the moment. Instead, focus on your actual [[attack surface]]
+- run your internal culture change campaign the same way professionals run behaviour change campaigns
+- make sure senior people are seen to care about this stuff
+- Different formats of information will work differently, and variety is important and helpful
+- Please don't use [[phishing attacks]] against your own staff (personal, very strongly held opinion)
+- [Here's an interesting article a classmate shared](https://www.philvenables.com/post/people-and-security-incentives)
+- 
