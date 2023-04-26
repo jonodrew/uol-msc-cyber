@@ -10,7 +10,9 @@ This week is concerned with standards for approaches to, and techniques used in,
 
 ## reading
 - [[Information security management principles#Chapter 3]]
-- 
 
 
-## Lesson 1
+## Lesson 1: an overview of security management #standard 
+- we quickly review the [[NIST Cyber Security Framework]] and [[NIST Special Publication 800-53]]
+- we also touch on [[Cyber Essentials]]
+- also note [[ISO 27701]], which is a #standard that explains how to apply [[ISO 27001]] to protect privacy
