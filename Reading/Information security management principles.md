@@ -75,7 +75,15 @@ How much will it cost to make our organisation 'significantly above average' in 
 
 Note it is a model based on previous data for similar businesses, we might be unlucky and the attackers could have more successful attacks and we have significantly higher losses. We might not save £400,000 per annum, so we are speculating here on what might be.
 
-## Chapter 3
+## Chapter 3: Information security framework
+### The information security manager
+- A role that's responsible for [[information assurance]]. They are responsible for:
+	- co-ordinating IA activities across the enterprise, including those outside the IA function
+	- co-ordinating the creation of security policy
+	- communicating security information to other employees and users
+		- 
+
+
 ### Security standards and procedures
 The key standards in the area of information security are in the [[International Standards Organisation|ISO]] 27xxx series. Specifically, there is [[ISO 27001]] and [[ISO 27002]].
 

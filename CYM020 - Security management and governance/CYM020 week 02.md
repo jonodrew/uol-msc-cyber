@@ -7,3 +7,10 @@ This week is concerned with standards for approaches to, and techniques used in,
 -   Evaluate the appropriateness of security management frameworks for an organisation
 -   Create security policies underlying an ISMS
 -   Contribute to the development of an Information Security Management System (ISMS), in line with the requirements of ISO/IEC 27001, and evaluate its suitability
+
+## reading
+- [[Information security management principles#Chapter 3]]
+- 
+
+
+## Lesson 1
