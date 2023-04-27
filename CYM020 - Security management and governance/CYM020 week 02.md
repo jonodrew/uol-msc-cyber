@@ -10,6 +10,7 @@ This week is concerned with standards for approaches to, and techniques used in,
 
 ## reading
 - [[Information security management principles#Chapter 3]]
+- Clause 5 of the [[ISO 27000]]
 
 
 ## Lesson 1: an overview of security management #standard 
