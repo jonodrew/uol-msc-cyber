@@ -102,7 +102,7 @@ On the other hand, a security function that doesn't care about [[accountability]
 - then access points, and the relative merits of hardlines, wireless network within the [[network]] perimiter, and remote access (likely via a [[virtual private network|VPN]])
 - then data protection, noting the procedural control of 'classification'
 	- Oooh, this is my chance to show you [Jon Snow taking us through the new levels of security classification](https://www.youtube.com/watch?v=gHGP4ikjIp8)
-	- We also note that the US includes confidential, restricred, protected, and unclassified
+	- We also note that the US includes confidential, restricted, protected, and unclassified
 	- commercial organisations may use terms like public, internal, confidential, and highly confidential
 - We touch on need-to-know, but this time there's nuance in acknowledging that sometimes you don't know ahead of time who needs to know
 	- it all comes back to [[risk appetite]]!
