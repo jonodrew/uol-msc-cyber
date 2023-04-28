@@ -10,4 +10,4 @@ They are:
 3. [[access control]]
 4. [[malware]] protection
 5. security update management
-These controls are all [[control#Reactive|reactive]]
+These controls are all [[control#Preventive|preventive]]

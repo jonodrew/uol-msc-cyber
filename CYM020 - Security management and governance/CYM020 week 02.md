@@ -20,4 +20,6 @@ This week is concerned with standards for approaches to, and techniques used in,
 - How would you choose between NIST and 27001?
 	- Depends whether you need certification, but also how mature the security function is within the organisation
 - Then we get into [[Cyber Essentials]]
-- 
+
+## Lesson 2: Deep dive on [[ISO 27001|ISO/IEC 27001]]
+
