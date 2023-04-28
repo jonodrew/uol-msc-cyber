@@ -17,3 +17,7 @@ This week is concerned with standards for approaches to, and techniques used in,
 - we quickly review the [[NIST Cyber Security Framework]] and [[NIST Special Publication 800-53]]
 - we also touch on [[Cyber Essentials]]
 - also note [[ISO 27701]], which is a #standard that explains how to apply [[ISO 27001]] to protect privacy
+- How would you choose between NIST and 27001?
+	- Depends whether you need certification, but also how mature the security function is within the organisation
+- Then we get into [[Cyber Essentials]]
+- 
