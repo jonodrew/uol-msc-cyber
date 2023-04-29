@@ -21,5 +21,11 @@ This week is concerned with standards for approaches to, and techniques used in,
 	- Depends whether you need certification, but also how mature the security function is within the organisation
 - Then we get into [[Cyber Essentials]]
 
-## Lesson 2: Deep dive on [[ISO 27001|ISO/IEC 27001]]
+## Lesson 2: Deep dive on the [[International Standards Organisation|ISO]] frameworks
+- [[ISO 27001|ISO/IEC 27001]]
+- [[ISO 27002|ISO/IEC 27002]]
+- A reminder that security policies should be in line with the organisation's wider objectives:
+	- "We will enforce need to know" is at odds with "We will let teams experiment with data to find new solutions", unless you redefine "need to know" as "everyone needs to know" - in which case what's the point of the policy?
+- [[Stamtent of Applicability]]
+- 
 
