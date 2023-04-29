@@ -27,5 +27,7 @@ This week is concerned with standards for approaches to, and techniques used in,
 - A reminder that security policies should be in line with the organisation's wider objectives:
 	- "We will enforce need to know" is at odds with "We will let teams experiment with data to find new solutions", unless you redefine "need to know" as "everyone needs to know" - in which case what's the point of the policy?
 - [[Statement of Applicability]]
-- 
+
+## Lesson 3: [[NIST Cyber Security Framework]]
+
 
