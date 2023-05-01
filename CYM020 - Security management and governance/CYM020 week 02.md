@@ -11,6 +11,7 @@ This week is concerned with standards for approaches to, and techniques used in,
 ## reading
 - [[Information security management principles#Chapter 3]]
 - Clause 5 of the [[ISO 27000]]
+- chapter 2 of [[NIST Special Publication 800-53|NIST SP 800-53]]: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf
 
 
 ## Lesson 1: an overview of security management #standard 
@@ -28,6 +29,15 @@ This week is concerned with standards for approaches to, and techniques used in,
 	- "We will enforce need to know" is at odds with "We will let teams experiment with data to find new solutions", unless you redefine "need to know" as "everyone needs to know" - in which case what's the point of the policy?
 - [[Statement of Applicability]]
 
-## Lesson 3: [[NIST Cyber Security Framework]]
+## Lesson 3: [[NIST]] security framework
+- [[NIST Cyber Security Framework]]
+- and then [[NIST Special Publication 800-53|NIST SP 800-53]]
+- note that 27002 used to categorise [[control|security controls]] in the same way that SP 800-53 does - according to purpose, as opposed to mechanism. ISO argue that the change was made because the new taxonomy is simpler, and there is no overlap between groups.
+- There's a brief summary of the set of controls in the 'Awareness and Training' family of [[NIST Special Publication 800-53|NIST SP 800-53]].
+- The fifteenth class of controls in 800-53 is entitled 'Personally identifiable information processing and transparency', and regards privacy rather than (strictly) security
+- worth noting that NIST documents are loosely coupled, and seem more 'agile' or at least iterative. ISO documents are more targeted towards compliance and certification
+
+## Lesson 4: Certification
+
 
 
