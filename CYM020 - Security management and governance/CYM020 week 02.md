@@ -12,6 +12,9 @@ This week is concerned with standards for approaches to, and techniques used in,
 - [[Information security management principles#Chapter 3]]
 - Clause 5 of the [[ISO 27000]]
 - chapter 2 of [[NIST Special Publication 800-53|NIST SP 800-53]]: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf
+- What is ISO 27001? https://advisera.com/27001academy/what-is-iso-27001/
+- cyber essentials requirements: https://www.ncsc.gov.uk/files/Cyber-Essentials-Requirements-for-Infrastructure-v3-1-January-2023.pdf
+- guide to secure payments: https://www.pcisecuritystandards.org/wp-content/uploads/2022/05/Small_Merchant_Guide_to_Safe_Payments.pdf
 
 
 ## Lesson 1: an overview of security management #standard 
@@ -38,6 +41,21 @@ This week is concerned with standards for approaches to, and techniques used in,
 - worth noting that NIST documents are loosely coupled, and seem more 'agile' or at least iterative. ISO documents are more targeted towards compliance and certification
 
 ## Lesson 4: Certification
+- the compliance process for [[ISO 27001|ISO/IEC 27001]] is theoretically simple
+- compliance must be audited by an independent third party. This third party will comply with more requirements, which are listed in a different standard: [[ISO 17021-1]]
+	- it's standards all the way down!
+- There's also (!!) another standard, [[ISO 27006]], which describes additional requirements on organisations verifying compliance with 27001.
+- [[UKAS]] is the UK-based organisation that audits organisations that want to offer 27001 compliance. That is, the answer to the question "Who audits the auditors" is, in this case, UKAS
+- The [[British Standards Institution]] offers certification/audit services, and provides us an opprtunity to check out the process
+### The certification process
+First, there is a gap analysis. The existing [[information security management system|ISMS]] is examined and compared with the requirements in 27001. If there are gaps between the two, these can be flagged and remediated before the 'formal' assessment.
 
+Then comes the formal assessment in two stages. First, a check to see whether all specified procedures/approaches in 27001 have been implemented, and asking the client to rectify any omissions.
 
+Once this has been done, the auditor should examine the full set of procedures and and controls to ensure they're working effectively.
 
+The third and final phase is to issue the certificate of compliance, which is generally valid for three years. However, it's worth noting that there are still follow up checks during that period to ensure that the ISMS remains compliant
+
+### Other certifications
+- [[Cyber Essentials]]!
+- [[PCI DSS]]!
