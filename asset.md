@@ -11,3 +11,9 @@ Assets come in as great an array of types as the mechanisms for using them. In i
 >[!warning]
 >Apparently staff are not an asset. Interesting approach, let's see how it works out for them
 
+## information assets
+Information might be structured or unstructured: stuctured, like a relational database, or unstructured, like memos or written records
+
+They might also vary in location. They may be locally held. They may be backed up to a cloud storage facility, or may even originate there and never touch the user's device.
+
+Information assets can be in transit, or at rest. We protect such information from eavesdropping risks using [[encryption]].

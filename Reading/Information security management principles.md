@@ -39,7 +39,7 @@ Remember that some information assets are inside your employees' heads. Consider
 
 
 ## Chapter 2: Information [[risk]]
-Let's start with a bit more detail on [[threat]], [[vulnerability]], and [[asset]]
+Let's start with a bit more detail on [[threat]], [[vulnerability]], and [[asset]]. Then let's talk about [[impact]].
 
 >[!question]
 >Based on what you have learned so far and using the education SME (college) scenario example from our previous reading, consider what we could do as an organisation to minimise our information assets and thus reduce our cyber exposure.

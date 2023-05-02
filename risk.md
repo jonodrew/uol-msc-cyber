@@ -7,6 +7,11 @@
 >
 >\- [[NIST]]
 
+>[!quote] The detrimental effect on an [[asset]] of a [[threat]] being realised
+>
+>\- [[Chris Mitchell]]
+
+
 Completely pointless definition there.
 
 Risk is a function of the [[vulnerability]] and the [[threat]]. If we can reduce one or both of these inputs, we can reduce overall risk.
