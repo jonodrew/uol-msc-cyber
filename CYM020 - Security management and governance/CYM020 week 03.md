@@ -21,4 +21,13 @@ This week is concerned with the management of cyber security risks. Risk managem
 - Are we now ready to manage risk?
 - No! First we must consider the nature of the assets that are at risk
 - 🚨 there is no clear boundary between the inside and outside of an organisation any more! 🚨
-- 
+- risk management is a superset of cybersecurity management, which is a superset of cybersecurity
+- there is a standard for risk management 😭 [[ISO 31000|ISO/IEC ISO 31000]], and a further standard that builds on it ([[ISO 27005|ISO/IEC 27005]])
+- they're going to be the focus of the next lesson
+- Let's talk about [[risk assessment]]
+- [[ISO 27001|ISO/IEC 27001]] requires that organisations have a security [[risk assessment]] process that:
+	- defines security risk criteria, including both risk acceptance criteria and criteria for performing risk assessments
+	- ensures that risk assessments produce consistent, valid, and comparable results
+	- identifies information security risks
+	- analuses the information security risks, including assessing the consequences, assessing the likelihood, and determining the overall level
+	- evaluates the information security risks, including prioritising the analysed risks for [[risk treatment]]

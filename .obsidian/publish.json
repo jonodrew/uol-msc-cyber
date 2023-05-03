@@ -5,6 +5,7 @@
     "/"
   ],
   "excluded": [
-    "CYM500 - MSc project"
+    "CYM500 - MSc project",
+    "exports"
   ]
 }
