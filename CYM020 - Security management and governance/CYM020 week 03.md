@@ -11,6 +11,7 @@ This week is concerned with the management of cyber security risks. Risk managem
 ## reading
 - [[Information security management principles#Chapter 2: Information risk]]
 - Clauses A.2.1-A.2.5 of Annex A of [[ISO 27005]].
+- [_Standard deviations: a risk practitioner's guide to ISO 31000_](https://www.theirm.org/news/standard-deviations-a-risk-practitioner-guide-to-iso-31000/ "Standard deviations")
 
 ## Lesson 1: What is [[risk management]]?
 - before you can manage a risk, padawan, you must understand what a [[risk]] is
@@ -31,3 +32,10 @@ This week is concerned with the management of cyber security risks. Risk managem
 	- identifies information security risks
 	- analuses the information security risks, including assessing the consequences, assessing the likelihood, and determining the overall level
 	- evaluates the information security risks, including prioritising the analysed risks for [[risk treatment]]
+
+>[!question] ISO/IEC 27001 requires risk assessment to be carried out periodically, according to a predefined schedule, and also when **significant changes** are proposed or occur. What sorts of events might be defined as significant changes in this context?
+>
+>Significant changes are those that require a review of risks. Although this sounds circular, it's impossible to detail what 'significant' means absent the context of an organisation. However, given the cost and intensity of people-time required, we can rule out minor changes in staffing. A migration from local servers to cloud; a change of office location; or the takeover of another company would always be considered 'significant' changes.
+
+- we go in deptth on [[ISO 31000]]
+- and then on to [[ISO 27005|ISO/IEC 27005]]
