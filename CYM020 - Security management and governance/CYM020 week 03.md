@@ -12,7 +12,7 @@ This week is concerned with the management of cyber security risks. Risk managem
 - [[Information security management principles#Chapter 2: Information risk]]
 - Clauses A.2.1-A.2.5 of Annex A of [[ISO 27005]].
 - [_Standard deviations: a risk practitioner's guide to ISO 31000_](https://www.theirm.org/news/standard-deviations-a-risk-practitioner-guide-to-iso-31000/ "Standard deviations")
-- clauses 5, 6, 7.1, 7.2 of [[ISO 27005|ISO/IEC 27005]]
+- clauses 5, 6, 7.1, 7.2, 7.3, 7.4 of [[ISO 27005|ISO/IEC 27005]]
 
 ## Lesson 1: What is [[risk management]]?
 - before you can manage a risk, padawan, you must understand what a [[risk]] is
@@ -40,3 +40,13 @@ This week is concerned with the management of cyber security risks. Risk managem
 
 - we go in deptth on [[ISO 31000]]
 - and then on to [[ISO 27005|ISO/IEC 27005]]
+
+## Lesson 2: [[risk assessment]]
+1. [[risk identification]]
+2. [[risk management#Risk analysis]]
+3. [[risk treatment]]
+4. Risk evaluation
+>[!question] When might it be appropriate to treat a risk which is assessed as being within the risk appetite of an organisation?
+>
+>It might be appropriate to treat a risk, even if it is within tolerance, when that risk is relatively unknown or if there is an element of uncertainty about the threats. For example, if the threat is unknown or poorly understood - suppose an insider whose capabilities could vary quite significantly . Alternatively, it might be the case that the context of the vulnerability is not well understood - for example, if there is a poor understanding of the extent to which a software library is incorporated across the business.
+
