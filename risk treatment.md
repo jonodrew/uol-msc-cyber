@@ -1,5 +1,8 @@
 Some approaches to treating [[risk]] following a [[risk assessment]]
 
+## choosing your treatment
+
+## options
 - modification: risk reduction by some control. These controls might be 
 	- preventative, whereby we try to prevent a risk occuring
 	- reactive controls, which occur after a breach or incident has occured
