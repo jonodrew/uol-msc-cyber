@@ -12,6 +12,7 @@ This week is concerned with the management of cyber security risks. Risk managem
 - [[Information security management principles#Chapter 2: Information risk]]
 - Clauses A.2.1-A.2.5 of Annex A of [[ISO 27005]].
 - [_Standard deviations: a risk practitioner's guide to ISO 31000_](https://www.theirm.org/news/standard-deviations-a-risk-practitioner-guide-to-iso-31000/ "Standard deviations")
+- clauses 5, 6, 7.1, 7.2 of [[ISO 27005|ISO/IEC 27005]]
 
 ## Lesson 1: What is [[risk management]]?
 - before you can manage a risk, padawan, you must understand what a [[risk]] is
@@ -29,7 +30,7 @@ This week is concerned with the management of cyber security risks. Risk managem
 - [[ISO 27001|ISO/IEC 27001]] requires that organisations have a security [[risk assessment]] process that:
 	- defines security risk criteria, including both risk acceptance criteria and criteria for performing risk assessments
 	- ensures that risk assessments produce consistent, valid, and comparable results
-	- identifies information security risks
+	- [[risk identification|identifies information security risks]]
 	- analuses the information security risks, including assessing the consequences, assessing the likelihood, and determining the overall level
 	- evaluates the information security risks, including prioritising the analysed risks for [[risk treatment]]
 

@@ -17,3 +17,6 @@ Information might be structured or unstructured: stuctured, like a relational da
 They might also vary in location. They may be locally held. They may be backed up to a cloud storage facility, or may even originate there and never touch the user's device.
 
 Information assets can be in transit, or at rest. We protect such information from eavesdropping risks using [[encryption]].
+
+## ownership
+Assets should have an owner. However, in a brutal reminder that Marx had a point, it turns out an asset owner is generally the person or team responsible for the production, development, maintenance, use, and security. It is not the person or team who 'owns' the asset in paper terms.
