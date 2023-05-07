@@ -12,7 +12,7 @@ This week is concerned with the management of cyber security risks. Risk managem
 - [[Information security management principles#Chapter 2: Information risk]]
 - Clauses A.2.1-A.2.5 of Annex A of [[ISO 27005]].
 - [_Standard deviations: a risk practitioner's guide to ISO 31000_](https://www.theirm.org/news/standard-deviations-a-risk-practitioner-guide-to-iso-31000/ "Standard deviations")
-- clauses 5, 6, 7.1, 7.2, 7.3, 7.4, 8.1, 8.2, 8.3 of [[ISO 27005|ISO/IEC 27005]]
+- clauses 5, 6, 7.1, 7.2, 7.3, 7.4, 8.1, 8.2, 8.3, Annex A.1 of [[ISO 27005|ISO/IEC 27005]]
 
 ## Lesson 1: What is [[risk management]]?
 - before you can manage a risk, padawan, you must understand what a [[risk]] is
@@ -57,3 +57,11 @@ This week is concerned with the management of cyber security risks. Risk managem
 >
 >Additionally, for me this raises the following question: who owns the risk of the risk-sharer going bankrupt, and what treatment can be applied to this *other* than acceptance? Can it be mitigated through re-insurance?
 
+## Lesson 5: A simple scenario
+- [[Chris Mitchell]] takes us through a simple example of [[risk assessment]]
+- for a qualitative assessment that's given a numerical score, what's the impact of a function that sums the scores versus a function that calculates the product? 
+	- There's no difference in the matrix that's output, so I suppose it comes down to whether you think a risk of 25/25 is going to impress folks more than 8/8
+	- However, if your risks are qualitative, your qualities will appear larger. For example: if you have a risk that is a 2/2, and you reduce the likelihood to 1, the sum function tells you that you've reduced the risk by 25% (4 --> 3), while the product function tells you that you've reduced the risk by 50% (4 --> 2). Which is a more accurate representation of the world?
+	- Equally, if the likelihood of an impact-2 risk increases from 1 to 2, has the risk overall become 33% greater (3 --> 4) or 100% greater (2 --> 4)?
+	- For me, this is the clearest problem with representing qualitative assessments numerically. Numbers are not neutral, and understanding their relationships, and the relationships created by functions, is non-trivial.
+- "Assigning values to risk probability and risk impact is a difficult and complex task" says Chris, king of understatement
