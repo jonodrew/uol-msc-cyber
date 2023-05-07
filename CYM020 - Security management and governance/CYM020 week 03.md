@@ -13,6 +13,7 @@ This week is concerned with the management of cyber security risks. Risk managem
 - Clauses A.2.1-A.2.5 of Annex A of [[ISO 27005]].
 - [_Standard deviations: a risk practitioner's guide to ISO 31000_](https://www.theirm.org/news/standard-deviations-a-risk-practitioner-guide-to-iso-31000/ "Standard deviations")
 - clauses 5, 6, 7.1, 7.2, 7.3, 7.4, 8.1, 8.2, 8.3, Annex A.1 of [[ISO 27005|ISO/IEC 27005]]
+- ISACA: [Performing a security risk assessment](https://www.isaca.org/resources/isaca-journal/past-issues/2010/performing-a-security-risk-assessment)
 
 ## Lesson 1: What is [[risk management]]?
 - before you can manage a risk, padawan, you must understand what a [[risk]] is
