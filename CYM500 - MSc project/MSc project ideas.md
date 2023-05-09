@@ -2,4 +2,5 @@
 - high side/low side + DevOps? Integrity/confidentiality guarantees?
 - Jack Teixeira case: how could this have been prevented? What were the failures?
 	- likelihood of getting information/interviews on this: very low 😆
+	- tie to the role of trust in securing networks and information, and the cases of [[Edward Snowden]] and [[Chelsea Manning]]?
 - 

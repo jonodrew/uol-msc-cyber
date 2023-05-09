@@ -95,6 +95,11 @@ There are also standards for securing information technology systems. In the EU,
 >
 >\- Taylor et al.
 
+### People security
+>[!quote] the most sophisticated information assurance system on the planet is worthless if the people, whose data it is designed to protect, are not security conscious
+
+The text refers to a "positive security culture", which I think should be read as "a security culture that is positive", and not as "a culture of [[positive security]]"
+
 ### training and awareness
 - try not be sidetracked by what seems cool at the moment. Instead, focus on your actual [[attack surface]]
 - run your internal culture change campaign the same way professionals run behaviour change campaigns
