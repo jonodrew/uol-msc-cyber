@@ -16,7 +16,7 @@ This week is concerned about the integration of different people and communities
 - [Video: People: The strongest link, Emma W.](https://www.youtube.com/watch?v=u6x9C7t_41s)
 - Adams, A. and M.A. Sasse. ‘[[Users are not the enemy]]’, _Communications of the ACM_ 42(12) 1999, pp.40–46.
 - [Telling users to avoid clicking bad links still isn't working](https://www.ncsc.gov.uk/blog-post/telling-users-to-avoid-clicking-bad-links-still-isnt-working "Telling users to avoid clicking bad links still isn't working"), [[National Cyber Security Centre|NCSC]]
-- 
+- [[Human Factors Knowledge Area Issue 1.0]]
 
 ## Lesson 1: why focus on people?
 >[!question] Choose one [[control]] you have studied in the past three weeks and describe how people are important \[within it]
@@ -115,3 +115,30 @@ Introduction of the concept of [[positive security]]
 >but does not speak to the need for this control to also reflect day to day usage, and for users to understand and be engaged in what each level of classification means - as well as the implications for behaviour. For example, marking a document as 'confidential' does not tell a user what actions they may or may not take. Co-designing the names of these levels, and the behaviours users should apply to each level (for example: 'confidential' means I mustn't share it outside the organisation; 'secret' means I mustn't share it without permission from the originator, etc). Indeed, one could also co-design the names and look at whether caveats can be written alongside, to support user behaviour. For example, TOP SECRET - [[Five Eyes|FVEY]] ONLY gives users a clear indication of with whom a document can be shared
 
 
+
+## Lesson 5: Developing people-centric security
+The approach:
+- focus on a range of people, and the full range of their interactions, within an [[information security management system|ISMS]]
+- people must be actively involved in the design process
+- content should be [accessible](https://accessibility.blog.gov.uk/2016/05/16/what-we-mean-when-we-talk-about-accessibility-2/), and where possible changes should be documented and described ahead of time
+- implementation should be communicated ahead of time, and tested with a diverse group of colleagues
+- measures must be continuously assessed, and the ISMS updated in line with the feedback. We should not be afraid to back out a change
+- effectiveness should be monitored and reported, demonstrating value for money and alignment with business objectives
+
+Although this sounds a lot, it's actually easier to implement in a small organisation. Getting large organisations to agree on effectiveness, business aims, etc is a Herculean task
+
+🚨 SECURITY MANAGEMENT IS PEOPLE MANAGEMENT 🚨
+
+>[!question] Propose a plan, with the lens of people-by-default, for the rollout of smart meters
+>
+>1. Who are our users? What concerns do they have around privacy? What are the edge cases? Who are the people impacted by a display that shows when electricity is being used, and do they have a say in this rollout? Is this good for folks' mental health, particularly when energy prices are so high? (Is the problem then the display, or the price of energy?) This change would alter the dynamic of how electricity could be shut off - where previously you could reason with the human who's come round, now the company can cut you off automatically
+>2. Test early prototypes with users and work out the security implications of the tasks people want to carry out with them
+>3. Document how everything works, ensuring that the documentation will be useful even after the initial rollout is complete
+
+## Summary 🌞
+- positive security is about empowering people to do their jobs securely: out job is more about guardrails than it is locked doors
+- fit the task to the user, and it'll get done faster
+- alarm fatigue is real, so consider what users need to know
+
+
+ 
