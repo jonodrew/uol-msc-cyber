@@ -1,0 +1,1 @@
+A set of practices and approaches that are still evolving and therefore lack a firm definition. Broadly speaking, they aim to empower users, rather than restrict them 

@@ -82,4 +82,10 @@ Introduction of the concept of [[positive security]]
 	- ...but also that there will be no employees
 	- monitoring has its limits, too: consider the case of [[Edward Snowden]] and [[Chelsea Manning]]. These were both people under surveillance by their employers, and yet entirely capable of leaking classified information
 		- is there an [[MSc project ideas|idea]] there?
-	- 
+>[!question] Using the internet as your resource (including ChatGPT as a potential starting point), describe how (**at least**) five people-focused security controls may be implemented in (1) ways that **build** trust and (2) ways that may **reduce** trust for this marketing agency as the consultant to the CISO.
+>
+>1. Given that many employees work offsite, we will need them to use a VPN to access company resources. We should only use this to ensure that the resources are secure, and implementation should be as light-touch and transparent as possible. The worst possible approach is to also monitor traffic in an attempt to 'catch' employees using their devices for harmless non-work downtime.
+>2. Secondly, we'll need them to use a second factor to authenticate to these resources. To increase trust, we should supply employees with this second factor, and explain how to use it and what to do if they lose it. The least trusting approach might be to ask them to use their personal devices - some colleagues may not have one, or just may not wish to use it for work.
+>3. Breach reporting process: this process should be as friendly and understanding as possible. It is inevitable that there is a data breach, so we should make the reporting and remediation process as simple and non-frightening as possible. This means implementing technical controls to reduce the impact of loss (as above), and ensuring that HR is only contacted in the most severe of circumstances.
+>4. Password policy: when combined with a second factor, we don't need to rotate credentials or force users to make passwords that are impossible to remember. 
+>5. Classification policy: a policy that is clear, readable, and has few categories empowers employees to confidently classify material. We can then feed this into technical controls that offer appropriate protection

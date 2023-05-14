@@ -1,0 +1,1 @@
+A theoretical architecture in which there is no need to trust any of the nodes in the [[network]]. the network is treated as hostile, and each request is thoroughly checked.
