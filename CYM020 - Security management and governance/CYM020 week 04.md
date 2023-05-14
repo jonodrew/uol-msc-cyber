@@ -13,6 +13,10 @@ This week is concerned about the integration of different people and communities
 - [[Information security management principles#Chapter 5: Procedural and people control security controls]]
 - [Cyber security: a practitioner's guide](https://www.vlebooks.com/vleweb/product/openreader?id=WORLDWIDE&accId=9116556&isbn=9781780175973)
 - [[Trust - an element of information security]]
+- [Video: People: The strongest link, Emma W.](https://www.youtube.com/watch?v=u6x9C7t_41s)
+- Adams, A. and M.A. Sasse. ‘[[Users are not the enemy]]’, _Communications of the ACM_ 42(12) 1999, pp.40–46.
+- [Telling users to avoid clicking bad links still isn't working](https://www.ncsc.gov.uk/blog-post/telling-users-to-avoid-clicking-bad-links-still-isnt-working "Telling users to avoid clicking bad links still isn't working"), [[National Cyber Security Centre|NCSC]]
+- 
 
 ## Lesson 1: why focus on people?
 >[!question] Choose one [[control]] you have studied in the past three weeks and describe how people are important \[within it]
@@ -89,3 +93,25 @@ Introduction of the concept of [[positive security]]
 >3. Breach reporting process: this process should be as friendly and understanding as possible. It is inevitable that there is a data breach, so we should make the reporting and remediation process as simple and non-frightening as possible. This means implementing technical controls to reduce the impact of loss (as above), and ensuring that HR is only contacted in the most severe of circumstances.
 >4. Password policy: when combined with a second factor, we don't need to rotate credentials or force users to make passwords that are impossible to remember. 
 >5. Classification policy: a policy that is clear, readable, and has few categories empowers employees to confidently classify material. We can then feed this into technical controls that offer appropriate protection
+
+- Essentials for effective security:
+	- Openness
+	- Competence - not just in terms of technical capability, but also in terms of user experience. Service design, user research, content design...all of these are necessary parts of a security service
+	- Integrity and predictability
+	- Constant communication, including when things are going well!
+	- Ethics
+	- Assurances
+
+## Lesson 4: people as the strongest link
+>[!question] What parts of the guidance on passwords in [[ISO 27002|ISO/IEC 27002]] strikes you as effective or ineffective?
+>
+>The use of passphrases is positive, but the prohibition on dictionary words is a strange choice. Consider the advice from [[National Cyber Security Centre|NCSC]] about [using three random words](https://www.ncsc.gov.uk/blog-post/the-logic-behind-three-random-words).
+
+>[!question] Identify a technical security control that you have already encountered and discuss how it may be designed through a socio-technical approach
+>
+>Information classification (5.12, [[ISO 27002]]) demands that 
+>>[!quote] Information should be classified according to the information security needs of the organisation based on [[confidentiality]], [[integrity]], [[availability]] and relevant interested party requirements
+>
+>but does not speak to the need for this control to also reflect day to day usage, and for users to understand and be engaged in what each level of classification means - as well as the implications for behaviour. For example, marking a document as 'confidential' does not tell a user what actions they may or may not take. Co-designing the names of these levels, and the behaviours users should apply to each level (for example: 'confidential' means I mustn't share it outside the organisation; 'secret' means I mustn't share it without permission from the originator, etc). Indeed, one could also co-design the names and look at whether caveats can be written alongside, to support user behaviour. For example, TOP SECRET - [[Five Eyes|FVEY]] ONLY gives users a clear indication of with whom a document can be shared
+
+
