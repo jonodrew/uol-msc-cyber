@@ -81,14 +81,25 @@ Note it is a model based on previous data for similar businesses, we might be un
 	- co-ordinating IA activities across the enterprise, including those outside the IA function
 	- co-ordinating the creation of security policy
 	- communicating security information to other employees and users
-		- 
-
 
 ### Security standards and procedures
 The key standards in the area of information security are in the [[International Standards Organisation|ISO]] 27xxx series. Specifically, there is [[ISO 27001]] and [[ISO 27002]].
 
 There are also standards for securing information technology systems. In the EU, the standard is [[Information Technology Security Evaluation Criteria]]. This scheme has itself been standardised with Canada's [[Canadian Trusted Computer Product Evaluation Criteria]] and the US' [[Trusted Computer System Evaluation Criteria]], producing the [[Common Criteria for Information Technology Security Evaluation Criteria]]
 
+### Security [[incident]] management
+#### Security incident reporting, recording, and management
+There are generally five phases to an incident, and they are:
+1. reporting
+2. investigation
+3. assessment
+4. corrective action
+5. review
+When it comes to reporting, there's any number of good templates out there - including in [[ISO 27035-2#Annex B: Example forms for information security events, incidents, and vulnerability reports]]. 
+
+Don't forget to keep a log of activities. Although the text remarks that there's value later, there's also value now. It allows folks to cycle off the incident (to sleep, eat, see their families) and new folks to get up to speed. It's also a good way of ensuring folks don't join the call and immediately suggest something that was tried 18 hours ago *before* everyone was sleep-deprived and cranky.
+
+Organisations should have a cadre of folks trained and ready to join an [[Incident Response Team]] when needed.
 
 ## Chapter 5: Procedural and people [[control|security controls]]
 >[!quote] \[...\] the subject of controls is an almost bottomless pit

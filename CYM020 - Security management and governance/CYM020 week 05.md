@@ -13,6 +13,9 @@ This week concerns how security management can be used to address and respond to
 - [[Information Security Management#Chapter 2: Information security departments and roles#section 5: cybersecurity incident incidents]]
 - [[NIST SP 800-61]], Executive Summary and [[NIST SP 800-61#Chapter 2: Organizing a computer security incident response capability#Events and incidents|2.1]]
 - [[ISO 27035-2|ISO/IEC 27035-2]], section 4 and Annex B
+- [[Information security management principles#Chapter 3: Information security framework]] pp. 63-67
+- [[Information Security Management#Chapter 2: Information security departments and roles#section 5: cybersecurity incident incidents]] with particular note to the sections on harassment and cyberstalking
+- Tatu, T., C. Ament and L. Jaeger ‘[[Lessons learned from an information security incident]]"[Hyperlink](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1488&context=hicss-51)")’, _Proceedings of the 51st Hawaii International Conference on System Sciences_ 2018.
 
 ## Lesson 1: What is an [[incident]]?
 - this area of cyber is not as exciting as you'd think
@@ -134,3 +137,32 @@ This week concerns how security management can be used to address and respond to
 >- the authentication system not using a second factor
 >- the finance team being too tight to pony up for hardware second factors
 
+- what is an [[Incident Response Team]]?
+- what steps are involved in [[incident response]]?
+
+## Lesson 4: Assessing incidents
+When planning your incident response with regards to documentation:
+1. plan and prepare, by getting documents and forms ready. Content design and user research are vital capabilities here, because when an incident arrives you don't want folks to be confused or unsure
+2. detection and reporting: this is the production of more technical reports, and deals with how digital evidence is collected/stored/logged
+3. assessment and decisions: these, too, must be logged. Additionally, proper reporting during the decision phase assists with remedial actions and with learning lessons at a later date
+4. responses: digital evidence must be stored securely, and communications both internal and external should be copied to a secure store. Finally, a post-incident activity report must be collated
+5. lessons learnt: a more thorough report, as well as communication through more formal channels with regulatory bodies
+
+>[!question] Who is responsible for reporting?
+>
+>There are responsibilities on the people doing the work, probably in the [[Incident Response Team|IRT]], to report upwards. A senior manager responsible for security will also be reporting, and furthermore there might be tasking on HR and senior management, sometimes even up to CEO level, to communicate
+
+>[!question] 'Digital forensics is increasingly difficult in a world of growing ICT complexity, virtualisation and cloud-based architectures'. Discuss
+>
+>Broadly speaking, digital forensics has become both more and less difficult. On the one hand, as the question points out, growing ICT complexity, virtualisation, and cloud-based architectures increase the difficult for forensics. The chain of custody is not necessarily assured, as you don't have physical access to the data store. Additionally, the huge explosion of digital services and software, some of it very poorly written, can muddy the waters and make forensics more complex. Finally, the lack of standards can make the job of forensics even more difficult.
+>
+>However, we can use a strong [[hash function]] to prove that the copy we're working on is the same as the copy at the remote location (putting aside whether it's been physically tampered with). High speed internet means we can share these images quickly, and the proliferation of high quality tools means forensics are more available to all.
+
+### Learning lessons
+The outcome of this process could be:
+- changes to [[control|security controls]]
+- a revision of the [[risk assessment]]
+- changes to planning, procedures, and reporting
+A balance has to be struck between immediate, short-term controls and long-term changes. Some controls may still be beyond tolerance, and some may just take a long time to implement.
+
+Any new controls must be integrated and also tested. In addition, an incident may reveal as-yet undiscovered issues with the system the ISMS should be protecting.
