@@ -3,4 +3,15 @@
 - Jack Teixeira case: how could this have been prevented? What were the failures?
 	- likelihood of getting information/interviews on this: very low 😆
 	- tie to the role of trust in securing networks and information, and the cases of [[Edward Snowden]] and [[Chelsea Manning]]?
-- 
+- a minimal secure [[disaster recovery]] service?
+	- Stick:
+		- minimal, open-source OS that's familiar to users
+		- encrypted drive
+		- contains disaster recovery plans
+		- triggers a signal when accessed
+		- trial with an organisation
+		- how to keep up to date?
+		- is it obsolete because of cloud services?
+	- Web:
+		- create a minimal web service for the same purpose? encrypted S3 bucket, login with 2nd factor?
+- [[Wardley map]] for [[business continuity]]

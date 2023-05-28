@@ -118,4 +118,38 @@ The text refers to a "positive security culture", which I think should be read a
 - Different formats of information will work differently, and variety is important and helpful
 - Please don't use [[phishing attacks]] against your own staff (personal, very strongly held opinion)
 - [Here's an interesting article a classmate shared](https://www.philvenables.com/post/people-and-security-incentives)
-- 
+
+## Chapter 8: Disaster recovery and business continuity management
+- [[business continuity]] is about planning for an incident, knowing what systems are necessary for business continuity, and ensuring those plans have been tried and tested
+- it is not the same as [[disaster recovery]], which details how the organisation can recover from a - well, from a disaster, I guess
+- planning either of these required a very clear [[business impact assessement]], hopefully with some quantitative analysis that enables us to do a cost/benefit analysis
+- business continuity is about a short dip in performance followed by recovery. With that being said, if you have to invoke it every week, something bad is happening somewhere else and you should look into that
+- both disaster recovery and business continuity planning are unique to the context of the organisation
+	- Context! Situational awareness!
+- resilience is defined as things like multiple webservers behind a load balancer. Thus if one server fails, the others can take the strain. A chorus, if you like
+	- mmm, but only one load balancer? In only one availability zone of your cloud hosting provider? Hmm!
+- redundacy is defined here as having a standby, but non-active system ready to take over. 
+	- More of an understudy role
+	- cold standbys, which will take some time to get up to speed
+	- warm standbys, that might be existing test systems. They could have recent data, and can be brought online pretty quickly
+	- hot standbys are ready and waiting and can be brought in at a moment's notice
+	- the risk of a hot system in the context of a viral infection is that it's entirely possible that it, too, is infected. In such a case, it might be wiser to wait for the cold standby to come up
+- remember to consider loss of physical access when drafting DR/BCP. What essential material is only at one site?
+- staff need to know what the plan is, or at least know the first step - where to find the plan
+- disaster recovery and business continuity plans, when implemented, should be followed. This in contrast to the creative thinking described in [[The tensions of cyber-resilience - from sensemaking to practice]] with regards to effective response to an incident - that is, a willingness to be creative and diverge from a playbook
+	- complex and complicated systems require different responses and responders
+- maintaining plans is necessary, because an outdated plan might actually be worse than no plan at all
+	- "used in anger" klaxon
+- contracts can be procured for the provision of DR facilities
+- a live test of a DR/BCP process is expensive, but is it more expensive than folks not knowing what to do in the unlikely event of a crisis?
+	- an unanswerable question, and I don't envy the person asked to make a judgement
+	- oh, it's us? Fab
+- testing generally starts with a desk check, or role play exercise. Everyone goes through the plans in front of them, and tries to imagine themselves in the scenario. This should surface anything obviously wrong
+- then you could move to a live test of a small part of the plan. Can the building be evacuated in a certain time? If the wifi goes down, how long do folks take to remember they can hotspot?
+- then, rarely, you might trial a full-scale enactment of the plans. This step is critical if you've already done live testing, but only of parts
+	- oh hey, it's the testing pyramid!![[Pasted image 20230527134406.png]]
+	- as with tests, sometimes we only surface a problem when the new process/code is integrated into the system - and we discover that (for example) a process that works with a thousand items *does not work at all* when there are a billion
+- ooh, I love the idea of an encrypted memory stick with The Plan on
+	- I don't love the book's recommendation of proprietary software. You know what else would work? Markdown
+- the international standard for business continuity is [[ISO 27301]], while [[ISO 22313]] contains additional guidance and [[ISO 27031]] provides guidance for IT readiness.
+- the main standard for disaster recovery services is [[ISO 24762]]
