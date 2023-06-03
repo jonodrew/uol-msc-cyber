@@ -121,6 +121,21 @@ This week concerns how to maintain business continuity at times of disruption an
 >2. Using the business impact analysis, you will **choose three information security controls from [[ISO 27002|ISO/IEC 27002]]:2022** that will be impacted by your chosen scenario (with no more than one from each of the main categories of control: organisational, people, physical and technical).
 >3. Using the three identified controls, **develop a business continuity plan for your three selected information security controls** (with at least one point on each security control following Plan-Do-Check-Act in [[ISO 27031|ISO/IEC 27031]]) using your BIA.
 
+## Lesson 4: Continuous improvement
 
+>[!quote] Continuous improvement is an iterative process of identifying, revising, and improving upon prior experience
 
+- we must always be adapting to changes in cybersecurity
+![[Pasted image 20230603163459.png]]
 
+>[!quote] My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that
+>
+>\- Lewis Carrol, *Alice in Wonderland*
+
+- according to [[ISO 27031|ISO/IEC 27031]], there should be an internal audit of incident response and business continuity at least once a year. It should be conducted by a trained professional
+### Continuous improvement
+1. Plan and prepare
+2. Actually implement the plan (most people forget this step)
+3. When the incident happens, follow the plan
+	1. Do not decide that now is the time for a new plan. Mid-incident is never the time for a new plan
+2. Reflect and learn from the implementation and incident
