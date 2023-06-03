@@ -94,3 +94,33 @@ This week concerns how to maintain business continuity at times of disruption an
 - What is a disaster? Context specific, but we can consider the case of [[Mærsk]], which was hit by [[NotPetya]] in 2017: a [[wiper]] masquerading as [[ransomware]]. There was little network segregation and consequently the attack was across the network within 7 minutes (!)
 - the only office not impacted was Ghana which, by a stroke of luck, had suffered a power cut and was offline
 - the business took a further nine days to restore systems
+>[!question] Identify three critical business processes that Green Accountancy Services (a case study) need to protect
+>
+>### Context
+>Green Accountancy Services:
+>- provide accountancy services to 100s of organisations
+>- they produce reports for local tax authorities
+>- has five offices, which share a network and storage. Both are run from the head office
+>	- is the head office one of the five?
+>- some of these locations are prone to natural disasters, including earthquakes and flooding
+>- Head office is in a large urban area that suffers from significant heatwaves
+>- there is little network segregation
+>- a team of 4 people manages IT security for this fictional firm
+>  
+>### Answer
+>In order of criticality:
+>- the confidential client information that it holds. Therefore, they will be looking at their storage mechanisms. Given that their office is in a location prone to earthquakes one hopes they have off-site backups
+>- communication services, including email, to ensure the work can continue being done
+>- possibly a failover postal address, as much tax and accountancy work still happens by physical mail
+
+### Activity:
+>[!note]
+>In this investigative activity, you will produce an abstracted business continuity plan with a business impact analysis using the fictitious case of Green Accountancy Services that we explored in the previous lecture.
+>Your investigative task will consist of three steps that should be recorded in your study journal:
+>1. You will develop a brief business [[business impact assessement]] (BIA) by creating **your own scenario of an adverse event** (of at least 100 words) and identifying at least two critical ICT functions that may be at risk for [[Green Accountancy Services]] in this case.
+>2. Using the business impact analysis, you will **choose three information security controls from [[ISO 27002|ISO/IEC 27002]]:2022** that will be impacted by your chosen scenario (with no more than one from each of the main categories of control: organisational, people, physical and technical).
+>3. Using the three identified controls, **develop a business continuity plan for your three selected information security controls** (with at least one point on each security control following Plan-Do-Check-Act in [[ISO 27031|ISO/IEC 27031]]) using your BIA.
+
+
+
+

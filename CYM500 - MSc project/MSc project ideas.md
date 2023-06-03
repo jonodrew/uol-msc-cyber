@@ -15,3 +15,4 @@
 	- Web:
 		- create a minimal web service for the same purpose? encrypted S3 bucket, login with 2nd factor?
 - [[Wardley map]] for [[business continuity]]
+- Can misinformation by AI be counteracted with [[asymmetric|public-key cryptography]] to watermark videos and images ?
