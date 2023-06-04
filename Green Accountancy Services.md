@@ -7,6 +7,7 @@ tags:
 - Some of the offices are prone to earthquakes and others prone to flooding. 
 - Each office shares the same organisational network and storage at its head office in a large urban area that experiences significant heatwaves. 
 - There is little segregation on the network and it has a small IT team in the headquarters consisting of four individuals, with security responsibilities shared equally across it.
+- the majority of its clients are based in the [[EU|European Union]]
 
 ## [[business impact assessement|BIA]]
 ### Scenario: civil war
