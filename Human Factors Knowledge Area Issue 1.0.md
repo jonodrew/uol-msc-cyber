@@ -1,3 +1,8 @@
+---
+tags: 
+- CyBOK
+---
+
 Source: https://www.cybok.org/media/downloads/Human_Factors_issue_1.0.pdf
 
 >[!abstract] summary
