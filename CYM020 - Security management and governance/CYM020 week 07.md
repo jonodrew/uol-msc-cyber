@@ -10,6 +10,8 @@ This week explores the core legal and regulatory landscape for security manageme
 
 ## reading
 - Introduction and section 1 of [[Law and Regulation Knowledge Area]]
+- [[Accessible and Inclusive Cyber Security]]
+- [[How to build a culture of cybersecurity]]
 
 ## Lesson 1: Regulation
 - not necessary the law, but also those rules put in place by regulators
@@ -66,3 +68,14 @@ Here's a case study: a supermarket loyalty scheme
 - is it ethical?
 
 ## Lesson 4: Developing positive cultures
+
+>[!question] 'Positive security cultures **cannot** be produced by ICT security teams alone.' Discuss
+>
+>Positive security cultures are based on security cultures, and security culture is a part of the general, wider culture. An ICT team can do its best to work towards a positive security culture, but it can be support or frustrated by:
+>- a culture of blame
+>- a culture of fear
+>- a culture of suspicion
+>- or indeed a culture of invincibility!
+>  
+>All of these other cultural elements are outside the control of the ICT team. Asking if the ICT team can solely produce positive security cultures removes the huge influence that other departments, and wider society, has on our work cultures.
+
