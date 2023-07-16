@@ -1,4 +1,5 @@
 *.pdf
 *.doc
+*.odt
 .obsidian/workspace.json
 .DS_Store
