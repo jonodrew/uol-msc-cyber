@@ -15,7 +15,7 @@
 
 ### Risk identification
 - begin by identifying [[threat|threats]] and getting a clear picture of any known [[vulnerability|vulnerabilities]] 
-- once each threat has been identified, each should be considered with the lengs of its [[impact]] on the asset we're examining
+- once each threat has been identified, each should be considered with the lens of its [[impact]] on the asset we're examining
 
 ### Risk analysis
 - Having identified the impact from each threat, we assess the likelihood of the threat being realised

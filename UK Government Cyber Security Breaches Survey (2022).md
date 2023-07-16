@@ -7,3 +7,6 @@ Source: https://www.gov.uk/government/statistics/cyber-security-breaches-survey-
 >- only 19% of businesses say they have a formal incident response plan!
 >- 6% have [[Cyber Essentials]], which is self-assessed!
 >- Only 1% have [[Cyber Essentials]] Plus!
+
+## Chapter 3: Approaches to cyber security
+

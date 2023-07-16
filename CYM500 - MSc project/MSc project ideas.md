@@ -16,3 +16,13 @@
 		- create a minimal web service for the same purpose? encrypted S3 bucket, login with 2nd factor?
 - [[Wardley map]] for [[business continuity]]
 - Can misinformation by AI be counteracted with [[asymmetric|public-key cryptography]] to watermark videos and images ?
+- Something from Ian Levy's [goodbye note](https://www.ncsc.gov.uk/blog-post/so-long-thanks-for-all-the-bits)?
+- What impact does paying/not paying ransoms have on [[ransomware]]?
+- Using flipper zero in social engineering/red teaming exercises
+- Writing a cybersecurity strategy/analysing/best practice around organisations dealing with at-risk individuals
+	- maybe speak to micro-rainbow?
+	- Greenpeace?
+	- Amnesty?
+	- Oxfam?
+	- Diplomatic Corps?
+- 
