@@ -25,4 +25,6 @@
 	- Amnesty?
 	- Oxfam?
 	- Diplomatic Corps?
-- 
+- everyone gets a `.gov.uk` address
+- Rosa phones?
+- [[DNSSEC]] for a large-ish department?
