@@ -28,3 +28,5 @@
 - everyone gets a `.gov.uk` address
 - Rosa phones?
 - [[DNSSEC]] for a large-ish department?
+- What if we had a qualification for being a software engineer/made it a protected term?
+- 
