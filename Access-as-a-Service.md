@@ -1,0 +1,5 @@
+- databases of credentials are sold
+- this, again, gives a layer of obfuscation - they can purchase access without needing to do any dirty work
+- these credentials have different price points
+- supply and demand?
+	- no! [[Labour Value Theory]]

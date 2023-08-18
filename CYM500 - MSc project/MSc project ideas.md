@@ -29,4 +29,8 @@
 - Rosa phones?
 - [[DNSSEC]] for a large-ish department?
 - What if we had a qualification for being a software engineer/made it a protected term?
-- 
+- architecture for systems where you don't trust the users, but they still have to do their jobs (privacy enhanced/privacy by default architecture)
+	- or the auditors
+	- MindGeek - SouthbySouthWest - synthetic companies and builds and CV cleaning etc etc
+- how to secure the management plane of cloud management systems
+- baseband/[[GSM]] modem security
