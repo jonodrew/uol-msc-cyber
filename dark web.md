@@ -1,8 +1,9 @@
 ---
-alias: [darknet, darkweb]
+alias: [darkweb]
 ---
 A subset of the [[deep web]] that require specialist browsing software such as [[Tor]], [[Freenet]], or [[I2P]]. 
 
+They are websites, or [[World Wide Web]] content that exists on a [[darknet]]
 ## Use
 - people who want to buy material that is illegal in their jurisdiction[^1], including 
 	- [[CSA]], 

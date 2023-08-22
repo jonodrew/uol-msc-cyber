@@ -34,3 +34,4 @@
 	- MindGeek - SouthbySouthWest - synthetic companies and builds and CV cleaning etc etc
 - how to secure the management plane of cloud management systems
 - baseband/[[GSM]] modem security
+- proof of concept for publishers to digitally sign books, and for Amazon to not allow unsigned books under an author's name

@@ -12,10 +12,13 @@ During this week we will discuss the evolution of cybercrime, including the emer
 
 ## Reading
 - _[[Cybercrime – The Psychology of Online Offenders]]_ : chapter 1, pp.16-26
+- [[Establishing a theory of cybercrimes]], pp.7-9
+- [[Cyber-dependent crimes, an interdisciplinary overview]]
+- [Hacker interview-Gummo](https://www.youtube.com/watch?v=g6igTJXcqvo)
 ## Lesson 1: Milestones and business models
 - was telephone hacking in the 50s and 60 [[cyber crime|cybercrime]]?
-- [[Tor]] and [[dark web|darknet]]
-	- with the darknet, come darknet markets:
+- [[Tor]] and [[dark web|darkweb]]
+	- with the [[darknet]], come darknet markets:
 		- drugs
 		- weapons
 		- Murder-as-a-Service
@@ -77,5 +80,11 @@ During this week we will discuss the evolution of cybercrime, including the emer
 	- people behave differently online
 	- individuals who have pressed their inclination for misbehaviour in the real world will express them in cyberspace
 - cyberspace provides flexibility in self-presentation and its inverse - dissociative anonymity
-
 ### Victimology
+- why are some people more prone to victimisation?
+- one division of harms might be subjective and objective
+- and crimes can often have second-order effects; that is, harms to the victim's family and friends
+- impulsivity (I reject the framing of 'low self-control') is one of two main factors that indicate a greater likelihood of becoming a victim
+- the other is high-risk routine activities - for example, reusing passwords, forgetting to update antivirus or OS
+	- this is just ADHD lads
+
