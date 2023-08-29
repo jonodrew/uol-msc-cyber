@@ -1,5 +1,5 @@
 ---
-alias: [adversary, interceptor, threat actor]
+alias: [adversary, interceptor, threat actor, attackers]
 ---
 A broad, catch-all term for someone trying to attack an information technology system. It works for now, but could be more granularly defined later if needed
 
