@@ -40,7 +40,59 @@ In this week we take a tour to explore criminal profiling. In order to do so, we
 - it's a hard life 🎻
 
 ## Lesson 2: Personality
+- behaviours are more likely to come from biosocial factors; that is, the interplay of social and biological factors
+- Today we're talking about [[OCEAN]]
+- the 'Dark Triad':
+	- Psychoticism
+	- [[OCEAN#Extraversion|Extraversion]], and specifically the sensation-seeking trait within extraversion
+	- [[OCEAN#Neuroticism|Neuroticism]], in the aspect of instability
+- These dimensions are often abbreviated to P.E.N, and Eysenck (1964) suggests they are a set of characteristics that render individuals more susceptible to acts of criminality
+- However, another conception of the so-called 'Dark Triad' is:
+	- Machiavellianism, associated with deception and a view of others that sees them as resources. It has a somewhat inverse relationship with [[OCEAN#Agreeableness]]. 
+	- Narcissism: a sense of entitlement and inflated self, as well as a desire to have this reinforced by others
+	- Finally, psychopathy, characterised by a lack of empathy and remorse as well as emotional superficiality
+- these traits have been found to be positively correlated with:
+	- aggression and violence (cf. Kerig & Stellwagen, 2010)
+	- recidivism (Asscher et al., 2011)
+	- substance abuse (Benning, Patrick, Hicks, Blonigen, & Krueger, 2003)
+	- problematic or counterproductive work behaviours (O'Boyle, Forsyth, Banks, & McDaniel, 2012)
+- Can we predict individuals demonstrating 'Dark Triad' behaviours from [[OCEAN]]?
+	- in the case of psychopathy, yes
+	- less so in the case of narcissism
 
 ## Lesson 3: Culture
+- Hofstede and Meyer cultural dimensions
+- Hofstede :cultural dimensions:
+	- power distance: the degree to which a society accepts that power is not (should not be?) equally distributed
+	- uncertainty avoidance: the level of aversion towards uncertainty and ambiguity
+	- individualism vs collectivism
+	- masculinity vs femininity
+		- _yikes_
+		- 'masculine' traits are, apparently:
+			- a focus on accomplishments, achievements
+			- valuing assertiveness
+		- while 'feminine' traits are:
+			- cooperation
+			- modesty
+			- protection of the weaker members of society
+	- long-termism vs short-termism
+	- indulgence vs restraint: gratification and pleasure-seeking versus suppression
+- we can, and should, argue about the wording of some of this - but they are apparently quite generally applicable
+- Meyer's cultural dimensions:
+	- communicating (high/low context): does the communication contain the context (low context) or does the receiver need to know the context before hand (high context)? The latter allows for significantly more complex language 
+	- evaluating: key measure here is whether honesty is valued over diplomacy when giving feedback, particularly negative feedback
+	- leading (egalitarian/hierarchical)
+	- deciding (top-down/consensus)
+	- trusting: task-based, whereby trust is built on the basis of work completed, versus relationship-based, which is built on effective connections and personal interactions
+	- tolerance for disagreeing
+	- scheduling: linear time scheduling, where things happen one after the other according to a schedule, versus flexible time scheduling, where things happen when they happen
+	- persuading: deductive, or principle-first versus inductive, or application-first
+- within hacker subcultures, there are three common cultural norms:
+	- technology
+	- secrecy
+	- mastery
+- situational vs dispositional attribution: is a person's behaviour mostly driven by context and external factors, or internal attributes of that person?
+	- guess which one makes it easier for the State to kill criminals
+- 
 
 ## Lesson 4: Profiling the cybercriminal
