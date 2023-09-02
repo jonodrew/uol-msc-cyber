@@ -93,6 +93,22 @@ In this week we take a tour to explore criminal profiling. In order to do so, we
 	- mastery
 - situational vs dispositional attribution: is a person's behaviour mostly driven by context and external factors, or internal attributes of that person?
 	- guess which one makes it easier for the State to kill criminals
-- 
 
 ## Lesson 4: Profiling the cybercriminal
+- Butkovic et al. (2019) claim that "there is an assumption underlying all approaches to criminal and cybercriminal profiling that the crime scene, and its extrapolation in cyberspace, provides details about the offence and the offender
+- when profiling criminals, we can use inductive or deductive techniques
+- inductive (or prospective):
+	- by examining the behaviours of criminals we know about, we can identify similar criminals because they will share the same behaviours
+	- naturally, the flaw with this approach is that it only tells us about criminals that we've managed to catch
+	- this approach can be quantitative, using numerical data, or qualitative
+- deductive (or retrospective):
+	- start from the crime scene and the victim, working to identify the motivations and psychology of the offender
+- behavioural evidence analysis:
+	- equivocal forensic analysis: the evaluation of evidence
+	- victimology: analysis of the characteristics of the victim, with a view to deducing the characteristics of the attacker
+	- crime scene characteristics: in [[cyber crime|cybercrime]], this might be blended with step one. It may also include their [[TTP|tactics/techniques/ procedures]]
+	- offender characteristics: examination of demographic and physical characteristics, modus operandi, etc
+- thus, although it can be applied, BEA is more difficult to apply to cybercrime
+- a different model has been proposed:
+![[Screenshot 2023-09-02 at 17.07.55.png]]
+Figure from Lickiewicz, ‘Cyber Crime Psychology – Proposal of an Offender Psychological Profile’.
