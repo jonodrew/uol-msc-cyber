@@ -1,1 +1,1 @@
-Attributing a [[cyber crime]] or attack to a specific source is incredibly difficult. There are technical challenges in doing so, and even without that, the same problems of attribution exist: political agenda and the role of propoganda.
+Attributing a [[cyber crime]] or attack to a specific source is incredibly difficult. There are technical challenges in doing so, and even without that, the same problems of attribution exist: political agenda and the role of propaganda.

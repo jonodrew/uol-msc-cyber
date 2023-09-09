@@ -35,3 +35,4 @@
 - how to secure the management plane of cloud management systems
 - baseband/[[GSM]] modem security
 - proof of concept for publishers to digitally sign books, and for Amazon to not allow unsigned books under an author's name
+- a study/pilot project on the value of [[Software Bill of Materials]]
