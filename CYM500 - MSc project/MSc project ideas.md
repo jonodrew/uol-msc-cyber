@@ -31,8 +31,10 @@
 - What if we had a qualification for being a software engineer/made it a protected term?
 - architecture for systems where you don't trust the users, but they still have to do their jobs (privacy enhanced/privacy by default architecture)
 	- or the auditors
-	- MindGeek - SouthbySouthWest - synthetic companies and builds and CV cleaning etc etc
+- Analysis of systems where user identity has to be hidden, but work still has to be done
+	- MindGeek - SouthbySouthWest - synthetic companies, builds, and CV cleaning for individuals exiting sensitive industries
 - how to secure the management plane of cloud management systems
 - baseband/[[GSM]] modem security
 - proof of concept for publishers to digitally sign books, and for Amazon to not allow unsigned books under an author's name
 - a study/pilot project on the value of [[Software Bill of Materials]]
+- implementing a project using [[Secure by Design]] principles
