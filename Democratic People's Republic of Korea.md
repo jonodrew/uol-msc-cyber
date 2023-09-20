@@ -1,0 +1,3 @@
+---
+alias: [North Korea, DPRK]
+---

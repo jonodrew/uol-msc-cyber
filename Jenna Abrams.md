@@ -1,0 +1,1 @@
+Jenna Abrams was a fake persona; the fictional creation of the [[Internet Research Agency]]

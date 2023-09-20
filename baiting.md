@@ -1,0 +1,1 @@
+An [[attack]] whereby the [[attacker]] simply leaves 'bait' in the form of removable media in or near the target premises. It may be labelled to play on curiosity ('2023 salaries') or kindness ('MSc thesis DO NOT LOSE'). The media of course contains [[malware]], which will execute when the device is connected
