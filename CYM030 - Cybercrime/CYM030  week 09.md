@@ -10,6 +10,7 @@ The lessons this week cover transport crime. This crime can directly impact the 
 ## Reading
 - [[HFACS]]
 - [[Aviation Cyber Security Strategy]]
+- [[Cybersecurity challenges in the maritime sector]]
 
 ## Lesson 1: Transport crimes/supply chains
 - extortion?
@@ -23,3 +24,13 @@ The lessons this week cover transport crime. This crime can directly impact the 
 - we only have to consider the difference between mainline and metro rail
 - there are so many things that can go wrong here, too
 - computers were a mistake
+
+## Lesson 4: maritime crime
+- military ships
+- passenger ships
+- cargo ships
+- we're not going to worry about pleasure ships
+	- Martin what is a pleasure ship
+	- Martin
+	- *Martin*
+- 
