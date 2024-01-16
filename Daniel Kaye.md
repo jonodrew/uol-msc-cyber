@@ -1,0 +1,7 @@
+- Daniel was a self-taught hacker
+- he sold his services on the [[dark web|darkweb]]
+- he was hired by an employee of Cellcom in 2015 to carry out an attack on that company's rival in Liberia, Lonestar
+- Kaye conducted a [[DDoS]] attack against the company
+- at the time, he did not realise that the country relied almost completely on Lonestar for [[Internet]] connectivity
+- in short, the country's access to the [[Internet]] was cut off for a couple of days
+- although charged with criminal acts under the [[Computer Misuse Act 1990]], those charges were dropped

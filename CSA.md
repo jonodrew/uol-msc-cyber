@@ -1,5 +1,7 @@
 ---
-alias: [child sexual abuse]
+aliases:
+  - child sexual abuse
+  - CSAM
 ---
 Child sexual abuse materials are images or videos showing indencent images of children. Their production and dissemination is a crime in almost all jurisdictions.
 

@@ -1,4 +1,4 @@
-Published by [[NIST]], this is the framework against which organisations can evaluate their information security. It's not technically a #standard , though there's an argument to be made that it is an 'unofficial' standard. The catalogue of controls for this standard are held in [[NIST Special Publication 800-53|NIST SP 800-53]]. It is less prespective than [[ISO 27001]].
+Published by [[NIST]], this is the framework against which organisations can evaluate their information security. It's not technically a #standard , though there's an argument to be made that it is an 'unofficial' standard. The catalogue of controls for this standard are held in [[NIST Special Publication 800-53|NIST SP 800-53]]. It is less proscriptive than [[ISO 27001]].
 
 The framework defines five core functions: identify, protect, detect, respond, and recover. The latter three all involve [[contro#Reactive|reactive controls]]. 
 

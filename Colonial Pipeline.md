@@ -1,0 +1,3 @@
+In May 2021, an oil pipeline that runs across the [[US]], from [[Texas]] to [[New Jersey]], was attacked by [[ransomware]] deployed by a group known as [[DarkSide]]. The attackers gained access via [[credential stuffing]] a [[virtual private network|VPN]] account. 
+
+Colonial Pipeline initially paid a ransom of 75 [[Bitcoin]], worth 4.4m USD at the time. The [[Department of Justice]] managed to recover 2.3m USD

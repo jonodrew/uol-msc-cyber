@@ -1,4 +1,5 @@
 Set text for [[5. CYM010 week 5]]
+And [[CYM070 week 1]]
 ## Chapter 1
 Learning objectives
 1. Describe the key security requirements of [[confidentiality]], [[integrity]], and [[availability]]
@@ -8,7 +9,7 @@ Learning objectives
 5. Discuss the use of [[attack surface]] and [[attack trees]] (ooh! they're a bit like [[cyber kill chain]], except not trademarked and wanky!)
 6. Understand the principle aspects ofa  comprehensive security strategy
 ### 1.1 Computer security concepts
-We cover the same boring shit from [[NIST]] that we did last week, and the week before that. Then we tack on two new ideas: [[authenticity]] and [[accountability]]
+We cover the same boring things from [[NIST]] that we did last week, and the week before that. Then we tack on two new ideas: [[authenticity]] and [[accountability]]
 ### 1.2 
 Nothing interesting here, skipping
 ### 1.3 Security [[functional requirements]]

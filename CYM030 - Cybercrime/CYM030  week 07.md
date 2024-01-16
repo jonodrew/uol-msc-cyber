@@ -34,7 +34,7 @@ In this week we take a tour to explore criminal profiling. In order to do so, we
 	- [Here's a cute Youtube explainer](https://youtu.be/emyi4z-O0ls?si=-eQzJoTg8hwg9y-L)
 - referrals are also very important
 	- criminals be reinventing society
-- the seller of GOVRAT, who is also its maker, used aliases such as 'spdrnman' and 'Peter Parker'. What can we learn from this?
+- the seller of GOVRAT, who is also its maker, used aliases such as '[[Daniel Kaye|spdrnman]]' and 'Peter Parker'. What can we learn from this?
 	- that he is a massive nerd, your honour
 - but also that he faced the struggle of criminals: balancing the need to be anonymous enough not to be found by law enforcement, while well-known enough to be trusted and to get work
 - it's a hard life 🎻
