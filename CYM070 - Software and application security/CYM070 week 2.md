@@ -1,6 +1,7 @@
 ## Reading
 - [[Malware, rootkits and botnets#Chapter 2 a brief history of malware]]
 - [[Practical binary analysis]] chapters 1, 2, appendix A
+- [[Malware analysis, an introduction]]
 ## 2.1 Definition and types of [[malware]]
 ### What is [[malware]]?
 #### history
@@ -34,7 +35,43 @@
 	- assembly -> here's where we turn things into [[binary]]. Labels and symbols are converted into actual memory addresses. This outputs 'object files'
 	- linking - multiple object files are combined into a single, executable file
 		- note that static libraries are copied into the executable, while dynamic libraries are called by the executable
-## executable file
+### executable file
 - in [[Linux]] we use the [[Executable and Linkable Format]] (ELF) for executable files
 - [[Windows]] has [[Portable Executable]]
+
+### [[binary]] files
+- disassembly is when we convert binary files back to assembly
+- we can do this to better understand what the binary does, even if we don't have the source code
+- disassemblers:
+	- IDA Pro
+	- Radare2 (open-source)
+	- Ghidra (open-source, developed by the [[NSA]])
+- decompilation is a way of converting assembly back into higher level source code. Some well-known compilers are: 
+	- JD-GUI
+	- .NET Reflector
+	- Ghidra (again)
+- disassembling and then decompiling is [[reverse-engineer|reverse engineering]]
+- [[static analysis]]
+- [[dynamic analysis]]
+### challenges in binary analysis
+- [[obfuscation]]
+- packed (compressed/encrypted) binaries
+- anti-debugging/anti-analysis routines
+- architecture differences 
 ## 2.3 [[malware]] analysis
+- [[anti-virus]] mechanisms:
+	- began with signature analysis, usually using a [[hash function]]
+	- Then [[byte]]-level, or instruction-level, signatures
+	- Then heuristics, where we start looking at behaviour, rather than specific bytes or signatures
+- turns out there's a test file for malware. All you have to do it save a file containing the following string: `X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*` in plain text and your anti-virus should fire
+	- Probably shouldn't do that on any machine you don't own
+- we've tried checksums
+- then [[cryptographic hash function]]s
+- then fuzzy hash functions, that group up similar malware signatures
+	- `ssdeep` creates fuzzy hashes, which creates comparable hash values that get further apart as their sources change
+- then graph-based hashes, which require an amount of 
+### tools
+- first look at the .exe file with a hex editor
+- Then with [[Ghidra]]
+	- Use the standard defaults to start with
+- Case study: [[WannaCry]]

@@ -4,3 +4,10 @@ tools, such as dynamic analysis tools.
 This is more about fuzzing or [[QA testing]], trying to see what will happen if you give the software something unexpected to deal with.
 
 Dynamic code can to some degree look for input validation and check function arguments, but at the cost of run-time performance. Typically, we make use of dynamic analysis during testing.
+
+It's also useful to identify [[malware]], which may only activate when the software is run - thereby evading [[static analysis]].
+
+## tools
+- debuggers
+- sandboxes
+- emulators
