@@ -1,3 +1,5 @@
+## Reading
+
 ## 3.1 Crash course on [[assembly]]
 - where was this last week! This was needed for [[WannaCry#Decompiling Wannacry with Ghidra]] 😭
 - Ahmad reads books with footnotes 🥹
@@ -65,3 +67,45 @@ MOV EAX, [a]
 ADD EAX, [b]
 MOV [x], EAX
 ```
+- we will not be programming in [[assembly]]
+	- thanks be!
+- let's start with some C (sigh)
+```C
+# include <stdio.h>
+
+int main(int argc, char *argv[]) {
+  printf("Hello, world!\n");
+  return 0;
+}
+```
+- for those following along at home, this functions returns an integer (specifically, 0) after printing out "Hello, world!" followed by a newline character
+- `argc` is a parameter - an integer detailing the number of arguments to the function
+- `argv` is an array of pointers to arrays of character (char) objects
+- Let's see how it looks in assembly! Bet it's simple!!
+```assembly
+	.file "hello.c"
+	.intel_syntax noprefix
+	.section .rodata
+.LC0:
+	.string "Hello, world!"
+	.text
+	.global main
+	.type main, @function
+main
+	push rbp
+	mov rbp, rsp
+	sub rsp, 16
+	mov DWORD PTR [rbp-4], edi
+	mov QWORD PTR [rbp-16], rsi
+	mov edi, OFFSET FLAT:.LC0
+	call puts
+	mov eax, 0
+	leave
+	ret
+```
+A few notes:
+- `mov edi, OFFSET FLAT:.LC0` moves the address of the string in `.LC0` to `edi`
+- `puts` prints the string pointed to by the `edi` followed by a new line
+- `mov eax, 0` sets the value of `eax` to 0
+- leave undoes the setup (so the prologue?)
+- and finally we return (`ret`) whatever's in `eax` - here 0
