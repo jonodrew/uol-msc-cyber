@@ -1,4 +1,9 @@
+---
+description: "Week 3: assembly, infection, behaviour"
+---
+
 ## Reading
+- [[Malware, rootkits and botnets#Chapter 7 Infection vectors]]
 
 ## 3.1 Crash course on [[assembly]]
 - where was this last week! This was needed for [[WannaCry#Decompiling Wannacry with Ghidra]] 😭
@@ -109,3 +114,9 @@ A few notes:
 - `mov eax, 0` sets the value of `eax` to 0
 - leave undoes the setup (so the prologue?)
 - and finally we return (`ret`) whatever's in `eax` - here 0
+
+## 3.2: [[malware]] infection mechanisms
+- see [[virus#File infectors]] for much of this
+- there's also rootkits for the [[kernel]], which give the malware root privileges
+- similarly, [[hypervisor]] rootkits are a nasty way of crossing virtual machines
+- of course there's [[stack#overflow]]

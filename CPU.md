@@ -28,8 +28,4 @@ Here we keep flags which indicate the status of the CPU. For example, this is wh
 ### Debug registers
 `DR0` to `DR7`
 
-## Stack
-The stack is a big heap of memory that grows downwards (ie, from a high address to a low address). We put values onto the stack with push and we get them off with pop. We only take from the top, so this means it's a last in/first out (LIFO) data structure.
-
-### pop
-The pop action doesn't actually _remove_ the value at the top of the stack. It copies the value into the operand and then increments the stack pointer. This means that the data is still there in the stack, but it's _considered_ empty
+## [[stack|The stack]]
