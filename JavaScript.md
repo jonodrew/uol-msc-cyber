@@ -1,5 +1,8 @@
 ---
-alias: [js, .js]
+aliases:
+  - js
+  - .js
+  - javascript
 ---
 ## Declaration
 I accept that I hate JavaScript. Please take that under advisement.

@@ -33,4 +33,4 @@ Similar to [[User Datagram Protocol]], the header has a
 - (acknowledgement number)
 - various other things, including flags, such as SYN, ACK
 - size indicator
-- checksum
+- checksum ^95146d

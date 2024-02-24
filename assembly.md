@@ -18,7 +18,7 @@
 ## Components
 - instructions: [[CPU]] instructions
 - directives: commands to the assembler to produce a specific piece of data, or to place something in a particular section
-- labels: symbolic names that can be used to refer to instructions (see above) or data in the program. Once the program is assembled and linked (see [[CYM070 week 2#Binary compilation process]], all symbolic names are replaced by addresses)
+- labels: symbolic names that can be used to refer to instructions (see above) or data in the program. Once the program is assembled and linked (see [[CYM070 week 02#Binary compilation process]], all symbolic names are replaced by addresses)
 - comments: human-readable strings for documenting what your assembly program does
 ### instructions
 - can be from 1 to 15 [[byte|bytes]]
@@ -41,6 +41,8 @@
 - it also reads `destination, source`
 
 ## Opcode
+
+^9a89df
 
 - in x86 architecture, they're between 1 and 3 bytes long
 - these are generally turned into mnemonics (see table above), so that we don't need to remember (for example) that `0x90` is the opcode for `NOP` (no-op)

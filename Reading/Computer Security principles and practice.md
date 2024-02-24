@@ -1,5 +1,5 @@
 Set text for [[5. CYM010 week 5]]
-And [[CYM070 week 1]]
+And [[CYM070 week 01]]
 ## Chapter 1
 Learning objectives
 1. Describe the key security requirements of [[confidentiality]], [[integrity]], and [[availability]]

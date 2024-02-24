@@ -4,6 +4,7 @@ description: "Week 3: assembly, infection, behaviour"
 
 ## Reading
 - [[Malware, rootkits and botnets#Chapter 7 Infection vectors]]
+- [[Learning malware analysis]]
 
 ## 3.1 Crash course on [[assembly]]
 - where was this last week! This was needed for [[WannaCry#Decompiling Wannacry with Ghidra]] 😭
@@ -120,3 +121,8 @@ A few notes:
 - there's also rootkits for the [[kernel]], which give the malware root privileges
 - similarly, [[hypervisor]] rootkits are a nasty way of crossing virtual machines
 - of course there's [[stack#overflow]]
+- and web vulnerabilities!
+## 3.2: [[malware]] functionalities
+- droppers are self-deleting code that often do nothing more than reach out to another system, usually via the [[Internet]], to download further malware. You can't simply look at the APIs it uses, either - because 'speak to the Internet', 'open a file', 'write to a file' is basically the entire purpose of MS Word
+- [[keylogger|keyloggers]] gonna log them keys
+- [[Command and Control|C2]]

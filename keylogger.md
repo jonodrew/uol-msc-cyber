@@ -1,0 +1,1 @@
+Software that records every key stroke on a system.

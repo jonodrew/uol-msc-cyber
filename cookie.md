@@ -1,0 +1,1 @@
+a small piece of data added to your [[browser]]. It tracks your behaviours across the [[Internet]], the better to sell you shit

@@ -7,6 +7,10 @@ Dynamic code can to some degree look for input validation and check function arg
 
 It's also useful to identify [[malware]], which may only activate when the software is run - thereby evading [[static analysis]].
 
+### use in malware analysis
+- in analysing malware dynamically, we're probably going to look at system monitoring, [[network]] monitoring, API call tracing
+- it's also a handy way to see what [[obfuscation|obfuscated]] code does - a kind of black-box testing where, instead of tracing the code, we observe the system
+- it uses debugging, as software engineers would when going through code
 ## tools
 - debuggers
 - sandboxes
