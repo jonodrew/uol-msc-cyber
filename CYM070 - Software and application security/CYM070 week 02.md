@@ -60,7 +60,7 @@
 - architecture differences 
 ## 2.3 [[malware]] analysis
 - [[anti-virus]] mechanisms:
-	- began with signature analysis, usually using a [[hash function]]
+	- began with signature analysis, usually using a [[cryptographic hash function]]
 	- Then [[byte]]-level, or instruction-level, signatures
 	- Then heuristics, where we start looking at behaviour, rather than specific bytes or signatures
 - turns out there's a test file for malware. All you have to do it save a file containing the following string: `X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*` in plain text and your anti-virus should fire

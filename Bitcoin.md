@@ -4,3 +4,7 @@
 
 ### Doesn't need:
 - [[confidentiality]]
+
+## Notes
+- Bitcoin is pseudo-anonymous: while accounts are not explicitly tied to real-world [[identity]], all transactions by the account are completely public
+- 

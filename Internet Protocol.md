@@ -64,7 +64,7 @@ As with [[#Version 4]] above, the first field in the header tells the router wha
 [Same as above]([[#Version 4#Differentiated services]])
 
 ### Flow label
-This field provides a way for a pair of addresses to mark a group of packets that should be treated in the same way by the network. This feels to me a little like being able to mark certain vehicles with flashing lights and sirens, thereby communicating that they have priority and reserved right of way. The flow is set up in advance and has an identifier. Flow labels are chosen randomly, and therefore the best way for routers to identify them is by constructing a [[hash function|hash table]]. 
+This field provides a way for a pair of addresses to mark a group of packets that should be treated in the same way by the network. This feels to me a little like being able to mark certain vehicles with flashing lights and sirens, thereby communicating that they have priority and reserved right of way. The flow is set up in advance and has an identifier. Flow labels are chosen randomly, and therefore the best way for routers to identify them is by constructing a [[cryptographic hash function|hash table]]. 
 
 ### Payload length
 Similarly to [[#Version 4#total length|total length above]], this describes the length of the payload. However, in v6, the header no longer counts towards the total length of the payload. 

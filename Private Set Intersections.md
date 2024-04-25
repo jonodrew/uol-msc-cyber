@@ -1,0 +1,1 @@
+A protocol for computing the intersection of datasets without revealing anything except the intersection or the cardinality of the intersection

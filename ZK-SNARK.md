@@ -1,0 +1,1 @@
+[[zero-knowledge proof|Zero Knowledge]] Succinct Non-interactive ARguments of Knowledge

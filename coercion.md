@@ -1,0 +1,1 @@
+The use of force to persuade someone to do something that they are unwilling to do. Coercion generally refers to physical or psychological threats

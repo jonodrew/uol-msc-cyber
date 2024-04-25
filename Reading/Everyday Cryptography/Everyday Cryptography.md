@@ -32,7 +32,7 @@ Securing things might mean:
 
 #### on their own
 - [[encryption]] can only provide [[confidentiality]]
-- a [[hash function]] can sometimes provide [[data integrity]]
+- a [[cryptographic hash function]] can sometimes provide [[data integrity]]
 - a [[MAC|message authentication code]] can provide both [[data integrity]], [[data origin authentication]], and sometimes [[non-repudiation]]
 - a [[digital signature]] can provide [[data integrity]], [[data origin authentication]], and [[non-repudiation]]
 
@@ -147,7 +147,7 @@ However!
 	- some implementations use a fresh key every _n_ seconds
 	- others make the keystream dependent not just on the key but also on several of the most recent bits of the ciphertext. Thus if connection is lost and re-established, the [[keystream]] will re-sync
 - Stream ciphers tend to be properietary, in contrast to [[block cipher]], which are more well-known and tend towards openness. 
-- they also have slightly lower versatility. While a [[block cipher]] can be used for [[hash function]] and [[MAC]] design, stream ciphers can really only do [[encryption]]. And even then, it's trivial to adjust a [[block cipher]] to function as a stream cipher.
+- they also have slightly lower versatility. While a [[block cipher]] can be used for [[cryptographic hash function]] and [[MAC]] design, stream ciphers can really only do [[encryption]]. And even then, it's trivial to adjust a [[block cipher]] to function as a stream cipher.
 
 #### 4.2.5 examples of a [[stream cipher]]
 With all that in mind, are there any stream ciphers actually in use? Yes. The three best-known are [[RC4]], [[A5-slash-1|A5/1]] , and [[E0]]  
@@ -173,7 +173,7 @@ Linked page covers development and design. The design is particularly tricky.
 #### 4.6.1 [[ECB mode|Electronic Code Book mode]]
 Having considered the many, many [failings of ECB mode]([[ECB mode#Problems]]) we turn to better alternatives
 #### 4.6.2 [[Cipher Block Chaining mode]]
-#### 4.6.3 [[Cipher Feedback mode]]
+#### 4.6.3 [[cipher feedback mode]]
 #### 4.6.4 [[Counter mode]]
 
 ### 5.4.3
@@ -184,13 +184,13 @@ Having considered the many, many [failings of ECB mode]([[ECB mode#Problems]]) w
 ### 6.1 Different levels of [[data integrity]]
 Let's look at four attacks, in increasing order of severity.
 1. Accidental errors. These are things like noise in a communications channel, and mechanisms offering protection against this level of attack include error-correcting codes like those in 1.4.4 and simple checksums like [[cyclic redundancy checks]]. These techniques compute a digest that is appended to the original data and which is computed with a simple mathematical formula. Since such a digest can be computed by anyone, they offer zero protection against an active attacker, because it becomes trivial to change both the message and its digest
-2. Simple manipulations. In the case above, an attacker can predict what the new digest will be, and doesn't even need to calculate it. A [[hash function]] protects against this to a minor extent, because an attacker has to actually compute a new hash, but it's not exactly protection. It's the difference between leaving the door open, and closing it but not locking it.
+2. Simple manipulations. In the case above, an attacker can predict what the new digest will be, and doesn't even need to calculate it. A [[cryptographic hash function]] protects against this to a minor extent, because an attacker has to actually compute a new hash, but it's not exactly protection. It's the difference between leaving the door open, and closing it but not locking it.
 3. Active attacks. In order to prevent an [[attacker]] creating a 'valid' digest, there has to be some secret as input. In turn, this normally additionally provides [[data origin authentication]], because the most natural way of preventing active attacks of this type is to tie together the source and the underlying data. The main mechanism for data integrity at this level is a [[MAC]].
 4. Repudiation attacks. The [[attacker]] was inside the house the whole time! If someone signs something and then tries to wriggle out of it, how can we prove that they did in fact sign it? This will be covered by a later discussion of [[digital signature]].
 
-### 6.2 [[hash function]]
+### 6.2 [[cryptographic hash function]]
 An interesting, potato-based [[cryptographic primitive]]. The linked page covers 6.2.1 and 6.2.2
-#### 6.2.3 How to attack a [[hash function]]
+#### 6.2.3 How to attack a [[cryptographic hash function]]
 - a very small hash is a vulnerable hash. Consider a hash of length 2: the total number of possible values is only 4. That means there is a 1-in-4 chance that my super-strong password has the same hash as 'password1'. ❌
 - a small hash is still vulnerable, though in a more interesting way. Consider a 10-bit hash. There are $2^{10}$, or about $10^3$, potential hashes. The likelihood of stumbling onto a match for my super-strong password is now only 0.1%. Success? Not quite. Because my system enforces certain rules for passwords, an [[attacker]] can generate a table of 1000 hashes corresponding to the rules for the password. Unfortunately, they've also bought the disk containing all of our hashed passwords...and now all they need to do is find a single overlap.
 

@@ -56,4 +56,3 @@
 - bootstrap script called 'Flare VM' that gets a windows machine set up as an analysis tool
 - [[REMnux]] is an analysis flavour of linux. Might even be an [[Ubuntu]] fork
 	- hey it has [[CyberChef]]!
-- 

@@ -9,6 +9,7 @@ There are five security services. The sub categories are provided by [[X.800]]
 	- selective-field confidentiality
 	- traffic-flow confidentiality
 - [[data integrity]]
+	- note links to [[integrity]]
 	- connection integrity with recovery
 	- connection integrity without recovery
 	- selective-field connection integrity

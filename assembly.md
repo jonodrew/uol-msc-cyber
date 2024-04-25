@@ -1,3 +1,8 @@
+---
+aliases:
+  - assembly code
+---
+
 ## glossary
 | assembly code | meaning |
 | ---- | ---- |

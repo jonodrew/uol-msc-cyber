@@ -15,3 +15,9 @@
 	- because to a computer, $\frac {2}{3}$ might as well be three dogs in a trenchcoat
 - this unit keeps track of the instruction pointer, and stores that address at offset 12
 ## what am i doing here?
+- we're going on a symbolic hunt
+	- like Joseph Campbell?
+- nope, using the basics: `LoadLibraryA` and `GetProcAddress`
+- `LoadLibraryA` loads a library and returns a 'handle', while `GetProcAddress` searches a library' exports for a given symbol or ordinal number (remember that ordinals are first, second, third - they indicate position - whereas cardinal are counting numbers)
+- with these two methods, you can get hold of the entire API of the [[Windows]] operating system
+- 

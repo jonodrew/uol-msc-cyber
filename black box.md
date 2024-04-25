@@ -1,0 +1,1 @@
+A system that the user/tester can't see into. All the user gets is inputs and outputs

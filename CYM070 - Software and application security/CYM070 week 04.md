@@ -1,3 +1,6 @@
+## reading
+- [[The antivirus hacker's handbook#Chapter 12 Static analysis]]
+- [[Static disassembly and code analysis]]
 ## 4.1 [[static analysis]]
 ### [[binary]] disassembly techniques
 These naturally require and understanding of the target architecture's instruction format and [[assembly#^9a89df|opcode]] format 

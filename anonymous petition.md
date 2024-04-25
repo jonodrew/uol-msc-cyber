@@ -1,0 +1,4 @@
+- everyone loves a petition
+- ideally, we'd use [[Attribute-Based Credentials|ABC]], because publicly putting your name to something controversial can be dangerous
+- however, there must be a mechanism to identify double-signing, to avoid attacks by malicious users who are trying to show more 'signatures' to a petition than there really are
+- indeed, more modern approaches reduce the need for a single central authority to issue credentials

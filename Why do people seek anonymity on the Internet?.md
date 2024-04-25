@@ -1,0 +1,19 @@
+- researchers actually asked people why they want [[anonymity]] on the [[Internet]]
+- 85% of interviewees in one said that they did not know how to surf the [[Internet]] anonymously
+- Most people don't know how the internet actually works
+	- "a series of tubes"
+- [[Gary Marx]] describes seven dimensions of anonymity, such that a person cannot be identified:
+	- by their legal name
+	- location
+	- pseudonyms that can be linked to the person's legal name or location
+	- pseudonyms that cannot be linked to specific identity information but that provide other clues to identity
+	- revealing patterns of behaviour
+	- membership in a social group
+	- information, items, or skills that indicate personal characteristics
+- no pre-existing hypothesis, so used qualitative interview techniques
+- the interviewees personal [[threat model]]s fell into five categories:
+	- online predator
+	- organisations
+	- known others
+	- other users in the community
+	- unknown others

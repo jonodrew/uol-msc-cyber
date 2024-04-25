@@ -156,7 +156,7 @@ When planning your incident response with regards to documentation:
 >
 >Broadly speaking, digital forensics has become both more and less difficult. On the one hand, as the question points out, growing ICT complexity, virtualisation, and cloud-based architectures increase the difficult for forensics. The chain of custody is not necessarily assured, as you don't have physical access to the data store. Additionally, the huge explosion of digital services and software, some of it very poorly written, can muddy the waters and make forensics more complex. Finally, the lack of standards can make the job of forensics even more difficult.
 >
->However, we can use a strong [[hash function]] to prove that the copy we're working on is the same as the copy at the remote location (putting aside whether it's been physically tampered with). High speed internet means we can share these images quickly, and the proliferation of high quality tools means forensics are more available to all.
+>However, we can use a strong [[cryptographic hash function]] to prove that the copy we're working on is the same as the copy at the remote location (putting aside whether it's been physically tampered with). High speed internet means we can share these images quickly, and the proliferation of high quality tools means forensics are more available to all.
 
 ### Learning lessons
 The outcome of this process could be:

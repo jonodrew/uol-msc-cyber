@@ -1,6 +1,6 @@
 An [[operating system]] that has been developed slowly over time. In the past it was considered fairly insecure, perhaps due to the naivety of the developers, who assumed it would be used in a safe environment. 
 
-In Unix systems, there is a superuser/root account, which has almost limitless ability to work around all security constraints. The only thing they cannot do is read plaintext [[password|passwords]], because the `crypt` function is a one-way [[hash function]]. However, they could overwrite it with, say, `hunter2`.
+In Unix systems, there is a superuser/root account, which has almost limitless ability to work around all security constraints. The only thing they cannot do is read plaintext [[password|passwords]], because the `crypt` function is a one-way [[cryptographic hash function]]. However, they could overwrite it with, say, `hunter2`.
 
 Users can be organised into groups, and inherit the permissions of that group. Each group has a group ID (GID)
 

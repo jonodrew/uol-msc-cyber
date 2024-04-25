@@ -8,7 +8,7 @@ Assuming a block of size _n_
 4. Let the new ‘right _m_ bits’ $R_1$ be $X$.
 5. Let the new ‘left _m_ bits’ $L_1$ be the previous ‘right _m_ bits’ $R_0$.
 6. Repeat the process from step 2 to step 5, except that $R_1$ is used instead of $R_0$, and $L_1$ instead of $L_0$. This sequence of steps (step 2 to step 5) is known as a _round_ of the block cipher. The function $f$ used is often referred to as the _round function_.
-7. Repeat step 6 for as many rounds as specified by the algorithm design. Once the last round (round number $z$) is completed, then the last ‘left _m_ bits’ $L_z$ are joined with the last ‘right _m_ bits’ $R_z$ to form the $n$ bits of the ciphertext, which is formed by concatenating $R_z$ and $L_z$ (in that order).
+7. Repeat step 6 for as many rounds as specified by the algorithm design. Once the last round (round number $z$) is completed, then the last ‘left _m_ bits’ $L_z$ are joined with the last ‘right _m_ bits’ $R_z$ to form the $n$ bits of the [[ciphertext]], which is formed by concatenating $R_z$ and $L_z$ (in that order).
 
 This algorithm can be implemented extremely simply in software. Observe:
 

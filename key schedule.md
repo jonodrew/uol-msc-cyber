@@ -1,0 +1,1 @@
+An algorithm that calculates [[round key|round keys]] from a [[key]]

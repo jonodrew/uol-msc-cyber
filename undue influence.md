@@ -1,0 +1,1 @@
+A situation in which someone uses their power or authority in an unfair way, in order to influence a legal decision. This may be through psychological or emotional threats. 
