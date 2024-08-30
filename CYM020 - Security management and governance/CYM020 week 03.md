@@ -45,7 +45,7 @@ This week is concerned with the management of cyber security risks. Risk managem
 ## Lesson 3: [[risk assessment]]
 1. [[risk identification]]
 2. [[risk management#Risk analysis]]
-3. [[risk treatment]]
+3. [[risk treatment]] ^0ee1e6
 4. Risk evaluation
 >[!question] When might it be appropriate to treat a risk which is assessed as being within the risk appetite of an organisation?
 >

@@ -1,0 +1,3 @@
+- personas cannot be falsified and therefore disproved
+- by contrast, good personas should at least be derived from actual data
+- paper claims this is possible using 'persona cases' and '[[Grounded Theory]]'

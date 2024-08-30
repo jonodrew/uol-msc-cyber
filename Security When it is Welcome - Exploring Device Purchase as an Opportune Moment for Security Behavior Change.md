@@ -1,0 +1,5 @@
+- behaviour change needs to be targeted to an opportune moment
+- is the point of sale an opportune moment?
+- there are more than 80 theories of behaviour!
+- yes, for some people
+- however, for others it's actually a turn-off: they feel like they're being sold to, and that it's eroding their budget

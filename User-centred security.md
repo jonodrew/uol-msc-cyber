@@ -1,0 +1,11 @@
+## notes
+- will people engage more with security if it's user-friendly?
+- callback to [[Computer Security principles and practice#^7a4905|psychological acceptability]] as a principle for security design
+- "secure systems have a particularly rich history of indifference to the user"
+- "Military multi-level systems (MLS) are prone to 'label float' - information gets overclassified as a by-product of the mismatch between how users produce and use information and how labelling is determined by the MLS model"
+- least privilege is a hard principle to make user friendly, because it determines privilege on a task- or thread-based process - and this is not how humans tend to work
+- paper suggests we use the standard usability approaches we apply to web design in security
+- we can also start with the needs of the user when considering security
+- "[[PGP]] has other usability problems" 👈🏻 this is what we call an understatement, friends
+- security policy should be organised around information content and not 'namespace placement'
+- "a coherent, consistent \[user interface] is itself a security tool, not just window dressing"

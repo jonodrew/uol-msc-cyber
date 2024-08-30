@@ -83,7 +83,7 @@ Note it is a model based on previous data for similar businesses, we might be un
 	- communicating security information to other employees and users
 
 ### Security standards and procedures
-The key standards in the area of information security are in the [[International Standards Organisation|ISO]] 27xxx series. Specifically, there is [[ISO 27001]] and [[ISO 27002]].
+The key standards in the area of information security are in the [[ISO|ISO]] 27xxx series. Specifically, there is [[ISO 27001]] and [[ISO 27002]].
 
 There are also standards for securing information technology systems. In the EU, the standard is [[Information Technology Security Evaluation Criteria]]. This scheme has itself been standardised with Canada's [[Canadian Trusted Computer Product Evaluation Criteria]] and the US' [[Trusted Computer System Evaluation Criteria]], producing the [[Common Criteria for Information Technology Security Evaluation Criteria]]
 

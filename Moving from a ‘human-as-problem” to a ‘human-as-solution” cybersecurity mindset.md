@@ -1,0 +1,25 @@
+- are humans the problem?
+	- NO!
+- if we accept that cybersecurity is one of those [[wicked problems]], simple solutions like "do x!" or "don't do y!" are useless
+- we are citing [[Foucault]], my friends, I am in my fucking _element_
+- references the reconceptualisation of knife crime in Glasgow as a public health, rather than a criminal justice, problem
+- cyber systems are [[socio-technical]] systems
+	- this means they are inherently complex and impossible to predict
+	- it is also more complicated than its constituent parts
+- used Bacchi (2009)'s problematising process, and asked:
+	- What is the problem?
+	- What effects are produced?
+	- What assumptions have been made?
+	- How has this representation come about?
+	- How could this representation be questioned?
+	- How can the problem be thought about differently?
+- this is 100% epistemology and I am fucking here for it
+- there is no such thing as a root cause!!
+	- Time to once again post about [three mile island](https://www.youtube.com/watch?v=1xQeXOz0Ncs)
+- system decomposability is a lie!!
+- moving responsibility away from the human displaces responsibility
+	- [[accountability sink]] klaxon!
+- reference to [[Turn the ship around]]!!
+- no-blame approach is the only way we identify lessons from near-misses
+- actively seeking, identifying, and remediating threats is the best way to create a high-reliability (**not safety**) culture
+- this is because a [[socio-technical]] system is emergent: its properties and behaviours emerge from its action, and cannot necessarily be pre-determined 

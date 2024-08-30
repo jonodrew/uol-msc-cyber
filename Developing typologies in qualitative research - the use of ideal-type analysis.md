@@ -1,0 +1,21 @@
+## notes
+- a typology is formed by grouping cases or participants into 'types', based on common features
+- this paper deals with a method for creating a typology: ideal-type analysis
+- it has seven steps:
+	- familiarisation with the dataset
+	- writing the case reconstructions
+	- constructing the 'ideal types'
+	- identifying the optimal cases
+	- forming the ideal-type descriptions
+	- checking credibility
+	- making comparisons
+- some methodologies are 'thematic', such as 'thematic analysis', 'grounded theory', and 'interpretative phenomenological analysis'
+- this risks losing the specificity of individual experiences
+- if that's more important, one could use case study methods - but of course then you lose the cross-case analysis
+- one way to bring the two together is through typologies
+- oh they've published a book on this, what luck
+- an 'ideal type' is a sort of Platonic ideal of something, against which everything else can be measured
+- it must be clear that it's constructed
+- even as a construct it's useful, because it gives you a think to measure against
+- there's a valuable table here about the different types of approach: https://journals.sagepub.com/doi/10.1177/16094069221100633
+- 

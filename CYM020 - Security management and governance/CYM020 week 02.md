@@ -25,7 +25,7 @@ This week is concerned with standards for approaches to, and techniques used in,
 	- Depends whether you need certification, but also how mature the security function is within the organisation
 - Then we get into [[Cyber Essentials]]
 
-## Lesson 2: Deep dive on the [[International Standards Organisation|ISO]] frameworks
+## Lesson 2: Deep dive on the [[ISO|ISO]] frameworks
 - [[ISO 27001|ISO/IEC 27001]]
 - [[ISO 27002|ISO/IEC 27002]]
 - A reminder that security policies should be in line with the organisation's wider objectives:
@@ -37,7 +37,7 @@ This week is concerned with standards for approaches to, and techniques used in,
 - and then [[NIST Special Publication 800-53|NIST SP 800-53]]
 - note that 27002 used to categorise [[control|security controls]] in the same way that SP 800-53 does - according to purpose, as opposed to mechanism. ISO argue that the change was made because the new taxonomy is simpler, and there is no overlap between groups.
 - There's a brief summary of the set of controls in the 'Awareness and Training' family of [[NIST Special Publication 800-53|NIST SP 800-53]].
-- The fifteenth class of controls in 800-53 is entitled 'Personally identifiable information processing and transparency', and regards privacy rather than (strictly) security
+- The fifteenth class of controls in 800-53 is entitled '[[personally identifiable information]] processing and transparency', and regards privacy rather than (strictly) security
 - worth noting that NIST documents are loosely coupled, and seem more 'agile' or at least iterative. ISO documents are more targeted towards compliance and certification
 
 ## Lesson 4: Certification

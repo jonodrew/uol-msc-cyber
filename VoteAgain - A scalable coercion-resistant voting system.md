@@ -1,0 +1,21 @@
+## notes
+- authors propose a scheme that they claim has [[coercion]] resistance
+- as a reminder, existing schemes rely on either:
+	- fake credentials, which means the user has to maintain multiple sets of credentials and also potentially lie under pressure
+	- revoting, which assumes that the user has an opportunity before the ballot closes to vote again. The paper claims that this requires a quadratic number of operations, and offers the example that calculating this with only 176k votes would take more than a core year
+- VoteAgain, the system proposed by the paper, offers the following:
+	- a deterministic number of dummy ballots, which hide the number of ballots cast by individual votes 
+	- by virtue of this deterministic approach, they argue that filtering the dummy ballots out can be done in the clear, reducing operations from $O(n^4)$ to $O(n \log n)$, ie from quadratic to quasilinear
+- They estimate that on 224 cores, using AWS hardware, millions of ballots can be tallied in hours
+- the authors describe previous definitions of [[coercion]] resistance as 'vacuous'
+	- them's fightin' words!
+- Actors
+	- Polling authority, which [[authentication|authenticates]] voters and issues them ephemeral 'voting tokens'
+	- Public Bulletin Board, which is an append-only list of cast ballots
+	- tally server, which filters ballots, adds dummy ballots, shuffles the ballots, groups them by voter, and selects the last (most recent?) ballot for each voter
+	- trustees, who mix and decrypt the selected ballots to reveal the outcome of the election. They use a [[Shamir secret-sharing protocol]] to ensure no individual can access the votes themselves
+- #attackModel 
+	- an [[attacker]] can coerce any voter, but not all voters
+	- an assumption is made that there is a gap between the end of [[coercion]] and the end of the election
+		- this seems bold to me, but as the paper points out it scales better this way
+- 

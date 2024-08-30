@@ -1,0 +1,8 @@
+- USERS ARE NOT STUPID
+- How to avoid an "us-vs-them" mentality?
+	- Assume your user is at least as clever as you and twice as busy. How can you make their life easier and more secure?
+	- Tailor your communications to that audience. Plain english is a good start
+	- If your tools are usable, people will use them
+	- Manage risk. Not all your users are the same, or have the same risk profile. It's not the end of the world if admin assistants browse the web on their laptop during lunch, and if it is, your network is the problem
+	- Punishments are only fun if everyone enjoys them: you're not there to bully or shame people, and folks will stop talking to you if that's your approach
+	- Be user-centred in your approach to behaviour change and making security stick

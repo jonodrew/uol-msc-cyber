@@ -1,0 +1,12 @@
+## notes
+- shadow IT is "an adaptation by employees to their work for improving efficiency and bypassing the limitations of official IT resources"
+- they have huge value
+- they're also (potentially) great big gaping holes in the information security posture
+- paper is investigating the discrepancies between the intention and behaviour of users, with regards to information security policies (ISPs)
+- self-efficacy rears its head again, as we're doing [[social cognitive theory]]
+	- this is the personal appraisal of one's own abilities
+	- people with high self-efficacy (in a problem space) will confront and try to solve a problem; those without will ignore or avoid it
+- other research seems to indicate that people with high self-efficacy (computer specific?) tend to demonstrate greater compliance with ISPs
+- ironically, some of those people are also the most likely to use shadow IT
+- **shadow IT exists because the organisational IT department is not meeting a user need**
+- interesting experiment design - participants were asked to email a paper to someone, but the email client would almost always time out. There was a prize on offer for completion of the task, so what do users do?

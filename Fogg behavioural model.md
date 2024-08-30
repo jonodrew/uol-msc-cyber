@@ -1,0 +1,11 @@
+## notes
+- three main components:
+	- motivation
+	- ability or simplicity
+	- effective triggers
+- motivation is binary: pleasure/pain, hope/fear, social acceptance/rejection
+- ability represents the availability of resources: time, energy (spoons), willingness to act against the norm, and extra effort to pick up a non-routine behaviour
+- 'effective triggers' is:
+	- sparks: designs to motivate individuals
+	- facilitators: individuals (?) to add motivation
+	- signals: reminders to carry out behaviours

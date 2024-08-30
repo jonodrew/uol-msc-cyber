@@ -1,0 +1,4 @@
+- is there a legal right to online [[anonymity]]?
+- on the [[Internet]], nobody knows you're a cat - but with enough resources, someone could figure it out
+- Do articles 8 and 10 of the [[ECHR]] encompass the rights of individuals to anonymity?
+- are these rights tied to the rights of freedom of expression and #privacy ?

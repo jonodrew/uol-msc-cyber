@@ -1,0 +1,2 @@
+- comic strips involving personas are hugely valuable, apparently
+- as long as these personas are well thought out and researched

@@ -1,0 +1,13 @@
+[[fully homomorphic encryption]] over the [[Torus]]
+- an extension of the GSW scheme
+- based on a bootstrapped [[NAND]] gate, which reduces noise every time it's used
+	- in TFHE it takes only around 0.05s, which compared to a [[plaintext|cleartext]] NAND operation is abysmal but is an order of magnitude better than the minutes it was previously taking
+- It also uses bootstrapping keys of around 24Mb
+- It uses the _real_ torus
+	- as opposed to what 😭
+- $(\mathbb{T}, +, \cdot)$ is a $\mathbb{Z}$-module 
+	- Eh?
+	- apparently this means that the external product $\mathbb{Z} \times \mathbb{T} \rightarrow \mathbb{T}$ is well defined
+	- it is also an _abelian_ group: $x + y \mod 1$ 
+	- any integer multiplied by a value in the torus is defined
+	- however, it's not a _ring_: two values within the torus have an undefined product

@@ -1,0 +1,20 @@
+- 118 in-depth interviews!!
+- introduces the term "shadow security": that is, people doing security in the best way they know how. It might not be compliant, but it's not necessarily non-compliant
+- almost no organisation actually checks whether the policies and mechanisms they're trying to get people to conform to are fit for the actual working environment
+- sanctions don't work unless you enforce them
+- if you enforced them across all non-compliant actors you would have no organisation at all
+	- hurray, security achieved!
+- persuasion is often not much better, because attending the persuasive training further takes people away from their work
+	- womp-womp
+- "the first step to creating \[a solution that works] is to identify current non-compliance instances in organizations \[sic], the factors that contribute to their occurrence and the employee responses that manifest"
+- users adopt non-compliant behaviours when:
+	- they lack awareness, either of the risks or the policy
+	- there is a high compliance cost
+	- it's actually impossible to comply
+- another [[Grounded Theory]] shoutout
+- people want to act in secure ways - 
+	- I wonder if this ties to [[Inconsistencies Between Information Security Policy Compliance and Shadow IT Usage]]
+## recommendations
+- reduce compliance costs ([[Compliance Budget]])
+- engage users in security design and the assessment of its effectiveness
+- "Many security experts still talk (and think) that usability and security create a tradeoff: that usability is nice, but security is important, so it's ok to ask users to make extra effort. But usability is a *hygiene factor* for security: **solutions that are not usable will not work as intended**, period."

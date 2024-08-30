@@ -6,6 +6,7 @@
 - [[A fistful of bitcoins]]
 - [[Traceback for end-to-end encrypted messaging]], pp. 10-10
 - [[Report and trace ring signatures]], pp. 1-7
+- [[Online anonymity in the modern digital age]], pp. 1-4, 16-22
 ## 2.1 What is [[anonymity]]?
 >[!quote] Online anonymous communication is morally neutral; [...] it should be considered a strong human and constitutional right
 >

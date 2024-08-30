@@ -46,7 +46,7 @@ So what's the answer? Simple. Cyber-security is everyone's responsibility, and f
 - [[Information security management principles#Chapter one: Information security principles]] 
 
 ## Lesson 2: #standard and cyber security
-- In [[International Standards Organisation|ISO]] standards:
+- In [[ISO|ISO]] standards:
 	- 'shall' means "required for compliance with the standard"
 	- "should" means "recommended but not required for compliance with the standard"
 
@@ -61,7 +61,7 @@ So what's the answer? Simple. Cyber-security is everyone's responsibility, and f
 >[!question] Should standards be public and freely available?
 >Yes!
 >
->Unfortunately, because [[International Standards Organisation|ISO]] makes most of its money from selling access to the standards, this is unlikely to happen any time soon
+>Unfortunately, because [[ISO|ISO]] makes most of its money from selling access to the standards, this is unlikely to happen any time soon
 
 A quick segue into [[RFC]], which is a process for making bottom-up, *de facto* standards. These standards dictate how large parts of the [[Internet]] are run.
 

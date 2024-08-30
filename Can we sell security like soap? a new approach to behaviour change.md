@@ -1,0 +1,34 @@
+- 'raising awareness' $\neq$ 'behaviour change'
+- the paper proposes 'social marketing' as a means to change security behaviours
+- thankfully they intend to explain what social marketing is because lads I do not have a scoobie
+- I think it's:
+	- define a clear target
+	- understand the behaviour of end users from their own perspectives
+	- develop an exchange proposition so that it benefits the user to change the behaviour
+	- develop the intervention that will make that exchange happen
+	- evaluate its success
+- users don't have the same view of a behaviour as a security professional. Whose is right?
+	- the user's. Sorry.
+- target behaviours have to be 'indivisible'. "Don't forward things you shouldn't" is impossible to check and also impossible for a user to parse. "Don't forward things to your personal inbox" is simple and indivisible - either it's followed or it isn't
+- you also need a baseline of how widespread the behaviour is before you start the targeted intervention
+- you also need to know what hasn't worked. For example, if everyone's been sheep-dipped through the security program, why are they still behaving insecurely?
+- you might consider attribution theory: what link is the user making between cause and effect?
+- the 'product' we're selling is the benefit that people will get from changing their behaviour
+	- Like putting on their seatbelt!
+- We frame it as `f"If I {new_behaviour} instead of {old_behaviour} I will get {personal_benefit} and I believe it will happen`. 
+### designing the intervention
+- a mix of elements of education to inform and create awareness
+- design of the environment and processes to support change
+- regulation and disciplinary processes to inhibit continuing the old behaviour
+- services to support the new behaviour
+- messaging to communicate the new behaviour
+- marketers like to summarise these elements as SPLAT:
+	- Some Posters
+	- Leaflets
+	- Ads
+	- Things
+- (And I though _we_ were bad at acronyms)
+- This approach is also known as 'spray and pray', for obvious reasons
+- targeting these interventions according to actual user research on the user's mental model is more effective
+- co-creation is good also, because it gives you a chance to communicate the end-goal you're trying to achieve
+- these behaviour change campaigns are ssslllllooooowww

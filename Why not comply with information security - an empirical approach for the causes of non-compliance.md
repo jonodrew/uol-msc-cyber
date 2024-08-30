@@ -1,0 +1,13 @@
+- ah, the big questions
+- already they've got my back up with the phrase "human perpetrators"
+- paper uses 'prospect theory'. Was published in 2017, which I think means it may have just missed out on [[nudge theory|Behavioural Insights]], as it assumes humans to be rational actors when it comes to losses and gains
+- this only proposes a research model and provides a lit review
+- the research questions are:
+	- What are the causes of employees' non-compliance with information security?
+	- How can an organisation minimise individual non-compliance?
+-  employees make decisions based on "bounded rationality"
+	- they make decisions that make sense to them in their specific context
+	- huge issue when it comes to [[wicked problems]] with their multiple [[negative externality|negative externalities]]
+- their key bounded rationality is _doing their jobs_, a thing they will certainly be punished for if they don't do, versus following security procedures: a thing they _may_ get punished for, but whose certainty is less
+- moreover if everyone is doing/not doing something, people tend to go with the flow
+	- so if we want people to check badges, for example, people have to see other people check badges

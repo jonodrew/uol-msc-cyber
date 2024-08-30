@@ -1,0 +1,23 @@
+## notes
+- what a phrase "the world of kinetic effects in international relations" is
+	- it's bombs and guns lads, we're talking about bang bangs
+- I think this is our first introduction to the conception of [[wicked problems]]: problems that can only be managed, not solved
+- or rather, where a solution is too unusable. The only way to 'solve' computer security is to do away with computers, and even then that doesn't solve _information_ security - we've been trying so solve that since forever
+- if you had [Westphalian system](https://en.wikipedia.org/wiki/Westphalian_system) on your bingo card, congratulations!
+	- this is the principle that states have exclusive sovereignty over their own territory
+	- this of course runs into all sorts of problems when we consider the [[Internet]]
+	- but also international humanitarian actions
+- can we learn anything from how we're tackling climate change when we think about governance of the [[IoT]] landscape?
+	- we're tackling climate change?
+- there is a deep divide between international relations and strategic studies literature
+- some people are skeptical that cyber space belongs in the domain of warfare, because nobody's actually getting _murdered_
+	- other people think _those_ people are full of shit, because if you ransomware a hospital and people don't get operations they die
+	- they die just as much as if you'd shot them yourself
+- however, our existing laws around conflict are based on kinetic violence. How do we define 'armed attack' or 'use of force' in computer-aided attacks?
+- thankfully (!) [[IoT]] allows us to return to a problem we've already solved
+- data flows are themselves critical national infrastructure: if they can be disrupted or changed at scale, bad things are entirely possible
+- also, and don't worry too much about the taxonomy here, but if an Alexa is an [[IoT]] device so is a cutesie doll that does the same thing, _except_ the doll manufacturer's never going to be investing as much in security as Amazon. That doll is going to be hackable af
+- the concern is not "what happens if your car locks you in"; it's "what happens if every car on the M25 suddenly takes a sharp right turn"
+- solving these problems, where there's no strong 'center', means we have a multi-polar or polycentric system
+- for a multi-polar system to function, it must have a common language
+	- Simon Wardley's cultural cheat sheet is hoving into view...

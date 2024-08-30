@@ -1,0 +1,1 @@
+A Laplace [[mechanism]] adds noise from a Laplace distribution to the output of a privacy-preserving function.

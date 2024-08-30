@@ -1,0 +1,1 @@
+A type of [[algorithm]]. It produces an independent, random variable when applied to an input

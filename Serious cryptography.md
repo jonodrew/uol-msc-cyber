@@ -15,6 +15,9 @@
 ### Security notions
 Combinations of goals and models
 #### IND-CPA: semantic security and randomised encryption
+
+^ad48d6
+
 - the [[encryption]] function $\mathbf{E}$ should always return two different [[ciphertext|ciphertexts]] for the same [[plaintext]]
 - one way to achieve this is with random bits injected into the function, making encryption a function over a key, a plaintext, and random bits:
 $$C=\mathbf{E}(K,R, P)$$

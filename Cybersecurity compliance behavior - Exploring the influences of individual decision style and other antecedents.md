@@ -1,0 +1,18 @@
+## notes
+- new kind of cybersecurity compliance model!
+- this one focuses on intrinsic factors, such as 'decision styles'
+	- who now
+- I will never get tired of authors citing themselves as if they're someone else
+	- Do you know "Donalds and Osei-Bryan"?
+	- ![[Pasted image 20240810131312.png]]
+- Driver (1979) defines decision making style (DMS) as a habitual pattern individuals use in decision making
+- propose a two-dimensional model, consisting of tolerance for ambiguity/need for structure and idea (action) orientation/value orientation
+- a key claimed factor is "cognitive complexity", which speaks to the axis of high/low tolerance for ambiguity
+- early warning siren happening in my head as we try to establish binaries
+- four types are established
+	- analytical
+	- directive
+	- behavioral
+	- conceptuals
+- DSI (Decision Style Inventory) has a test-retest validity of 0.7, apparently
+- and this can influence individual compliance behaviours

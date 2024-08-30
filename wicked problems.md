@@ -1,0 +1,9 @@
+- Wicked problems defy solutions, because they're simply too complex.
+- In [[Cynefin]] terms, they're complex: they can only be managed through agile, iterative processes
+- Indeed, sometimes the solution becomes part of the problem, or has implications in another part of the system that you didn't expect
+- this is called Life
+- there is a subset of wicked problems that are called 'super wicked problems', such as climate change. They have the following characteristics:
+	- time is running out
+	- there is either no, or a weak, central authority to address the problem
+	- those who caused the problem are also seeking a solution
+	- "hyperbolic discounting occurs that pushes responses irrationally into the future"

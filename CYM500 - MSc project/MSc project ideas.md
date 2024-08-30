@@ -38,3 +38,7 @@
 - proof of concept for publishers to digitally sign books, and for Amazon to not allow unsigned books under an author's name
 - a study/pilot project on the value of [[Software Bill of Materials]]
 - implementing a project using [[Secure by Design]] principles
+- Use of [[fully homomorphic encryption|FHE]] in securing tax/pensions/benefits systems
+	- Is 'giving the answer' a leak of information or the point of the system?
+- Run/fork [[Helios]] for my voluntary work, and give it some love at the same time
+	- "Applying remote voting to the organisation of a small UK company to improve direct democracy"?

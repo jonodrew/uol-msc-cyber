@@ -1,0 +1,15 @@
+## notes
+- introduces the [[Compliance Budget]] as a concept - the idea that people have a kind of internal mental ledger of the costs and benefits of compliance
+- small selection of interviews - only 17 people
+- individual users have a choice (as much as security officers wish they didn't) to comply or not comply, and this choice, being personal, is influenced by the things that influence that person - norms, attitudes, perceptions, and the individuals own goals
+- paper proposes that:
+	- understanding the economics of compliance from the individual point of view allows for clearer routes to influencing their behaviour
+	- compliance is a finite resource (!!) that needs to be carefully managed - and comprises compliance with all friction-generating aspects of the user's work
+	- security is a particularly large 'expense' in these terms
+	- users have a mental model of a 'budget' of compliance, and they weigh cost/benefits of compliance with their immediate context
+	- when they run out of budget (ie: run out of fucks to give) they basically stop
+	- so we need to both reduce the costs, so that users actually spend their budget on 'good' compliance, and also give users a better sense of the actual cost/benefits of compliance
+- another shoutout to [[Grounded Theory]]
+- compliance with no benefit is essentially corporate altruism (!)
+- you can only increase the compliance budget so far - instead, it's better to try to reduce the transaction cost
+- remember that it's perceived cost being considered here - so there's an opportunity to reduce that perceived cost

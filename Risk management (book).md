@@ -1,4 +1,4 @@
-author: [[International Standards Organisation|ISO]]
+author: [[ISO|ISO]]
 A brochure about the risk management approach detailed in [[ISO 31000]]
 
 Recommends:

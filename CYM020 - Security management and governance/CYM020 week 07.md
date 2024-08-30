@@ -10,7 +10,7 @@ This week explores the core legal and regulatory landscape for security manageme
 
 ## reading
 - Introduction and section 1 of [[Law and Regulation Knowledge Area]]
-- [[Accessible and Inclusive Cyber Security]]
+- [[Accessible and Inclusive Cyber Security - a nuanced and complex challenge]]
 - [[How to build a culture of cybersecurity]]
 
 ## Lesson 1: Regulation

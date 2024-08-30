@@ -25,7 +25,7 @@ This is part of the #CyBOK
 	- accessing a particular entry in a messaging directory reveals relationships between users
 - apparently these problems can be mitigated by [[Private Information Retrieval]], more of which in the [[Cryptography Knowledge Area]], which allows a database to be queried without revealing which record is being accessed
 - a similar use-case exists in online shopping, where a server returns information to a user depending on inputs. Shopping patterns may leak information about users, and in such cases [[Oblivious Transfer]] can be used (again, referring back to [[Cryptography Knowledge Area]])
-- these are very specific approaches to these problems. The general solution would be [[homomorphic encryption]]
+- these are very specific approaches to these problems. The general solution would be [[fully homomorphic encryption]]
 - We also consider collaborative computation, where everyone involved in the communication collaborate
 - such applications might include computations with entities one considers an [[attacker|adversary]], and so how do you conduct this effectively?
 	- [[Multi-Party Computation]] (see Lewis' MSc thesis about dead-drops)

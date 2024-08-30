@@ -1,0 +1,1 @@
+Former Technical Director at the [[National Cyber Security Centre|NCSC]], now at [[Amazon]]

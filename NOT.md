@@ -1,0 +1,1 @@
+A logic gate that inverts a signal, ie from 0 -> 1 or 1 -> 0

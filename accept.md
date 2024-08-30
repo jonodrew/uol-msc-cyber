@@ -5,7 +5,7 @@ alias: [tolerate]
 >The decision to accept a risk
 >\- [[ISO Guide 73]]
 
-Thanks [[International Standards Organisation|ISO]]!
+Thanks [[ISO|ISO]]!
 This is categorically not the "do nothing" approach: tolerating a [[risk]] means that you've thought about it, and decided that:
 - the [[impact]] is low enough that it's acceptable if it happens,
 - the [[risk]] is within the organisation's [[risk appetite]]

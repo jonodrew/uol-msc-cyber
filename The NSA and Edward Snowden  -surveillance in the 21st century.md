@@ -1,0 +1,6 @@
+- goes over [[PRISM]]
+- [[Edward Snowden]] used a colleague's [[public key infrastructure|PKI]] certificate and convinced the colleague to input his password
+- apparently he also logged these credentials and had a spider to crawl the internal document store
+- [[Edward Snowden]] relocated to [[Russia]] in 2013
+- oh, the author has _opinions_: "\[...\] lawmakers need to rework [[FISA]] and [[NSA]] protocol to adhere to the Constitution and protect [[US]] citizens from this overreach of power"
+- 😭 jolted by the casual mention of the '[[Russia]]-[[Ukraine]]', only to remember that this has been going on for a decade, since the invasion of Crimea
