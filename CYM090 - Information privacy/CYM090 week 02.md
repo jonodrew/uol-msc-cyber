@@ -1,4 +1,3 @@
-
 ## Reading
 - [[Understanding online anonymity]]
 - [[Why do people seek anonymity on the Internet?]]
